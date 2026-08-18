@@ -1,0 +1,3656 @@
+{
+ "sha": "296dbe390a720a1bce5b7f90e88b5b9324fe4aca59093552c9bd2a90b98b6103",
+ "md5": "fc9daf5abe116a458edf8d994b38550c",
+ "manifest": {
+  "batch_id": "qpower_historical_20260818",
+  "source_files": [
+   "Q Power.pdf"
+  ],
+  "extraction_tool": "Microsoft 365 Copilot, GPT-5 reasoning model",
+  "extracted_utc": "2026-08-18T06:54:27Z",
+  "documents_found": 51,
+  "lines_captured": 9820,
+  "audit_text_layer_diff_tokens": 25,
+  "audit_ocr_surplus_words": 75,
+  "audit_ocr_surplus_material": "letterhead and logo text, raster marks; remainder includes OCR misreading of dense or stylised text"
+ },
+ "facts": {
+  "14020": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "22-Aug-2024",
+   "inv_iso": "2024-08-22",
+   "due_lbl": "5-Sep-2024",
+   "due_iso": "2024-09-05",
+   "corpus_date": "19-Aug-2024",
+   "f1_date": true,
+   "site": "Daybreak Park",
+   "addr": "Daybreak Park Yarrabilba QLD",
+   "order": "CR#3568366 PO704293",
+   "cr": "CR3568366",
+   "po": "PO704293",
+   "officer": "Kahan Helms",
+   "desc": "Work Requested: Attend site to investigate and repair | Barbeques have been vandalised & are not turning on properly Daybreak Park",
+   "works": "Bob Heron + Olivia (19/08/2024) - Work Note | 16/08/24 | Bob/Olivia | Travel to Site- | Tested LHS BBQ. No 240v supply at BBQ. | Tested at Site Main Switch Board, 240v supply available at Main Switch Board. RCBO for LHS was on but no 240v | supply on line side. | swapped out faulty RCBO with a new 20a RCBO. Tested system for a full cycle. All working ok. Switched off after about | 20mins. | also turned on RHS BBQ while on site, all working ok.",
+   "techs": [
+    "Bob Heron + Olivia"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Daybreak Park"
+   ],
+   "sub": 648.0,
+   "gst": 64.8,
+   "tot": 712.8,
+   "pages": "pages 1 to 2 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14043": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "5-Sep-2024",
+   "inv_iso": "2024-09-05",
+   "due_lbl": "19-Sep-2024",
+   "due_iso": "2024-09-19",
+   "corpus_date": "28-Aug-2024",
+   "f1_date": true,
+   "site": "Brushwood Park",
+   "addr": "Brushwood Park Cedar Grove QLD",
+   "order": "CR3571351 PO704293",
+   "cr": "CR3571351",
+   "po": "PO704293",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | Restore the power connection to the toilet block from the Energex power",
+   "works": "Bob Heron + Olivia (23/08/2024) - Work Note | 23/08/24 | Travel to site. | no power at site main switch board. | cable from Energex pole 260858 to Energex pole 114039 (this pole is in the park) has been knocked down during at | storm. | need to contact Energex to reinstate cable. | Contacted Energex- confirmed order- Energex to attend site and re-install overhead | Bob Heron + Olivia (28/08/2024) - Work Note | 28/08/24 | Travel to site | Energex has rerun cable and energised. | confirmed all circuits are ok to put back in service. | found faulty square PE cell and 2ft single Fluro not working. Jess advised to fix under same CR number. Told Jess that | we would let her know when we will be back out to fix. | Order new Light and Sensor | Bob Heron + Olivia (30/08/24) - Work Note | Travel to site | replaced faulty PE cell and 2ft light. | tested and both are working correctly",
+   "techs": [
+    "Bob Heron + Olivia"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Brushwood Park"
+   ],
+   "sub": 1667.47,
+   "gst": 166.75,
+   "tot": 1834.22,
+   "pages": "pages 3 to 4 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14051": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "13-Sep-2024",
+   "inv_iso": "2024-09-13",
+   "due_lbl": "27-Sep-2024",
+   "due_iso": "2024-09-27",
+   "corpus_date": "04-Sep-2024",
+   "f1_date": true,
+   "site": "Shaw Street Oval",
+   "addr": "Shaw Street Yarrabilba QLD",
+   "order": "CR#3556205 PO704293",
+   "cr": "CR3556205",
+   "po": "PO704293",
+   "officer": "Kahn Helms",
+   "desc": "Bob Please complete street light inspection form if it is required. | Work Requested: Attend site to investigate and repair | Please find attached a new customer request for actioning. | PK000412 | Please check tennis court lights are working",
+   "works": "Bob Heron (09/08/2024) - Work Note | 09/08/24 | Bob + Tyler | attended site | tested operation on both courts, lights all working on court 1. One light on court 2(netball) is not working. | checked base of pole and CB is working correctly and 240v available. More than likely is bulb, but could be fitting. | need EWP to confirm/fix light operation | Bob Heron (04/09/2024) - Work Note | 04/09/24 | Bob/Tyler | attended site | used EWP to access light. replaced bulb, all working correctly.",
+   "techs": [
+    "Bob Heron"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Shaw Street Oval"
+   ],
+   "sub": 1370.28,
+   "gst": 137.03,
+   "tot": 1507.31,
+   "pages": "pages 5 to 6 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14052": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "13-Sep-2024",
+   "inv_iso": "2024-09-13",
+   "due_lbl": "27-Sep-2024",
+   "due_iso": "2024-09-27",
+   "corpus_date": "30-Aug-2024",
+   "f1_date": true,
+   "site": "Jimboomba Sports Park",
+   "addr": "South Street Jimboomba QLD",
+   "order": "CR3576643 + 704327",
+   "cr": "CR3576643",
+   "po": "PO704327",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | Investigate Faulty Skate Park Lights 3 or 4 not working",
+   "works": "Bob Heron (30/08/2024) - Work Note | 30/08/24 | bob/olivia | attended site | found 3x lights not working in car park near skate park. Two lights adjacent to south st and one adjacent to toilets and | skate park. | B | tested at each light pole and found that 240v at CB. Need to replace 3x bulbs high pressure sodium. | Bob/Olivia | 6/09/24 | Travel to Site | Replaced 3 x Faulty Lamps, Drawing attached of changed lamps, | All 6 lamps working correctly when left site, | Check Toilet light while onsite all working correctly,",
+   "techs": [
+    "Bob Heron"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [],
+   "sub": 1962.09,
+   "gst": 196.21,
+   "tot": 2158.3,
+   "pages": "pages 7 to 8 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14067": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "23-Sep-2024",
+   "inv_iso": "2024-09-23",
+   "due_lbl": "7-Oct-2024",
+   "due_iso": "2024-10-07",
+   "corpus_date": "23-Sep-2024",
+   "f1_date": false,
+   "site": "Windaroo Peace Memorial Park",
+   "addr": "Carl Heck Boulevard Windaroo QLD",
+   "order": "CR3584810 + 704327",
+   "cr": "CR3584810",
+   "po": "PO704327",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | Customer is reporting all the lights in the ground for the Flag poles are out. Customer has noticed when it rains; the | lights go out and come back on. However, the lights haven't turned back on, and it hasn't rained much. Lights are | located on the ground under the flag poles in the middle, near the end of Carl Heck Boulevard.",
+   "works": "Bob Heron + Tyler (23/09/2024) - Work Note | 23/09/24 | Travel to site. | found faulty PE cell. Has had water ingress. | tested lights and working correctly. | need to replace PE cell. | collected new PE cell and contractor. | returned to site and fitted new PE cell and contractor. Tested system and all working correctly. | the lights turn on at dusk and off at sunrise, as per the PE cell operation.",
+   "techs": [
+    "Bob Heron + Tyler"
+   ],
+   "pk": null,
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Windaroo Peace Memorial Park"
+   ],
+   "sub": 767.71,
+   "gst": 76.77,
+   "tot": 844.48,
+   "pages": "pages 9 to 10 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14100": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "30-Oct-2024",
+   "inv_iso": "2024-10-30",
+   "due_lbl": "13-Nov-2024",
+   "due_iso": "2024-11-13",
+   "corpus_date": "30-Oct-2024",
+   "f1_date": false,
+   "site": "Tully Memorial Park",
+   "addr": "Beryl Pde North Maclean QLD 4280",
+   "order": "CR 3591546 + 704327",
+   "cr": "CR3591546",
+   "po": "PO704327",
+   "officer": "Caitlin Frankcom",
+   "desc": "Work Requested: Attend site to investigate and repair. The lights within the public toilets are not operational at Tully | Memorial Park.",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Tully Memorial Park"
+   ],
+   "sub": 564.0,
+   "gst": 56.4,
+   "tot": 620.4,
+   "pages": "pages 11 to 12 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14102": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "30-Oct-2024",
+   "inv_iso": "2024-10-30",
+   "due_lbl": "13-Nov-2024",
+   "due_iso": "2024-11-13",
+   "corpus_date": "30-Oct-2024",
+   "f1_date": false,
+   "site": "Doug Larsen Park / Beenleigh BMX Park",
+   "addr": "41 Logan Street Beenleigh QLD 4207",
+   "order": "CR 3597067 + 704327",
+   "cr": "CR3597067",
+   "po": "PO704327",
+   "officer": "Kahn Helms",
+   "desc": "Work Requested: Attend site to investigate and repair | At the BMX track in the park, there are 3 different lights not working. | 2 x light posts completely out above the old concrete half pipe and above the mini spine light post with 3 of the 4 bulbs | not working properly. | This can have some serious safety concerns as it casts shadows over certain parts on the ramps reducing visibility and | timing.",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "sub": 564.0,
+   "gst": 56.4,
+   "tot": 620.4,
+   "pages": "pages 13 to 14 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14137": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "26-Nov-2024",
+   "inv_iso": "2024-11-26",
+   "due_lbl": "10-Dec-2024",
+   "due_iso": "2024-12-10",
+   "corpus_date": "14-Nov-2024",
+   "f1_date": true,
+   "site": "Forest of Memories - Logan Village",
+   "addr": "Logan Village QLD 4207",
+   "order": "702603 - CR3611195",
+   "cr": "CR3611195",
+   "po": "PO702603",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and check operation of lights. | PK000412 | Please attend Forest of Memories and check electricals, asap this may need to do this at dusk to test lights. | (PLEASE NOTE: This is across the road from the Pub)",
+   "works": "Heath Young + Olivia - (14/11/2024) - Work Note | Works Completed: | located mains cable feeding MSB aerial fallen down from top pole. See attached photo Energex pole number. Fallen | down between pole 850546 and 852431 to property pole where MSB is located | Investigated all light issues in the forest of memories park. | On arrival found x1 circuit labelled BBQ 2 tripped In MSB. Reset breaker and found BBQ 2 also feeds a flood light and | pe cell mounted to a pole - ( Pole no2 ) as per attached drawing. Disconnected light n02 on pole no2 inside of pole and | installed x1 out of service tag. | Tripping suspected to be caused by PE cell full of water mounted on top of pole no2 beside flood light. Visually appears | voltage is tracking with in PE cell causing a couple of LED modules to stay on permanently with in light. | found light above MSB mounted to pole - pole No1 on drawing. Not operating. Potentially age is a contributing factor. | Fish eye PE cell mounted to control box. Light Could operate however could not test due to height of light and unstable | ground - very wet. | investigated memorial area solider lights not operating. | Located sub board fed from MSB as per drawing no2. | Found main switch in the sub board that feeds the ELV soldier lights tagged out with a do not operate tag. Labelled with | faulty lights. | found a second cable with in board tagged with a do not operate tag labelled - A-E / N-E fault on cable causes RCD to | trip cannot locate end of run or sign. | Updated Client: | Client to be advised on finding and recommend a solution to fix / fault find | Follow Up Required: | follow up with contact at LCC. | Suggest that pole N02 PE cell and light to be replaced with new. PE cell type moved to a more serviceable location. | Suggest that if possible to seperate BBQ circuit to be separated from light on pole. | pole no1 light, to be replaced with a new suitable LED light and Pe cell moved to a more serviceable location. | further investigation of sub board controlling solider lights . | Use locator to locate end of tagged out cable labelled sign - repair and reconnect. | Fault find lighting control issues + test lights to see what is operating and what has failed .",
+   "techs": [
+    "Heath Young + Olivia -"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [],
+   "sub": 705.0,
+   "gst": 70.5,
+   "tot": 775.5,
+   "pages": "pages 15 to 17 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14133": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "26-Nov-2024",
+   "inv_iso": "2024-11-26",
+   "due_lbl": "10-Dec-2024",
+   "due_iso": "2024-12-10",
+   "corpus_date": "20-Nov-2024",
+   "f1_date": true,
+   "site": "Riverdale Park",
+   "addr": "Riverdale Park Evans Road Meadowbrook QLD 4131",
+   "order": "704327 CR3614437",
+   "cr": "CR3614437",
+   "po": "PO704327",
+   "officer": "Rene Harreman (LCC PARKS)",
+   "desc": "Work Requested: Attend site to investigate and repair | One of the BBQs near the new playground has water coming out of the power socket. | We have turned the BBQ off. | Please send someone to take a look.",
+   "works": "Heath Young + Jacob Crowdey (20/11/2024) - Work Note | Works Completed: | Travelled to Site | Inspected water coming out of GPO for bbqs. Located pits full of water causing water to drain out through the conduit | into the GPOs. Pit is on a hill above level of bbq. | rectified issue for bbq 1 and bbq 2 by cutting back flex conduit and installing a drip loop. | replaced GPOs with new and changed cable entry to pressure glands to stop water travelling into GPOs. | Tested GPOs for operation. | Material Used: | X2 56 series 15 A GPOs | x2 25 mm pressure glands",
+   "techs": [
+    "Heath Young + Jacob Crowdey"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Riverdale Park"
+   ],
+   "sub": 1085.76,
+   "gst": 108.58,
+   "tot": 1194.34,
+   "pages": "pages 18 to 19 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14150": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "29-Nov-2024",
+   "inv_iso": "2024-11-29",
+   "due_lbl": "13-Dec-2024",
+   "due_iso": "2024-12-13",
+   "corpus_date": "29-Nov-2024",
+   "f1_date": false,
+   "site": "Shaw Street Oval",
+   "addr": "Shaw Street Yarrabilba QLD",
+   "order": "704327 CR3610494",
+   "cr": "CR3610494",
+   "po": "PO704327",
+   "officer": null,
+   "desc": "2410-5859 - SHAW ST TENNIS COURT - BULB REPLACMENT | 1. SCOPE OF WORK: | Inclusions: | - Supply and install 7x Metal Halide 1000W GES 4000K BT37/120 | - Supply Trailer mount EWP Hire | - Site set up, including isolation and commissioning. | - Wipe down light fitting to clean from cobwebs. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Shaw Street Oval"
+   ],
+   "sub": 3252.4,
+   "gst": 325.24,
+   "tot": 3577.64,
+   "pages": "pages 20 to 21 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14174": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "18-Dec-2024",
+   "inv_iso": "2024-12-18",
+   "due_lbl": "1-Jan-2025",
+   "due_iso": "2025-01-01",
+   "corpus_date": "11-Dec-2024",
+   "f1_date": true,
+   "site": "Stoneleigh Reserve Park",
+   "addr": "Stoneleigh Reserve Park Logan Reserve QLD 4133",
+   "order": "704327 CR3623160",
+   "cr": "CR3623160",
+   "po": "PO704327",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000415 | Please attend and repair hinges on powerbox. Photo attached.",
+   "works": "Carl Weir (10/12/2024) - Work Note | Travel to site and isolate power before removing old enclosure. | Measured up enclosure and source new enclosure from wholesaler | Carl Weir (11/12/2024) - Work Note | Works Completed: | Travel to site and locate broken enclosure box. Isolate power and dismantle 3 phase outlet. Remove outlet and old | enclosure. Drill access hole in new box and attach to side of switchboard. Silicone gaps and re terminate 3 phase outlet. | Test and commission on completion. Travel to haymans for locking latch and Energex padlock. Return to site and attach | latch and padlock. | Material Used: | Metal enclosure from ae stainless through L and H. Metal security latch | Energex padlock - 26900 padlock | Updated Client: | No. | Follow Up Required: | No. | Email Service Manager (Bob) that site is completed. | Yes.",
+   "techs": [
+    "Carl Weir"
+   ],
+   "pk": "PK000415",
+   "svc": null,
+   "gaz_sites": [
+    "Stoneleigh Reserve Park"
+   ],
+   "sub": 1187.11,
+   "gst": 118.71,
+   "tot": 1305.82,
+   "pages": "pages 22 to 23 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14170": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "18-Dec-2024",
+   "inv_iso": "2024-12-18",
+   "due_lbl": "1-Jan-2025",
+   "due_iso": "2025-01-01",
+   "corpus_date": "16-Dec-2024",
+   "f1_date": true,
+   "site": "Homestead Park",
+   "addr": "Jodie Street Shailer Park QLD 4128",
+   "order": "704327 CR3627321",
+   "cr": "CR3627321",
+   "po": "PO704327",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Please urgently attend to Homestead Park, Shailer Park to address the issue with the lighting | outside of the toilet block (no photos supplied).",
+   "works": "Bob Heron + Jacob (16/12/2024) - Work Note | Works Completed: | Bob/Jacob | Attended site and found two outside batten lights were damaged beyond repair, with one having a faulty capacitor. one | batten light in the disabled toilet had a faulty fluro. All lights were on permanently. Bugs were found in both outside | lights. The lights were replaced with LED vandal proof batten lights 1200mm for outside and 600mm inside. Silicone in | entry holes of all battens to prevent ingress of bugs. | Located toilet sub board behind roller door at the back of the toilet block. Found the power and lighting circuits were | labeled incorrectly and board was missing pole fillers. Timer was on manual so lights were running 24/7. Switched | around RCBOs to suit the existing labels and added pole fillers. Set timer back to auto, running from 5:00pm to 5:30am | Test and commission lights and put timer back to auto. | Material Used: | 2x 1200mm vandal proof batten light | 1x 600mm vandal proof batten light | fixings - screws, silicone | 3x pole fillers | Updated Client: | N/A | Follow Up Required: | Job completed | Email Service Manager (Bob) that site is completed.",
+   "techs": [
+    "Bob Heron + Jacob"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Homestead Park"
+   ],
+   "sub": 1263.68,
+   "gst": 126.37,
+   "tot": 1390.05,
+   "pages": "pages 24 to 25 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14190": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "20-Dec-2024",
+   "inv_iso": "2024-12-20",
+   "due_lbl": "3-Jan-2025",
+   "due_iso": "2025-01-03",
+   "corpus_date": "05-Dec-2024",
+   "f1_date": true,
+   "site": "Flindersia Riverside Park",
+   "addr": "Flindersia Riverside Park Logan Reserve QLD 4133",
+   "order": "704327 CR3621166",
+   "cr": "CR3621166",
+   "po": "PO704327",
+   "officer": "Caitlin Frankcom",
+   "desc": "Work Requested: Attend site to investigate and repair | PK00018 | Electrical Light mounting situated under shelter shed hanging off the roof. | attend site and see if light can be refixed or if replacement is required. please make site safe if new light is required.",
+   "works": "Carl Weir + Tyler Kidd (05/12/2024) - Work Note | Works Completed: | Attend site and locate damaged light. Make sure it\u2019s left safe. Vandalised beyond repair. Attend Wholesalers for | replacement. Head back to site, isolate lighting circuit and re fit new light. Test and commission on completion. | Install Padlock on switchboard | Material Used: | 1 x vandal proof SAL batten led light. | 1 x energex lock. | Updated Client: | No | Follow Up Required: | No | Email Service Manager (Bob) that site is completed. | Yes",
+   "techs": [
+    "Carl Weir + Tyler Kidd"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Flindersia Riverside Park"
+   ],
+   "sub": 1012.95,
+   "gst": 101.3,
+   "tot": 1114.25,
+   "pages": "pages 26 to 27 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14206": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "10-Jan-2025",
+   "inv_iso": "2025-01-10",
+   "due_lbl": "24-Jan-2025",
+   "due_iso": "2025-01-24",
+   "corpus_date": "06-Jan-2025",
+   "f1_date": true,
+   "site": "125 City Road Beenleigh",
+   "addr": null,
+   "order": "CR3635066 + 704327",
+   "cr": "CR3635066",
+   "po": "PO704327",
+   "officer": "Rene Harreman",
+   "desc": "Work Requested: Attend site to investigate and repair",
+   "works": "Heath Young + Jacob Crowdey (08/01/2025) - Work Note | Works Completed: | Damaged double weatherproof GPO, replaced with new GPO, tested operation/polarity, completed | Material Used: | Legran weatherproof gpo | Updated Client: | Client to be updated on completion | Site Visit 1 - Heath Young + Jacob Crowdey (06/01/2025) - Work Note | Works Completed: | Attended site and inspected damaged GPO. | GPO requires replacement. | Power point is a double Legrand catalogue no 077895. | Locked circuit out. | Spoke with Grant at L&H and will be advised on availability and will order once he gets back to me. | Material Used: | Na | Updated Client: | Client to be advised that GPO is going to be ordered like for like. Lead time will be emailed through once known. | Follow Up Required: | Re attend and replace double GPO on seat in front of Hiya health. | Email Service Manager (Bob) that site is completed.",
+   "techs": [
+    "Heath Young + Jacob Crowdey",
+    "Site Visit 1 - Heath Young + Jacob Crowdey"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [],
+   "sub": 1331.25,
+   "gst": 133.13,
+   "tot": 1464.38,
+   "pages": "pages 28 to 29 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14207": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "10-Jan-2025",
+   "inv_iso": "2025-01-10",
+   "due_lbl": "24-Jan-2025",
+   "due_iso": "2025-01-24",
+   "corpus_date": "07-Jan-2025",
+   "f1_date": true,
+   "site": "Flagstone Parklands",
+   "addr": "Flagstonian Drive New Beith QLD",
+   "order": "CR# 3636144 + 704327",
+   "cr": "CR3636144",
+   "po": "PO704327",
+   "officer": "Corey Stoops",
+   "desc": "Work Requested: Attend site to investigate and repair | Damage to meter box. Exposed wires, requires repair | Damaged HPM PE Cell",
+   "works": "Heath Young + Jacob Crowdey (07/01/2025) - Work Note | Works Completed: | Travel to Site - Inspected damaged PE cell located on side of switch board. Replaced PE cell with new HPM and tested | PE cell for operation. | Material Used: | X1 HPM PO cell collected on PO | Silicone to seal PE Cell",
+   "techs": [
+    "Heath Young + Jacob Crowdey"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Flagstone Parklands"
+   ],
+   "sub": 644.74,
+   "gst": 64.47,
+   "tot": 709.21,
+   "pages": "pages 30 to 31 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14231": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "30-Jan-2025",
+   "inv_iso": "2025-01-30",
+   "due_lbl": "13-Feb-2025",
+   "due_iso": "2025-02-13",
+   "corpus_date": "22-Jan-2025",
+   "f1_date": true,
+   "site": "Logan River Parklands Beenleigh",
+   "addr": "Blackbird St and River Hills Rd Beenleigh QLD 4207",
+   "order": "704327",
+   "cr": null,
+   "po": "PO704327",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | Notes from council ; | Good Morning | Council\u2019s Public Lighting team have advised this request needs to go to Parks, as our branch only look after the \u201cRed | Bridge\u201d not the lights in the actual park. | Notes from Resident ; | lights that are off and not working at LOGAN RIVER PARKLANDS Pacific Highway in Eagleby. All of the lights are not | working and it is a safety hazard",
+   "works": "Heath Young (22/01/2025) - Work Note | Works Completed: | Investigated lights not operating in Logan River parklands. | Located MSB beside public toilet block. | Found PE cell on side of MSB not operating. | Replaced PE cell and tested control circuit for operation and all operates. | Inspected all lights in park and found x2 Poles that have x2 light heads each. | Both poles were found to have 1 of 2 lights failed. | Visually inspected failed light heads from ground level and lights appear to be at end of life. Visual signs of corrosion to | exterior of fitting. | Poles are large and are approx 9 - 10 M high | Lights on top of Pole will be required to light up a large area see overview photos. | Inspected site for EWP access. Access can be made from Car park entrance in front of toilet block. | See light / site layout mud map attached. | Material Used: | X1 HPM square PE cell - van stock | Updated Client: | Client to be notified that toilet block lights and half lights on Poles are operating for time being. | Client to be quoted on x4 New light fittings. | Follow Up Required: | Quote for the below | X1 4x4 EWP capable of reaching 9- 10 M high | X4 LED light heads 2 for each pole. | X2 minor / major road panels | Factor in cable to quote to split each light head at bottom of Poles so that individual lights can be isolated. Approx 20 M | of 2.5 mm Twin and earth.",
+   "techs": [
+    "Heath Young"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Logan River Parklands"
+   ],
+   "sub": 630.02,
+   "gst": 63.0,
+   "tot": 693.02,
+   "pages": "pages 32 to 34 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14259": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "21-Feb-2025",
+   "inv_iso": "2025-02-21",
+   "due_lbl": "7-Mar-2025",
+   "due_iso": "2025-03-07",
+   "corpus_date": "07-Feb-2025",
+   "f1_date": true,
+   "site": "Flagstone Water Play Park",
+   "addr": "Flagstonian Drive Undullah QLD 4285",
+   "order": "CR 3650613 - 704327",
+   "cr": "CR3650613",
+   "po": "PO704327",
+   "officer": "Aisha Wilson",
+   "desc": "Work Requested: Attend site to investigate and repair | Damage to electrical box in the dog water play are. could be past the waterplay park?",
+   "works": "Jayden Balarezo (13/02/2025) - Work Note | Works Completed: | Removed old damaged handle and lock with new handle and lockable attachment to hold door down, replaced P1 lock | with new P1 lock. | Material Used: | 1x P1 lock | 1x handle and lockable attachment LH7CPL | Updated Client: | NO | Follow Up Required: | NO | Email Service Manager (Bob) that site is completed. | YES | Jayden Balarezo (07/02/2025) - Work Note | Works Completed: | Measured new handle, lockable attachment for pillar. Handle has been snapped off box and hanging by a rusted bolt. | Requires a new handle and lock attachment for lock. P1 lock also corroded and key gets stuck inside when unlocking. | Photo of measurements in photos attached | Back of handle adjustment missed inside of pillar that locks door shut will require one with handle. | Material Used: | NA | Updated Client: | NO | Follow Up Required: | YES | requires | 1x door handle (unsure brand of handle) | 1x lockable attachment | 1x p1 lock | Email Service Manager (Bob) that site is completed. | Yes",
+   "techs": [
+    "Jayden Balarezo"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Flagstone Water Play"
+   ],
+   "sub": 851.89,
+   "gst": 85.19,
+   "tot": 937.08,
+   "pages": "pages 35 to 37 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14257": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "21-Feb-2025",
+   "inv_iso": "2025-02-21",
+   "due_lbl": "7-Mar-2025",
+   "due_iso": "2025-03-07",
+   "corpus_date": "11-Feb-2025",
+   "f1_date": true,
+   "site": "Sturdee Park, Loganlea",
+   "addr": "Station Rd Loganlea QLD 4131",
+   "order": "704327",
+   "cr": null,
+   "po": "PO704327",
+   "officer": "Jess Burke.",
+   "desc": "Work Requested: Attend site to Remove and make safe. | Remove damaged charging station, isolate GPO supply and remove cabling from RCBO, make safe. Cut down posts to | below ground level and concrete over.",
+   "works": "Jayden Balarezo (11/02/2025) - Work Note | Works Completed: | Disconnected charging station GPO out of MSB. Cut steel posts off to under ground level and concreted to concrete | level, cut orange conduit down to ground level and siliconed hole. | Material Used: | 1x bag of concrete | Updated Client: | NO | Follow Up Required: | Email Service Manager (Bob) that site is completed. | Yes",
+   "techs": [
+    "Jayden Balarezo"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Sturdee Park"
+   ],
+   "sub": 708.0,
+   "gst": 70.8,
+   "tot": 778.8,
+   "pages": "pages 38 to 39 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14262": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "21-Feb-2025",
+   "inv_iso": "2025-02-21",
+   "due_lbl": "7-Mar-2025",
+   "due_iso": "2025-03-07",
+   "corpus_date": "12-Feb-2025",
+   "f1_date": true,
+   "site": "Tudor Park",
+   "addr": "Tudor Park Loganholme QLD 4129",
+   "order": "CR 3652780 + 704327",
+   "cr": "CR3652780",
+   "po": "PO704327",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | Toilet Lights not working, investigate.",
+   "works": "Jayden Balarezo (11/02/2025) - Work Note | Works Completed: | Inspected lights at toilet block and digital timer inside sub board. Manually turned timer on and lights still not working. | Inspected light fittings and had 240v at each light. Light bulbs blown and need replacing. | Material Used: | NA | Updated Client: | No | Follow Up Required: | YES | 8x SAL | LT409/65E27 | to replace light bulbs | Email Service Manager (Bob) that site is completed. | Yes | Jayden Balarezo (12/02/2025) - Work Note | Works Completed: | Installed 8 new light bulbs into light fittings inside disable toilet, 2 in men\u2019s toilet, 2 in ladies toilet, 1 light outside and | inside sub board room. Tested and working. Timer is set for from 5pm to 3am overnight causing light bulbs to lose life | quickly. Timer needs usb to change setting. | Material Used: | 8x SAL light bulbs | Updated | No | Follow Up Required: | Follow up required to change timer setting to decrease time lights are on at night. | Email Service Manager (Bob) that site is completed. | Yes",
+   "techs": [
+    "Jayden Balarezo"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Tudor Park"
+   ],
+   "sub": 911.52,
+   "gst": 91.15,
+   "tot": 1002.67,
+   "pages": "pages 40 to 42 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14282": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "28-Feb-2025",
+   "inv_iso": "2025-02-28",
+   "due_lbl": "14-Mar-2025",
+   "due_iso": "2025-03-14",
+   "corpus_date": "28-Feb-2025",
+   "f1_date": false,
+   "site": "Logan Gardens",
+   "addr": "Logan QLD",
+   "order": "CR3609004 + PO704327",
+   "cr": "CR3609004",
+   "po": "PO704327",
+   "officer": null,
+   "desc": "2412-5885 - LOGAN GARDENS - REPLACE DAMAGED UPLIGHT | 1. SCOPE OF WORK: | Inclusions: | - Remove Damaged inground light. | - Remove existing enclosure - filled with resin. | - Supply and Install 30W inground light 210mm, using concrete to secure base. | - Supply and Install IP rated enclosure for Terminations, including cable. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Logan Gardens"
+   ],
+   "sub": 1073.4,
+   "gst": 107.34,
+   "tot": 1180.74,
+   "pages": "pages 43 to 44 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14280": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "28-Feb-2025",
+   "inv_iso": "2025-02-28",
+   "due_lbl": "14-Mar-2025",
+   "due_iso": "2025-03-14",
+   "corpus_date": "20-Feb-2025",
+   "f1_date": true,
+   "site": "Crestmead Park",
+   "addr": "Crestmead Park - Gimlet Street and Crinum Street Crestmead QLD 4132",
+   "order": "CR 3660389 - 704327",
+   "cr": "CR3660389",
+   "po": "PO704327",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and repair. sounds like a pit lid missing. | PK000412 | Lights in the park, the box or pit that is connected to the lights are exposed now. The wires are exposed, he has put a | manhole cover over it also to make it safe for the mean time. It is closer to the dog leash area along the footpath.",
+   "works": "Heath Young + Olivia (20/02/2025) - Work Note | Works Completed: | Attended site and located stolen cables from pits. | Located MSB on park entrance corner of crinum st and kerria St. | Made safe and locked out cabling to lights. | Back bone cabling stolen and bell joints cut out | Gathered information | Light poles internal have major road panels installed. | Pits have 40 mm lconduits leading in out to each pit | Lights have x1 40 mm conduit leading to light from pit | Back bone had 16 Mm 3 phase cabling + earth | From back bone belljoint to light is 6mm single phase + earth. | Back bone Distance from MSB to last light is 166 M - MINUS Factoring. | Pole numbers | 3665593 mortar around base damaged | 3665592 | 3665591 | 3665590 | 3665589 mortar around base damaged | 3655588 - mortar around base damaged + new pit lid required - p4 ? Dimensions are 345 X 650 | See attached layout of lights and pole numbers | Follow Up Required: | Quote required | 166 M 3 phase 16mm + allowance required for new belljoints. | Approx 5M of 6mm + earth per light from bell joint in pit to light X6 lights in total | 2 M of Resin core heat shrink - for soldered connections. Unless we upgrade bell joints size then active links. | X7 Bell joints",
+   "techs": [
+    "Heath Young + Olivia"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Crestmead Park"
+   ],
+   "sub": 680.0,
+   "gst": 68.0,
+   "tot": 748.0,
+   "pages": "pages 45 to 46 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14276": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "28-Feb-2025",
+   "inv_iso": "2025-02-28",
+   "due_lbl": "14-Mar-2025",
+   "due_iso": "2025-03-14",
+   "corpus_date": "25-Feb-2025",
+   "f1_date": true,
+   "site": "Underwood Park",
+   "addr": "982-1006 Underwood Road Priestdale QLD 4127",
+   "order": "CR3662678 + PO704327",
+   "cr": "CR3662678",
+   "po": "PO704327",
+   "officer": "Corey Stoops",
+   "desc": "Work Requested: Attend site to investigate and repair | Please repair the damaged meter box near BMX track | PK000412",
+   "works": "Jayden Balarezo + Olivia (25/02/2025) - Work Note | Works Completed: | Inspected SWB, damaged door and conduit, measurements in photos, Main switch bottom terminals damaged out of | main switch. Began locating mains cable from swb to pole next to BMX start gate. Point to point tested with no continuity | between cables from swb to pole, suspecting cut somewhere in pit when de commissioned. Location of mains from MSB | to sub boards not found from locator. No signs of cables in pits that were found. Requires underground locations | markings to be found. Repaired lock bar on SWB mounting bracket. Replaced P1 lock. | No voltage on either line and load side of main switch. | Material Used: | 1x P1 lock",
+   "techs": [
+    "Jayden Balarezo + Olivia"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Underwood Park"
+   ],
+   "sub": 947.75,
+   "gst": 94.78,
+   "tot": 1042.53,
+   "pages": "pages 47 to 48 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14275": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "28-Feb-2025",
+   "inv_iso": "2025-02-28",
+   "due_lbl": "14-Mar-2025",
+   "due_iso": "2025-03-14",
+   "corpus_date": "25-Feb-2025",
+   "f1_date": true,
+   "site": "Doug Larsen Park / Beenleigh BMX Park",
+   "addr": "41 Logan Street Beenleigh QLD 4207",
+   "order": "CR 3662605 + PO704327",
+   "cr": "CR3662605",
+   "po": "PO704327",
+   "officer": "Rene Harreman",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | The power box is screwed shut. Please remove screws and replace missing bar with lock. | check Meter Board. we will need use one Energex lock and one P1. | get picture of meter and board. confirm operation.",
+   "works": "Jayden Balarezo + Olivia, (25/02/2025) - Work Note | Works Completed: | Measure up lockable bat for switch board door. Cut and drilled out hole for the bar. Inspected inside switch board found | no meter. Had 240 volts line and load side of the main switch. Had 240 volts load side of final sub circuit. Measured for | new switch board door 680 length and 480 width band of door is B&R. Installed bar, locks and hex screw back in | Material Used: | 1x gal 1 meter hollow bar | 2x P1 locks | Updated Client: | Yes | Follow Up Required: | Yes replace damaged switch board door | length: 680mm | width: 480 mm | brand: B&R",
+   "techs": [
+    "Jayden Balarezo + Olivia,"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "sub": 887.27,
+   "gst": 88.73,
+   "tot": 976.0,
+   "pages": "pages 49 to 50 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14290": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "14-Mar-2025",
+   "inv_iso": "2025-03-14",
+   "due_lbl": "28-Mar-2025",
+   "due_iso": "2025-03-28",
+   "corpus_date": "15-Jan-2025",
+   "f1_date": true,
+   "site": "Carvers Park, Park Ridge",
+   "addr": "Carvers Park Park Ridge QLD",
+   "order": "704327 - CR3639799",
+   "cr": "CR3639799",
+   "po": "PO704327",
+   "officer": "Jess Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Please attend to Lights in toilet and BBQ area broken.",
+   "works": "Heath Young + Olivia (15/01/2025) - Work Note | Works Completed: | Investigated lights not working in toilet block and bbq areas. | Located MSB road side of carvers way and cypress St. | Found main switch and all circuits switched off. Switched back on and tested for operation. Note MSB does not have a | 26900 lock suspect a local may have turned off. | MSB feeds camera pole which contains a suboard that feeds x2 BBQs, lights and camera pole. LHS half of Park. | MSB also feeds to a suboard located beside playground RHS park. Suboard feeds toilet block and another x2 bbqs and | lights RHS of Park. | Located and Tested PE cell located in between x2 shades structures up high and all is working on LHS of Park. | Located and tested PE cell located invetween x2 shade structures up high and all is operating RHS of Park. | Investigated toilet lights not operating and found suboard internal of toilet block maintenance area. Found all circuits | switched off. Re turned on and tested PE cell internal toilet block for operation and PE cell operates. | Located RHS of park damaged switchboard door. Missing latch and heavily bent. | Located in toilet block RHS of Park failed vandalite batton. Middle toilet. | Updated Client: | May need to ask Parks to see if they want us to repair suboard door. Note kids have thrown sand from Park into switch | board. | Follow Up Required: | Attend with x1 26900 energex lock for MSB. | Attend with x1 600 mm pier light Vandaled or similar for middle toilet. | Attend with x1 B&R stainless steel switchboard door. | Heath Young + Olivia (31/01/2025) - Work Note | Works Completed: | Replaced failed light in bathroom block. Tested all lights for operation. | Material Used: | X1 Sal vandal proof light - On po | Updated Client: | Client to be advised lights are operating | Follow Up Required: | As per other works | Email Service Manager (Bob) that site is completed. | Heath Young + Olivia (12/03/2025) - Work Note | Works Completed: | Attended site and installed x2 latches and locks for Suboard toilet block side and replaced switch board door like for like. | Vaccumed sand from internal of switchboard. | Installed x2 locks and latches on MSB | Tested all for fitment. | Material Used: | X4 locking latches | X4 26900 energex locks | Updated Client: | Client to be advised works are completed.",
+   "techs": [
+    "Heath Young + Olivia"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Carvers Park"
+   ],
+   "sub": 2624.65,
+   "gst": 262.47,
+   "tot": 2887.12,
+   "pages": "pages 51 to 53 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14294": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "17-Mar-2025",
+   "inv_iso": "2025-03-17",
+   "due_lbl": "31-Mar-2025",
+   "due_iso": "2025-03-31",
+   "corpus_date": "24-Feb-2025",
+   "f1_date": true,
+   "site": "Logan Village Green",
+   "addr": "Logan Street Logan Village QLD 4207",
+   "order": "CR 3659529 + 704327",
+   "cr": "CR3659529",
+   "po": "PO704327",
+   "officer": "Kahn Helms",
+   "desc": "Work Requested: Attend site to investigate why lights on 24hrs | PK000412 | Please investigate why skatepark lights and some of the footpath lights are constantly on",
+   "works": "Jayden Balarezo + Olivia (24/02/2025) - Work Note | Works Completed: | Investigated skate park lighting permanently on, found digital timer has been put into overdrive leaving the lights on. | Removed overdrive and tested timer with new time 1:10pm to 1:15pm to confirm timer is turning on and off, Tested | operation of PE cell for pathway lights and confirmed both working correctly. Padlock and handle for SWB has been | snapped off to get into board and will need replacing. Timer for skatepark lights are now set to 5pm-10:30pm Monday to | Sunday. | Material Used: | NA | Updated Client: | NO | Follow Up Required: | YES follow up required replacing lock and handle for SWB | 1x P1 padlock | 1x door handle | Email Service Manager (Bob) that site is completed. | Yes | Heath Young + Olivia (03/03/2025) - Work Note | Works Completed: | Attended site and replaced damage lock with a new flush mount option. Tested lock for fitment. | Found timer control schedule completely cleared. Reset time and tested for operation. | Material Used: | X1 lock collected from AE stainless supplier | Updated Client: | Client to be advised lock install completed | Follow Up Required: | Change lock type to P1 or Energex lock | Email Service Manager (Bob) that site is completed.",
+   "techs": [
+    "Jayden Balarezo + Olivia",
+    "Heath Young + Olivia"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Logan Village Green"
+   ],
+   "sub": 915.93,
+   "gst": 91.59,
+   "tot": 1007.52,
+   "pages": "pages 54 to 56 of Q Power.pdf",
+   "npages": 3,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14295": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "24-Mar-2025",
+   "inv_iso": "2025-03-24",
+   "due_lbl": "7-Apr-2025",
+   "due_iso": "2025-04-07",
+   "corpus_date": "14-Mar-2025",
+   "f1_date": true,
+   "site": "Forest of Memories - Logan Village",
+   "addr": "Logan Village QLD 4207",
+   "order": "CR3671716 - 704327",
+   "cr": "CR3671716",
+   "po": "PO704327",
+   "officer": "Melina Turpin",
+   "desc": "Work Requested: Attend site to investigate and repair | Quote to repair Forest of Memories prior to Anzac Day",
+   "works": "Heath Young (14/03/2025) - Work Note | Works Completed: | Inspected lights not working. | Located x4 lights out of 15 lights operating. | X1 dali controller found to have failed. | X1 RGB light missing from soldier light. | Water throughout lights that are not working. | Measured all light boxes and attached to job | Photos of all drivers and light brands attached to job | Material Used: | Na | Updated Client: | Client to be quoted | Follow Up Required: | Return with all new LED uplights, Dali controllers. | Not to remember the modules for the lights for colours will be needed. | See attached photos of the x2 different lights that have been previously installed. | Pe cell on board is heavily weathered and may be best to replace when lights are installed. | Time allocated to clean board up and neaten. | Plus time lifting structures over lights off. | Email Service Manager (Bob) that site is completed.",
+   "techs": [
+    "Heath Young"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [],
+   "sub": 880.0,
+   "gst": 88.0,
+   "tot": 968.0,
+   "pages": "pages 57 to 58 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14308": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "26-Mar-2025",
+   "inv_iso": "2025-03-26",
+   "due_lbl": "9-Apr-2025",
+   "due_iso": "2025-04-09",
+   "corpus_date": "21-Mar-2025",
+   "f1_date": true,
+   "site": "Conquest Park",
+   "addr": "Flagston QLD 4280",
+   "order": "CR 3675531 - 704327",
+   "cr": "CR3675531",
+   "po": "PO704327",
+   "officer": "Celeste Fry",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Light flickering by the pirate ship play area \u2013 please investigate",
+   "works": "Heath Young + Tyler (21/03/2025) - Work Note | Works Completed: | Attended site and investigated flickering lights in park. Located x2 pole lights controlled individually with PE cells on light | fitting. | Switchboard is located corner of park on Mitchell St. | Tested lights and all operates. Could not run lights for more than a minute due to pe cell up on light fittings. | Located un suitable and non compliant soldered and taped connections within poles. Removed connections and | installed x2 minor road panels with CBs. | Switchboard was missing a a 26900 lock. Installed new lock so that switchboard is properly secured. | Switchboard was found to not be labelled. Installed new labels, main switch, hotplate and light. | Material Used: | X2 Minor road panels | X1 26900 energex lock | X3 switchboard labels. | Updated Client: | Client to be updated | Follow Up Required: | Follow Up with council. Switchboard and lights within park are missing LCC asset labels. | Email Service Manager (Bob) that site is completed.",
+   "techs": [
+    "Heath Young + Tyler"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Conquest Park"
+   ],
+   "sub": 857.55,
+   "gst": 85.76,
+   "tot": 943.31,
+   "pages": "pages 59 to 60 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14321": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "31-Mar-2025",
+   "inv_iso": "2025-03-31",
+   "due_lbl": "14-Apr-2025",
+   "due_iso": "2025-04-14",
+   "corpus_date": "31-Mar-2025",
+   "f1_date": false,
+   "site": "Flindersia Riverside Park",
+   "addr": "Flindersia Riverside Park Logan Reserve QLD 4133",
+   "order": "CR 3676362 - 704327",
+   "cr": "CR3676362",
+   "po": "PO704327",
+   "officer": "Celeste Fry",
+   "desc": "Work Requested: Attend site to investigate and repair | Jayden, | check operation of light sensor. this circuit will need to be on the timer so no light after 8pm | PK000508918.46 | the case | evening | light Baby | or | since | night | Change | the | that | power | Itoilet | lookwas | compartment | outrestored | over to the | after | was | toilet | TC | ONblock | Alfred. | and that | I have | - please | thisnoticed | light | investigate | isthat | always | no matter | ON. This | what | hastime | only | ofbeen",
+   "works": "Jayden Balarezo + Heath Young (27/03/2025) - Work Note | Works Completed: | Inspected sensor light inside disabled toilet, installed new contactor inside MSB to be on until 8pm, re adjusted sensor | light to half sensitivity once door opens to turn on and stay on for 5 minutes. Tested operation and working correctly | Material Used: | 1x 25A hager contactor | 1M 2.5mm tps",
+   "techs": [
+    "Jayden Balarezo + Heath Young"
+   ],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Flindersia Riverside Park"
+   ],
+   "sub": 918.46,
+   "gst": 91.85,
+   "tot": 1010.31,
+   "pages": "pages 61 to 62 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14320": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "31-Mar-2025",
+   "inv_iso": "2025-03-31",
+   "due_lbl": "14-Apr-2025",
+   "due_iso": "2025-04-14",
+   "corpus_date": "27-Mar-2025",
+   "f1_date": true,
+   "site": "Flindersia Riverside Park",
+   "addr": "Flindersia Riverside Park Logan Reserve QLD 4133",
+   "order": "CR 3676347 - 704327",
+   "cr": "CR3676347",
+   "po": "PO704327",
+   "officer": "Celeste Fry",
+   "desc": "Work Requested: Attend site to investigate and repair | Jayden, | check operation of BBQ Shelter light. Council have advised that the light should be off at 8pm. pls adjust timer setting. | PK000508 | BBQ shelter lights not turning on since Weather event, please investigate",
+   "works": "Heath Young (24/03/2025) - Work Note | Works Completed: | Attended site and investigated bbq shelter lights not working. Located everything in Switchboard tripped. Reset all | breakers and tested for operation. All lights are operating. Suspected issue to be caused by moisture in switchboards. | Pe cell located on back of board found to be failed. | Incorrect locks fit to board. Grinded lock off to gain access and re installed a 26900 lock | Material Used: | X1 26900 lock | Updated Client: | Follow Up Required: | Re attend with x1 26900 energex lock for meter side of MSB | Re attend with x1 hpm Pe cell. | Jayden Balarezo (27/03/2025) - Work Note | Works Completed: | Inspected light under shelter, all light working correctly on timer and manual on. | Material Used: | NA | Updated Client: | NO | Follow Up Required: | NO | Email Service Manager (Bob) that site is completed. | YES",
+   "techs": [
+    "Heath Young",
+    "Jayden Balarezo"
+   ],
+   "pk": "PK000508",
+   "svc": null,
+   "gaz_sites": [
+    "Flindersia Riverside Park"
+   ],
+   "sub": 607.75,
+   "gst": 60.78,
+   "tot": 668.53,
+   "pages": "pages 63 to 64 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14376": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "13-May-2025",
+   "inv_iso": "2025-05-13",
+   "due_lbl": "27-May-2025",
+   "due_iso": "2025-05-27",
+   "corpus_date": "04-Apr-2025",
+   "f1_date": true,
+   "site": "Middle Park",
+   "addr": "159-161 Middle Road Hillcrest QLD 4124",
+   "order": "CR 3681183 - 704327",
+   "cr": "CR3681183",
+   "po": "PO704327",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | BBQ does not turn on and the tray is blocked. Requires repairs. Photo attached.",
+   "works": "Jayden Balarezo + Tyler Kidd (04/04/2025) - Work Note | Works Completed: | Attended site and inspected BBQ. Tested bbq hotplate element resistance and found 24 ohms. | Checked thermal blanket for moisture and blanket felt dry. | Found controller completely failed. | Thermostat lead found frayed and breaking down. | Advised by Ian (Grill EX) need to change thermal cut off switch, thermostat lead and controller. | Quote Sent to Jess (Parks)",
+   "techs": [
+    "Jayden Balarezo + Tyler Kidd"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Middle Park"
+   ],
+   "sub": 680.0,
+   "gst": 68.0,
+   "tot": 748.0,
+   "pages": "pages 65 to 66 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14389": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "23-May-2025",
+   "inv_iso": "2025-05-23",
+   "due_lbl": "6-Jun-2025",
+   "due_iso": "2025-06-06",
+   "corpus_date": "08-May-2025",
+   "f1_date": true,
+   "site": "Glenlogan park",
+   "addr": "Cusack Lane Jimboomba QLD",
+   "order": "CR 3700486 + 704327",
+   "cr": "CR3700486",
+   "po": "PO704327",
+   "officer": "Celeste Fry",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000118 | Vandalised BBQ - please check electrical system is not damaged as soon as possible",
+   "works": "Heath Young + Olivia Rice (08/05/2025) - Work Note | Works Completed: | Travelled to site | Inspected BBQ for damages. No damages or electrical issues found to BBQ components. Ran BBQ to temp prior to | making safe. Damages only to exterior metal panelling and heat proof tiles. Tagged out BBQ isolator for BBQ 1 to make | safe. | Client to be advised that heat proof tile and metal exterior on side of BBQ table is damaged. main Frame of BBQ | appears un damaged. | Follow Up Required: | Re attend after repairs have been made remove lock out and re test BBQ for operation.",
+   "techs": [
+    "Heath Young + Olivia Rice"
+   ],
+   "pk": "PK000118",
+   "svc": null,
+   "gaz_sites": [],
+   "sub": 552.5,
+   "gst": 55.25,
+   "tot": 607.75,
+   "pages": "pages 67 to 68 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14388": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "23-May-2025",
+   "inv_iso": "2025-05-23",
+   "due_lbl": "6-Jun-2025",
+   "due_iso": "2025-06-06",
+   "corpus_date": "23-May-2025",
+   "f1_date": false,
+   "site": "Middle Park",
+   "addr": "159-161 Middle Road Hillcrest QLD 4124",
+   "order": "CR 3681183 - 704327",
+   "cr": "CR3681183",
+   "po": "PO704327",
+   "officer": null,
+   "desc": "2505-5993 - REPLACE FAULTY BBQ CONTROLLER | 1. SCOPE OF WORK: | Inclusions: | - Remove faulty BBQ control box, thermal couple. | - Supply and Install GX Outdoor 10amp BBQ Control Box | - Supply and Install Thermocouple Cable | - Supply and Install Thermal Cut out Switch | - Test and Commission | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": null,
+   "gaz_sites": [
+    "Middle Park"
+   ],
+   "sub": 1753.0,
+   "gst": 175.3,
+   "tot": 1928.3,
+   "pages": "pages 69 to 70 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported; no PK stated on invoice face"
+  },
+  "14406": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "29-May-2025",
+   "inv_iso": "2025-05-29",
+   "due_lbl": "12-Jun-2025",
+   "due_iso": "2025-06-12",
+   "corpus_date": "29-May-2025",
+   "f1_date": false,
+   "site": "Jimboomba Soccer Club",
+   "addr": "Kurrajong Road Jimboomba QLD 4280",
+   "order": "709263 - MS016398",
+   "cr": null,
+   "po": "PO709263",
+   "officer": "Ben Stevens",
+   "desc": "Work Requested: Attend site to investigate and repair | Work Order: MS016398 | Please see attached work order to investigate field lights tripping at this facility, have attached key lock codes | in case you need to access the building. | Have also received further information that all field lights trip out when field 4 lights are turned on at 50% but | do not trip when they are turned on at 100%",
+   "works": "Heath Young (29/05/2025) - Work Note | Works Completed: | Travel to Site, | Attended site with Ben from LCC. | Located issue with light control RCD tripping on switching lights via control switches. | Tested all switching patterns and could not locate one particular switch causing tripping issue. | Suspected circuit imbalances through switching contactors causing tripping issue. | Removed RCD and replaced with a 10 A CB. | Tested all lights for operation. Ran lights for 1 hour and no issues occurred. | Tested lights on 50% and 100% and all operates. | Material Used: | X1 NHP 10 CB | Updated Client: | Advised Ben from LCC that suspected issue was related to RCD causing nuisance tripping from contactors engaging. | Advised RCD removed and replaced with a CB.",
+   "techs": [
+    "Heath Young"
+   ],
+   "pk": null,
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [],
+   "sub": 416.22,
+   "gst": 41.62,
+   "tot": 457.84,
+   "pages": "pages 71 to 72 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14469": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "27-Jun-2025",
+   "inv_iso": "2025-06-27",
+   "due_lbl": "11-Jul-2025",
+   "due_iso": "2025-07-11",
+   "corpus_date": "12-Jun-2025",
+   "f1_date": true,
+   "site": "Doug Larsen Park / Beenleigh BMX Park",
+   "addr": "41 Logan Street Beenleigh QLD 4207",
+   "order": "704327 + CR 3711766",
+   "cr": "CR3711766",
+   "po": "PO704327",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Missing Cover on power pole Please attend | 12/06/2025 | please reattend site as the cover has been removed again. need to cover again. and make safe",
+   "works": "Heath Young + Kahu Meke (12/06/2025) - Work Note | Works Completed: | Travel to Site, | Located metal panel already re fixed to pole. . | Installed bandit strapping to pole around metal temporary cover to ensure metal cover remains fixed. | Material Used: | X1 M of stainless strapping | X2 bandit buckles | Updated Client: | Advise client further protection provided | Follow Up Required: | Follow up with Quote to rectify pole hatch",
+   "techs": [
+    "Heath Young + Kahu Meke"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "sub": 905.45,
+   "gst": 90.55,
+   "tot": 996.0,
+   "pages": "pages 73 to 75 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14472": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "27-Jun-2025",
+   "inv_iso": "2025-06-27",
+   "due_lbl": "11-Jul-2025",
+   "due_iso": "2025-07-11",
+   "corpus_date": "24-Jun-2025",
+   "f1_date": true,
+   "site": "Carpark at Shailer Pioneer Park, Shailer Park.",
+   "addr": "carpark at Shailer Pioneer Park Shailer Park QLD 4128",
+   "order": "704327 + CR3716475",
+   "cr": "CR3716475",
+   "po": "PO704327",
+   "officer": "Rene Harreman",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Job Information: 2 x bbqs not working",
+   "works": "Heath Young + Kahu Heke (24/06/2025) - Work Note | Works Completed: | Travel to Site, | Located tripped RCBO in MSB located in bathroom block. | Reset switch and tested BBQs for a full 20 M cycle and no issues found with operation of 4 bbqs | Material Used: | N/A",
+   "techs": [
+    "Heath Young + Kahu Heke"
+   ],
+   "pk": "PK000412",
+   "svc": null,
+   "gaz_sites": [
+    "Shailer Pioneer Park"
+   ],
+   "sub": 595.0,
+   "gst": 59.5,
+   "tot": 654.5,
+   "pages": "pages 76 to 77 of Q Power.pdf",
+   "npages": 2,
+   "tie": "OUT",
+   "notes": "priced line detail is absent from the PDF text layer; captured subtotal is retained as TOTALS and the arithmetic gap is reported"
+  },
+  "14520": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "30-Jul-2025",
+   "inv_iso": "2025-07-30",
+   "due_lbl": "13-Aug-2025",
+   "due_iso": "2025-08-13",
+   "corpus_date": "30-Jul-2025",
+   "f1_date": false,
+   "site": "Ewing Park",
+   "addr": "18 Netball Drive Woodridge QLD 4114",
+   "order": "CR3704358 + 709835",
+   "cr": "CR3704358",
+   "po": "PO709835",
+   "officer": null,
+   "desc": "2506-6030 - EWING PARK - REPAIR FAULTY BBQ | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Isolate Supply and Remove faulty equipment and Dispose. | - Supply and Install Power supply board and PCB - CCQ/E1. | - Supply and Install Tempreture Sensor Thermcouple CCQ/E. | - Test and Commission BBQ for correct operation. | 2. QUALIFICATIONS AND CONDITIONS: | a) All values additional if applicable to our total quoted amount are based on Q Power (Qld) Pty Ltd being awarded the | main scope of works and cannot be let separately. | b) Allowance has been made to carry out works during normal business hours only. | c) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | d) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | e) Testing and commissioning of services will be by Q Power (Qld) Pty Ltd. Independent or third-party testing is not | included. | f) Our quotation is based on the project being asbestos and other toxic substances free. The client shall accept full | responsibility for removal of such substances prior to the commencement of works. | g) Lead Times: 2-3 weeks | 3. EXCLUSIONS: We have made NO allowance for the following: | a) Out of hours works.",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Ewing Park"
+   ],
+   "sub": 1755.94,
+   "gst": 175.59,
+   "tot": 1931.53,
+   "pages": "pages 78 to 80 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14545": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "19-Aug-2025",
+   "inv_iso": "2025-08-19",
+   "due_lbl": "2-Sep-2025",
+   "due_iso": "2025-09-02",
+   "corpus_date": "19-Aug-2025",
+   "f1_date": false,
+   "site": "Berrinba Wetlands Park",
+   "addr": "Berrinba Wetlands Berrinba QLD",
+   "order": "709835 + CR 3717407",
+   "cr": "CR3717407",
+   "po": "PO709835",
+   "officer": null,
+   "desc": "2507 \u2013 6105 - BERRINBA WETLANDS PARK - REPLACE DAMAGED LIGHTS | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Removal of Exisiting Lights x 6 | - Supply and install 6 x Dura -12 Batten Lights | - Test and Commission | 2. QUALIFICATIONS AND CONDITIONS: | ) All values additional if applicable to our total quoted amount are based on Q Power (Qld) Pty Ltd being awarded the | main scope of works and cannot be let separately. | ) Allowance has been made to carry out works during normal business hours only. | ) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | ) This quotation is subject to final site measure and inspection. | ) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | ) Where existing cable supports are to be incorporated into these works, we have assumed they are clean, clear of any | obstacles and we have clear access to install the new works. | ) Allowance has been made for all trenching to be carried out in soils free of rock or rock like material. Backfill would | utilise natural material excavated from the trench. Compaction would be carried out using standard compacting | equipment at one level only. | 3. EXCLUSIONS: We have made NO allowance for the following:",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Berrinba Wetlands Park"
+   ],
+   "sub": 2578.0,
+   "gst": 257.8,
+   "tot": 2835.8,
+   "pages": "pages 81 to 83 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14587": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "9-Sep-2025",
+   "inv_iso": "2025-09-09",
+   "due_lbl": "23-Sep-2025",
+   "due_iso": "2025-09-23",
+   "corpus_date": "08-Sep-2025",
+   "f1_date": true,
+   "site": "Logan Gardens",
+   "addr": "Logan QLD",
+   "order": "709835 + CR 3740916",
+   "cr": "CR3740916",
+   "po": "PO709835",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Sent to Q Power for further investigation, to quote for repair of BBQ's. | Logan gardens civic pde Logan central We have 3 BBQs out of action 1 right hand side of bbq 3 near yellow bbq table 2 & 3 | BBQs at the picnic tables adjacent to play areas , these are tagged with temp out of order signs .",
+   "works": "Heath Young (05/09/2025) - Work Note | Works Completed: | Travel to Site, | Tested BBQ that were tagged out, reset RCBO and checked with Grillex about reset for BBQ controller, all tested | correctly for operation. | Investigated further BBQ not working beside yellow table next to playground. | Contacted greenplate for further information and testing procedures. | Found failed PCB board. | Requested quote from - manufacturer based in capalaba Brisbane. | Advised by greenplate that wiring harness will need to be replaced as well due to pcb being slightly different. | Ordered and waiting for delivery | Heath Young + Olivia Rice (08/09/2025) - Work Note | Works Completed: | Travel to Site, | Replaced faulty PCB board and hardness in rhs bbq beside yellow table adjacent to play ground. | Tested BBQ for full 20 minute cycle and no issues occured. | Removed out of service stickers and confirmed all bbq operations. | Material Used: | X1 PCB controller | X1 harness",
+   "techs": [
+    "Heath Young",
+    "Heath Young + Olivia Rice"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Logan Gardens"
+   ],
+   "sub": 1440.25,
+   "gst": 144.03,
+   "tot": 1584.28,
+   "pages": "pages 84 to 86 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14716": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "28-Nov-2025",
+   "inv_iso": "2025-11-28",
+   "due_lbl": "12-Dec-2025",
+   "due_iso": "2025-12-12",
+   "corpus_date": "18-Nov-2025",
+   "f1_date": true,
+   "site": "Lancaster Park",
+   "addr": "Chambers Flat Rd at Lancaster Park Kingston QLD",
+   "order": "709835 + CR3798221",
+   "cr": "CR3798221",
+   "po": "PO709835",
+   "officer": "Jessica Burke",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Please send electrician to check power-box, power appears to be running when tripped. Also CCTV box has | wires cut and also needs looking at. | confirm what is onsite, first visit to park.",
+   "works": "Matt Eustace + Kahu Heke (18/11/2025) - Work Note | Attended site, cut old cctv cabling and made safe. Traced cctv orange circular. It supplies the main pole in the middle | island with two cameras on it. C6A rcbo supplying this and a 10A GPO. Removed GPO for safety issues. Correctly re- | terminated. All working Correctly.",
+   "techs": [
+    "Matt Eustace + Kahu Heke"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Lancaster Park"
+   ],
+   "sub": 595.0,
+   "gst": 59.5,
+   "tot": 654.5,
+   "pages": "pages 87 to 88 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14739": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "4-Dec-2025",
+   "inv_iso": "2025-12-04",
+   "due_lbl": "18-Dec-2025",
+   "due_iso": "2025-12-18",
+   "corpus_date": "28-Nov-2025",
+   "f1_date": true,
+   "site": "Lincoln Green Park",
+   "addr": "20 Lincoln Green Drive Forestdale QLD 4118",
+   "order": "709835 + CR3805122",
+   "cr": "CR3805122",
+   "po": "PO709835",
+   "officer": "Rene Harreman - 0411 881 601 call when done.",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Job Information: Forestdale Neighbourhood Watch had a park booking at Lincoln Green Park on Sunday. | They advised the single socket is no longer functioning. When the repair is undertaken, Forestdale NHW | have asked if it would be possible to install a double socket in place of the existing single socket?",
+   "works": "Heath Young (28/11/2025) - Work Note | Works Completed: | Travel to Site, | Inspected switchboards for powerpoibgs | Located MSB on pole beside gazebos. | Msb contained x1 single GPO and x1 double GPO. | Single GPO found to be faulty due to age. Replaced GPO with new double and tested for operation. | Located second switchboard sub board up the hill from MSB. Located x5 double GPO in board. Tested all powerpoints | and found no issues. | Confirmed with Rene about changes. | Material Used: | X1 double GPO clipsal 2000 series",
+   "techs": [
+    "Heath Young"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Lincoln Green Park"
+   ],
+   "sub": 520.5,
+   "gst": 52.05,
+   "tot": 572.55,
+   "pages": "pages 89 to 90 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14773": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "22-Dec-2025",
+   "inv_iso": "2025-12-22",
+   "due_lbl": "5-Jan-2026",
+   "due_iso": "2026-01-05",
+   "corpus_date": "22-Dec-2025",
+   "f1_date": false,
+   "site": "Beenleigh Cemetery",
+   "addr": "Beenleigh Cemetery Eagleby QLD",
+   "order": "709835 + CR#3794528.",
+   "cr": "CR3794528",
+   "po": "PO709835",
+   "officer": null,
+   "desc": "2512 \u2013 6237 - BEENLEIGH CEMETERY - REPLACE FAULTY CIRCUIT PROTECTION | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Travel to Site | - Isolate Supply | - Replace Faulty Circuit Protection | - Replace Faulty Lighting Control | - Terminate and Test | - Supply Handover Documentation | 2. QUALIFICATIONS AND CONDITIONS: | a) All values additional if applicable to our total quoted amount are based on Q Power (Qld) Pty Ltd being awarded the | main scope of works and cannot be let separately. | b) Allowance has been made to carry out works during normal business hours only. | c) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | d) This quotation is subject to final site measure and inspection. | e) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | f) Where existing cable supports are to be incorporated into these works, we have assumed they are clean, clear of any | obstacles and we have clear access to install the new works. | h) Testing and commissioning of services will be by Q Power (Qld) Pty Ltd. Independent or third-party testing is not | included. | i) Our offer is generally based on the provision of material/equipment as indicated in the scope provided, however, we | reserve the right to offer equivalent materials/equipment.",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Beenleigh Cemetery"
+   ],
+   "sub": 1268.4,
+   "gst": 126.84,
+   "tot": 1395.24,
+   "pages": "pages 91 to 93 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14793": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "9-Jan-2026",
+   "inv_iso": "2026-01-09",
+   "due_lbl": "23-Jan-2026",
+   "due_iso": "2026-01-23",
+   "corpus_date": "17-Nov-2025",
+   "f1_date": true,
+   "site": "Buxton Park",
+   "addr": "Buxton Avenue Yarrabilba QLD 4207",
+   "order": "709835 + CR3795437",
+   "cr": "CR3795437",
+   "po": "PO709835",
+   "officer": "Jessica Burke -",
+   "desc": "Work Requested: Attend site to investigate and repair | investigate solar light not operating. Scott has contacted greenfrog for programming details / information | PK000412 | Faulty light stayed on past set timer for Buxton Dog Park. Photo attached",
+   "works": null,
+   "techs": [],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Buxton Park"
+   ],
+   "sub": 937.3,
+   "gst": 93.73,
+   "tot": 1031.03,
+   "pages": "pages 94 to 95 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14865": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "27-Feb-2026",
+   "inv_iso": "2026-02-27",
+   "due_lbl": "30-Mar-2026",
+   "due_iso": "2026-03-30",
+   "corpus_date": "27-Feb-2026",
+   "f1_date": false,
+   "site": "Station Road, Woodridge",
+   "addr": "Station Road Woodridge QLD",
+   "order": "710663",
+   "cr": null,
+   "po": "PO710663",
+   "officer": "Phillip Gerges",
+   "desc": "Work Requested: Attend site to investigate and repair | Make Safe. Damaged Switchboard",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [],
+   "sub": 340.0,
+   "gst": 34.0,
+   "tot": 374.0,
+   "pages": "pages 96 to 97 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14928": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "14-Apr-2026",
+   "inv_iso": "2026-04-14",
+   "due_lbl": "28-Apr-2026",
+   "due_iso": "2026-04-28",
+   "corpus_date": "26-Mar-2026",
+   "f1_date": true,
+   "site": "Latitude Park",
+   "addr": "Flagstone Latitude Park New Beith QLD",
+   "order": "709835 + CR3861966",
+   "cr": "CR3861966",
+   "po": "PO709835",
+   "officer": "Ryan McCorkindale",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Light ripped from ceiling in shelter. | Make Site Safe.",
+   "works": null,
+   "techs": [],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Latitude Park"
+   ],
+   "sub": 740.0,
+   "gst": 74.0,
+   "tot": 814.0,
+   "pages": "pages 98 to 99 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14945": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "24-Apr-2026",
+   "inv_iso": "2026-04-24",
+   "due_lbl": "8-May-2026",
+   "due_iso": "2026-05-08",
+   "corpus_date": "14-Apr-2026",
+   "f1_date": true,
+   "site": "Bishop Street Park",
+   "addr": "1 Bishop Street Eagleby QLD 4207",
+   "order": "709835 + CR3850117",
+   "cr": "CR3850117",
+   "po": "PO709835",
+   "officer": null,
+   "desc": "Job Notes \u2013 PK000412 | Work Requested: | Attend site to investigate and repair damaged electrical box on BBQ",
+   "works": null,
+   "techs": [],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Bishop Street Park"
+   ],
+   "sub": 1156.01,
+   "gst": 115.6,
+   "tot": 1271.61,
+   "pages": "pages 100 to 102 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": null
+  },
+  "14983": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "30-Apr-2026",
+   "inv_iso": "2026-04-30",
+   "due_lbl": "14-May-2026",
+   "due_iso": "2026-05-14",
+   "corpus_date": "30-Apr-2026",
+   "f1_date": false,
+   "site": "Latitude Park",
+   "addr": "Flagstone Latitude Park New Beith QLD",
+   "order": "709835",
+   "cr": null,
+   "po": "PO709835",
+   "officer": null,
+   "desc": "2604-6352 REPLACE SHELTER LIGHT | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Supply and install 1x Haneco DURA12 Dura Series Weatherproof LED Batten | - Provide and install a new Hasp and staple with a 26900 Energex padlock. | - Testing and commissioning | 2. QUALIFICATIONS AND CONDITIONS: | a) Allowance has been made to carry out works during normal business hours only. | b) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | c) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | d) Testing and commissioning of services will be by Q Power (Qld) Pty Ltd. Independent or third-party testing is not | included. | e) Our offer is generally based on the provision of material/equipment as indicated in the scope provided, however, we | reserve the right to offer equivalent materials/equipment. | f) Our quotation is based on the project being asbestos and other toxic substances free. The client shall accept full | responsibility for removal of such substances prior to the commencement of works. | g) No allowance has been made for As constructed ADCD Logan City Council Drawing, if this is required a variation is | required. | h) Lead Times: 2 weeks | i) During investigation we found there was no lock for the switchboard. Q Power allowed to | 3. EXCLUSIONS: We have made NO allowance for the following:",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Latitude Park"
+   ],
+   "sub": 763.66,
+   "gst": 76.37,
+   "tot": 840.03,
+   "pages": "pages 103 to 105 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "14997": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "12-May-2026",
+   "inv_iso": "2026-05-12",
+   "due_lbl": "26-May-2026",
+   "due_iso": "2026-05-26",
+   "corpus_date": "06-May-2026",
+   "f1_date": true,
+   "site": "Teviot Downs Park",
+   "addr": "26 Bradman Street New Beith QLD 4124",
+   "order": "709835 + CR#3883050",
+   "cr": "CR3883050",
+   "po": "PO709835",
+   "officer": "Ryan McCorkindale",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000118 | As discussed, would we be able to have someone go out on-site to Teviot Downs Park to assess the level of damage | that has occurred due to a recent copper theft there? We\u2019ve heard a couple mentions of all power being out in the park, | unfortunately I wouldn\u2019t have any pics but I\u2019ve been advised the staff member who has seen it also made it safe.",
+   "works": "Christopher Edwards (06/05/2026) - Work Note | Works Completed: | Travel to Site | inspected site for cable damage. Found mains switchboard door bent open, fuses pulled out and 1 fuse holder | loose | repaired switchboard door and bend back into shape. Measurements for switchboard are 370mm wide, 270mm | deep & 520mm height. Re installed padlock once repaired | inspected sub board inside toilet block and found no damage | inspected 3 car park light poles and found all 3 having power to light fittings and power fed from Energex pillar on | adjacent street. All 3 light piles are marked as Energex light poles | inspected power to 3 shelters. All having solar light fittings, no pits and power fed from sub board directly to each | individual bbq | Inspected power to cctv pole. No cable damage found. Cover for conduit box removed. Re installed cover",
+   "techs": [
+    "Christopher Edwards"
+   ],
+   "pk": "PK000118",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Teviot Downs Park"
+   ],
+   "sub": 647.5,
+   "gst": 64.75,
+   "tot": 712.25,
+   "pages": "pages 106 to 107 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "15036": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "22-May-2026",
+   "inv_iso": "2026-05-22",
+   "due_lbl": "5-Jun-2026",
+   "due_iso": "2026-06-05",
+   "corpus_date": "07-May-2026",
+   "f1_date": true,
+   "site": "Doug Larsen Park / Beenleigh BMX Park",
+   "addr": "41 Logan Street Beenleigh QLD 4207",
+   "order": "709835 + CR3883026",
+   "cr": "CR3883026",
+   "po": "PO709835",
+   "officer": "Corey stoops",
+   "desc": "Work Requested: Attend site to investigate and repair | All 8 BBQs are not working, please investigate | PK000412",
+   "works": "Christopher Edwards + Tyler Kidd (07/05/2026) - Work Note | Works Completed: | Travel to Site | tested BBQ 1 and found burnt out connection to thermostat. No damage to thermostat. Will repair log and re test. | Isolate power to BBQ | tested BBQ 2,3 & 4. Found only off due to fault with BBQ 1. 2,3 & 4 now working | tested BBQ 5 & 6. Found tripped at board. Issue caused by excessive water in pit and J bell not closed correctly. | Drained water from bell and allow cable to dry. Tested and 6 now working but 5 trips when power to element. | tested BBQ 7 & 8 and found no power. Tested board and found no incoming power | Follow Up Required: | Repair BBQ 1 connection | test BBQ 5 for possible faulty part | investigate power issue for 7 & 8 | Christopher Edwards + Tyler Kidd (11/05/2026) - Work Note | Works Completed: | Travel to Site | repaired BBQ connection to thermostat closest to toilet block and tested. BBQ is now operational | Tested BBQ 5 ( rhs if looking at pond ). Found to have faulty element down to earth. Grab details for repair | quote | tested power issue to BBQ 7 & 8 towards back of park. Found incoming power to sub board disconnected and | made obsolete at mains board adjacent to BMX track | traced out power for sub board controlling BBQ 7 & 8 towards back of park located between lake and bmx track | and found main switch turned off. Tested and turn on and sub board now has power. Tested bbqs 7 & 8 and both | now working | inspected site for future works as BM track board is going to be removed which will affect power to BBQ sub | board",
+   "techs": [
+    "Christopher Edwards + Tyler Kidd"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "sub": 1480.0,
+   "gst": 148.0,
+   "tot": 1628.0,
+   "pages": "pages 108 to 110 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": null
+  },
+  "15037": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "22-May-2026",
+   "inv_iso": "2026-05-22",
+   "due_lbl": "5-Jun-2026",
+   "due_iso": "2026-06-05",
+   "corpus_date": "22-May-2026",
+   "f1_date": false,
+   "site": "Teviot Downs Park",
+   "addr": "26 Bradman Street New Beith QLD 4124",
+   "order": "709835",
+   "cr": null,
+   "po": "PO709835",
+   "officer": null,
+   "desc": "2605-6371 TEVIOT DOWN PARK SWITCHBOARD REPLACEMENT | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Site setup pedestrian management . | - Removal of existing MSB enclosure and dispose off. | - Removal of the electricity meter and reinstate into new MSB. | - Supply and install new B&R MSB mounted to surface of block work. | - Supply and install new 50 A main switch into new MSB in accordance with the Energex metering manual. | - Supply and install 3x new meter isolation links in accordance with the Energex metering manual. | - Supply and install 1x new meter neutral link accordance with the Energex metering manual. | 2. QUALIFICATIONS AND CONDITIONS: | a) Allowance has been made to carry out works during normal business hours only. | b) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | c) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | d) Testing and commissioning of services will be by Q Power (Qld) Pty Ltd. Independent or third-party testing is not | included. | e) Our offer is generally based on the provision of material/equipment as indicated in the scope provided, however, we | reserve the right to offer equivalent materials/equipment. | f) Our quotation is based on the project being asbestos and other toxic substances free. The client shall accept full | responsibility for removal of such substances prior to the commencement of works. | g) No allowance has been made for As constructed ADCD Logan City Council Drawing, if this is required a variation is | required. | h) Our Quote assumes LCC will be supplying all P1 Padlocks for the sites",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Teviot Downs Park"
+   ],
+   "sub": 2407.08,
+   "gst": 240.71,
+   "tot": 2647.79,
+   "pages": "pages 111 to 113 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  },
+  "15078": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "12-Jun-2026",
+   "inv_iso": "2026-06-12",
+   "due_lbl": "26-Jun-2026",
+   "due_iso": "2026-06-26",
+   "corpus_date": "29-May-2026",
+   "f1_date": true,
+   "site": "Valley view park",
+   "addr": "38-56 Ridgevale Boulevard Holmview QLD 4207",
+   "order": "709835 + CR3892171",
+   "cr": "CR3892171",
+   "po": "PO709835",
+   "officer": "Ryan McCorkindale",
+   "desc": "Work Requested: Attend site to investigate and repair | PK000412 | BBQ is not working, can this please be investigated",
+   "works": "Jayden Balarezo + Kahu (29/05/2026) - Work Note | Works Completed: | Travel to Site, | Investigated bbq not working, confirmed 240vv all through BBQ until PCB board, no output voltage when button is | pressed in confirming PCB board failed. PCB board has signs of water damage. | Material Used: | NA | Updated Client: | NO | Follow Up Required: | YES REPLACE PCB BOARD",
+   "techs": [
+    "Jayden Balarezo + Kahu"
+   ],
+   "pk": "PK000412",
+   "svc": "Service - Do and Charge",
+   "gaz_sites": [
+    "Valley View Park"
+   ],
+   "sub": 555.0,
+   "gst": 55.5,
+   "tot": 610.5,
+   "pages": "pages 114 to 115 of Q Power.pdf",
+   "npages": 2,
+   "tie": "TIE",
+   "notes": null
+  },
+  "15222": {
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "inv_lbl": "12-Aug-2026",
+   "inv_iso": "2026-08-12",
+   "due_lbl": "26-Aug-2026",
+   "due_iso": "2026-08-26",
+   "corpus_date": "12-Aug-2026",
+   "f1_date": false,
+   "site": "Doug Larsen Park / Beenleigh BMX Park",
+   "addr": "41 Logan Street Beenleigh QLD 4207",
+   "order": "717370",
+   "cr": null,
+   "po": "PO717370",
+   "officer": null,
+   "desc": "2606-6425 DOUG LARSEN PARK - BBQ 5 ELEMENT REPLACMENT | Thank you for your enquiry. We are proud to submit our quotation for the following scope of works as your local Logan | supplier. By choosing us, you\u2019re supporting a local business and investing in our community. | 1. SCOPE OF WORK: | Inclusions: | - Site Set up for Pedestrian Management | - Remove faulty element, plate and control. Including Disposal | - Supply and Install Grillex 15A In bench unit. | - Supply and Install 15a Single GPO in BBQ. | - Supply and Install Hager 20A RCBO. | - Testing and Commissioning. | 2. QUALIFICATIONS AND CONDITIONS: | a) All values additional if applicable to our total quoted amount are based on Q Power (Qld) Pty Ltd being awarded the | main scope of works and cannot be let separately. | b) Allowance has been made to carry out works during normal business hours only. | c) The above inclusions form the total scope of works to be provided. No allowance has been made for any items not | specifically mentioned above. | d) Where existing equipment is to be incorporated into these works, we have assumed this equipment is in good working | order without the need for repairs or upgrades and will have sufficient spare capacity to accommodate the new works. | e) Where existing cable supports are to be incorporated into these works, we have assumed they are clean, clear of any | obstacles and we have clear access to install the new works. | f) Testing and commissioning of services will be by Q Power (Qld) Pty Ltd. Independent or third-party testing is not | included. | g) Our offer is generally based on the provision of material/equipment as indicated in the scope provided, however, we | reserve the right to offer equivalent materials/equipment. | h) Any free issue items shall be complete and without the need to construct or fabricate additional parts as well as | labelling and be available to suit our installation programme.",
+   "works": null,
+   "techs": [],
+   "pk": null,
+   "svc": "Service - Quoted",
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "sub": 5327.94,
+   "gst": 532.79,
+   "tot": 5860.73,
+   "pages": "pages 116 to 118 of Q Power.pdf",
+   "npages": 3,
+   "tie": "TIE",
+   "notes": "no PK stated on invoice face"
+  }
+ },
+ "lines": {
+  "14020": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Barbeques have been vandalised & are not turning on properly Daybreak Park",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Barbeques have been vandalised & are not turning on properly Daybreak Park"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 648.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14043": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Restore the power connection to the toilet block from the Energex power",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Restore the power connection to the toilet block from the Energex power"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1667.47,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14051": [
+   {
+    "n": 1,
+    "desc": "Bob Please complete street light inspection form if it is required. | Work Requested: Attend site to investigate and repair | Please find attached a new customer request for actioning. | PK000412 | Please check tennis court lights are working",
+    "desc_rows": [
+     "Bob Please complete street light inspection form if it is required. | Work Requested: Attend site to investigate and repair | Please find attached a new customer request for actioning. | PK000412 | Please check tennis court lights are working"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1370.28,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14052": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Investigate Faulty Skate Park Lights 3 or 4 not working",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Investigate Faulty Skate Park Lights 3 or 4 not working"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1962.09,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14067": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 85.0,
+    "gst": "10%",
+    "amt": 340.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 4.0,
+    "unit": 56.0,
+    "gst": "10%",
+    "amt": 224.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "DIN Contactor 1P 8.5A AC3 25A AC1 230V | HAGESC125 | 1NO DIN Rail",
+    "desc_rows": [
+     "DIN Contactor 1P 8.5A AC3 25A AC1 230V",
+     "HAGESC125",
+     "1NO DIN Rail"
+    ],
+    "qty": 1.0,
+    "unit": 63.9,
+    "gst": "10%",
+    "amt": 63.9,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Light Sensitive Switch PE W/P 10A 240V | HPMPE170/10 | IP56 Opal",
+    "desc_rows": [
+     "Light Sensitive Switch PE W/P 10A 240V",
+     "HPMPE170/10",
+     "IP56 Opal"
+    ],
+    "qty": 1.0,
+    "unit": 139.81,
+    "gst": "10%",
+    "amt": 139.81,
+    "src": "TEXT"
+   }
+  ],
+  "14100": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair. The lights within the public toilets are not operational at Tully | Memorial Park.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair. The lights within the public toilets are not operational at Tully | Memorial Park."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 564.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14102": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | At the BMX track in the park, there are 3 different lights not working. | 2 x light posts completely out above the old concrete half pipe and above the mini spine light post with 3 of the 4 bulbs | not working properly. | This can have some serious safety concerns as it casts shadows over certain parts on the ramps reducing visibility and | timing.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | At the BMX track in the park, there are 3 different lights not working. | 2 x light posts completely out above the old concrete half pipe and above the mini spine light post with 3 of the 4 bulbs | not working properly. | This can have some serious safety concerns as it casts shadows over certain parts on the ramps reducing visibility and | timing."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 564.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14137": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and check operation of lights. | PK000412 | Please attend Forest of Memories and check electricals, asap this may need to do this at dusk to test lights. | (PLEASE NOTE: This is across the road from the Pub)",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and check operation of lights. | PK000412 | Please attend Forest of Memories and check electricals, asap this may need to do this at dusk to test lights. | (PLEASE NOTE: This is across the road from the Pub)"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 705.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14133": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | One of the BBQs near the new playground has water coming out of the power socket. | We have turned the BBQ off. | Please send someone to take a look.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | One of the BBQs near the new playground has water coming out of the power socket. | We have turned the BBQ off. | Please send someone to take a look."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1085.76,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14150": [
+   {
+    "n": 1,
+    "desc": "2410-5859 - SHAW ST TENNIS COURT - BULB REPLACMENT | 1. SCOPE OF WORK: | Inclusions: | - Supply and install 7x Metal Halide 1000W GES 4000K BT37/120 | - Supply Trailer mount EWP Hire | - Site set up, including isolation and commissioning. | - Wipe down light fitting to clean from cobwebs. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+    "desc_rows": [
+     "2410-5859 - SHAW ST TENNIS COURT - BULB REPLACMENT | 1. SCOPE OF WORK: | Inclusions: | - Supply and install 7x Metal Halide 1000W GES 4000K BT37/120 | - Supply Trailer mount EWP Hire | - Site set up, including isolation and commissioning. | - Wipe down light fitting to clean from cobwebs. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 3252.4,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14174": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000415 | Please attend and repair hinges on powerbox. Photo attached.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000415 | Please attend and repair hinges on powerbox. Photo attached."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1187.11,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14170": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Please urgently attend to Homestead Park, Shailer Park to address the issue with the lighting | outside of the toilet block (no photos supplied).",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | Please urgently attend to Homestead Park, Shailer Park to address the issue with the lighting | outside of the toilet block (no photos supplied)."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1263.68,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14190": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK00018 | Electrical Light mounting situated under shelter shed hanging off the roof. | attend site and see if light can be refixed or if replacement is required. please make site safe if new light is required.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK00018 | Electrical Light mounting situated under shelter shed hanging off the roof. | attend site and see if light can be refixed or if replacement is required. please make site safe if new light is required."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1012.95,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14206": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1331.25,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14207": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Damage to meter box. Exposed wires, requires repair | Damaged HPM PE Cell",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Damage to meter box. Exposed wires, requires repair | Damaged HPM PE Cell"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 644.74,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14231": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Notes from council ; | Good Morning | Council\u2019s Public Lighting team have advised this request needs to go to Parks, as our branch only look after the \u201cRed | Bridge\u201d not the lights in the actual park. | Notes from Resident ; | lights that are off and not working at LOGAN RIVER PARKLANDS Pacific Highway in Eagleby. All of the lights are not | working and it is a safety hazard",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Notes from council ; | Good Morning | Council\u2019s Public Lighting team have advised this request needs to go to Parks, as our branch only look after the \u201cRed | Bridge\u201d not the lights in the actual park. | Notes from Resident ; | lights that are off and not working at LOGAN RIVER PARKLANDS Pacific Highway in Eagleby. All of the lights are not | working and it is a safety hazard"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 630.02,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14259": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Damage to electrical box in the dog water play are. could be past the waterplay park?",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Damage to electrical box in the dog water play are. could be past the waterplay park?"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 851.89,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14257": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to Remove and make safe. | Remove damaged charging station, isolate GPO supply and remove cabling from RCBO, make safe. Cut down posts to | below ground level and concrete over.",
+    "desc_rows": [
+     "Work Requested: Attend site to Remove and make safe. | Remove damaged charging station, isolate GPO supply and remove cabling from RCBO, make safe. Cut down posts to | below ground level and concrete over."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 708.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14262": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Toilet Lights not working, investigate.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Toilet Lights not working, investigate."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 911.52,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14282": [
+   {
+    "n": 1,
+    "desc": "2412-5885 - LOGAN GARDENS - REPLACE DAMAGED UPLIGHT | 1. SCOPE OF WORK: | Inclusions: | - Remove Damaged inground light. | - Remove existing enclosure - filled with resin. | - Supply and Install 30W inground light 210mm, using concrete to secure base. | - Supply and Install IP rated enclosure for Terminations, including cable. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+    "desc_rows": [
+     "2412-5885 - LOGAN GARDENS - REPLACE DAMAGED UPLIGHT | 1. SCOPE OF WORK: | Inclusions: | - Remove Damaged inground light. | - Remove existing enclosure - filled with resin. | - Supply and Install 30W inground light 210mm, using concrete to secure base. | - Supply and Install IP rated enclosure for Terminations, including cable. | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1073.4,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14280": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair. sounds like a pit lid missing. | PK000412 | Lights in the park, the box or pit that is connected to the lights are exposed now. The wires are exposed, he has put a | manhole cover over it also to make it safe for the mean time. It is closer to the dog leash area along the footpath.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair. sounds like a pit lid missing. | PK000412 | Lights in the park, the box or pit that is connected to the lights are exposed now. The wires are exposed, he has put a | manhole cover over it also to make it safe for the mean time. It is closer to the dog leash area along the footpath."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 680.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14276": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Please repair the damaged meter box near BMX track | PK000412",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Please repair the damaged meter box near BMX track | PK000412"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 947.75,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14275": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | The power box is screwed shut. Please remove screws and replace missing bar with lock. | check Meter Board. we will need use one Energex lock and one P1. | get picture of meter and board. confirm operation.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | The power box is screwed shut. Please remove screws and replace missing bar with lock. | check Meter Board. we will need use one Energex lock and one P1. | get picture of meter and board. confirm operation."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 887.27,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14290": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Please attend to Lights in toilet and BBQ area broken.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | Please attend to Lights in toilet and BBQ area broken."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 2624.65,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14294": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate why lights on 24hrs | PK000412 | Please investigate why skatepark lights and some of the footpath lights are constantly on",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate why lights on 24hrs | PK000412 | Please investigate why skatepark lights and some of the footpath lights are constantly on"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 915.93,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14295": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Quote to repair Forest of Memories prior to Anzac Day",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Quote to repair Forest of Memories prior to Anzac Day"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 880.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14308": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Light flickering by the pirate ship play area \u2013 please investigate",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | Light flickering by the pirate ship play area \u2013 please investigate"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 857.55,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14321": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Jayden, | check operation of light sensor. this circuit will need to be on the timer so no light after 8pm | PK000508918.46 | the case | evening | light Baby | or | since | night | Change | the | that | power | Itoilet | lookwas | compartment | outrestored | over to the | after | was | toilet | TC | ONblock | Alfred. | and that | I have | - please | thisnoticed | light | investigate | isthat | always | no matter | ON. This | what | hastime | only | ofbeen",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Jayden, | check operation of light sensor. this circuit will need to be on the timer so no light after 8pm | PK000508918.46 | the case | evening | light Baby | or | since | night | Change | the | that | power | Itoilet | lookwas | compartment | outrestored | over to the | after | was | toilet | TC | ONblock | Alfred. | and that | I have | - please | thisnoticed | light | investigate | isthat | always | no matter | ON. This | what | hastime | only | ofbeen"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 918.46,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14320": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | Jayden, | check operation of BBQ Shelter light. Council have advised that the light should be off at 8pm. pls adjust timer setting. | PK000508 | BBQ shelter lights not turning on since Weather event, please investigate",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | Jayden, | check operation of BBQ Shelter light. Council have advised that the light should be off at 8pm. pls adjust timer setting. | PK000508 | BBQ shelter lights not turning on since Weather event, please investigate"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 607.75,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14376": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | BBQ does not turn on and the tray is blocked. Requires repairs. Photo attached.",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | BBQ does not turn on and the tray is blocked. Requires repairs. Photo attached."
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 680.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14389": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000118 | Vandalised BBQ - please check electrical system is not damaged as soon as possible",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000118 | Vandalised BBQ - please check electrical system is not damaged as soon as possible"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 552.5,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14388": [
+   {
+    "n": 1,
+    "desc": "2505-5993 - REPLACE FAULTY BBQ CONTROLLER | 1. SCOPE OF WORK: | Inclusions: | - Remove faulty BBQ control box, thermal couple. | - Supply and Install GX Outdoor 10amp BBQ Control Box | - Supply and Install Thermocouple Cable | - Supply and Install Thermal Cut out Switch | - Test and Commission | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd",
+    "desc_rows": [
+     "2505-5993 - REPLACE FAULTY BBQ CONTROLLER | 1. SCOPE OF WORK: | Inclusions: | - Remove faulty BBQ control box, thermal couple. | - Supply and Install GX Outdoor 10amp BBQ Control Box | - Supply and Install Thermocouple Cable | - Supply and Install Thermal Cut out Switch | - Test and Commission | Please don't hesitate in contacting us should you have any questions or require any assistance. | Yours faithfully, | Q Power (Qld) Pty Ltd"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 1753.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14406": [
+   {
+    "n": 1,
+    "desc": "NHP DIN-T Miniature Circuit Breaker MCB | 6kA 1 Pole 10A C Curve",
+    "desc_rows": [
+     "NHP DIN-T Miniature Circuit Breaker MCB",
+     "6kA 1 Pole 10A C Curve"
+    ],
+    "qty": 1.0,
+    "unit": 31.22,
+    "gst": "10%",
+    "amt": 31.22,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 3.5,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 385.0,
+    "src": "TEXT"
+   }
+  ],
+  "14469": [
+   {
+    "n": 1,
+    "desc": "MATERIALS",
+    "desc_rows": [
+     "MATERIALS"
+    ],
+    "qty": 1.0,
+    "unit": 55.45,
+    "gst": "10%",
+    "amt": 55.45,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 5.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 550.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 5.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 300.0,
+    "src": "TEXT"
+   }
+  ],
+  "14472": [
+   {
+    "n": 1,
+    "desc": "Work Requested: Attend site to investigate and repair | PK000412 | Job Information: 2 x bbqs not working",
+    "desc_rows": [
+     "Work Requested: Attend site to investigate and repair | PK000412 | Job Information: 2 x bbqs not working"
+    ],
+    "qty": null,
+    "unit": null,
+    "gst": "(not printed)",
+    "amt": 595.0,
+    "src": "SINGLE_SCOPE"
+   }
+  ],
+  "14520": [
+   {
+    "n": 1,
+    "desc": "POWER SUPPLY BOARD AND PCB - | CCQ/E 1",
+    "desc_rows": [
+     "POWER SUPPLY BOARD AND PCB -",
+     "CCQ/E 1"
+    ],
+    "qty": 1.0,
+    "unit": 823.52,
+    "gst": "10%",
+    "amt": 823.52,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "TEMPERTURE SENSOR | THERMCOUPLE- CCQ/E",
+    "desc_rows": [
+     "TEMPERTURE SENSOR",
+     "THERMCOUPLE- CCQ/E"
+    ],
+    "qty": 1.0,
+    "unit": 252.42,
+    "gst": "10%",
+    "amt": 252.42,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 440.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 4.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 240.0,
+    "src": "TEXT"
+   }
+  ],
+  "14545": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 11.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 1210.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 11.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 660.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Dura 12",
+    "desc_rows": [
+     "Dura 12"
+    ],
+    "qty": 6.0,
+    "unit": 118.0,
+    "gst": "10%",
+    "amt": 708.0,
+    "src": "TEXT"
+   }
+  ],
+  "14587": [
+   {
+    "n": 1,
+    "desc": "eb0005v21 V21 PCB Board",
+    "desc_rows": [
+     "eb0005v21 V21 PCB Board"
+    ],
+    "qty": 1.0,
+    "unit": 442.75,
+    "gst": "10%",
+    "amt": 442.75,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "eb000562v20 GP PID Cable loom set",
+    "desc_rows": [
+     "eb000562v20 GP PID Cable loom set"
+    ],
+    "qty": 1.0,
+    "unit": 40.25,
+    "gst": "10%",
+    "amt": 40.25,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "CCF CCF",
+    "desc_rows": [
+     "CCF CCF"
+    ],
+    "qty": 1.0,
+    "unit": 7.25,
+    "gst": "10%",
+    "amt": 7.25,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 7.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 770.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 5,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 3.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 180.0,
+    "src": "TEXT"
+   }
+  ],
+  "14716": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 3.5,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 385.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 3.5,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 210.0,
+    "src": "TEXT"
+   }
+  ],
+  "14739": [
+   {
+    "n": 1,
+    "desc": "CLIC2025WE - Clipsal Classic C2000 | Double Switched Internal Powerpoint 2 | Gang 10A White",
+    "desc_rows": [
+     "CLIC2025WE - Clipsal Classic C2000",
+     "Double Switched Internal Powerpoint 2",
+     "Gang 10A White"
+    ],
+    "qty": 1.0,
+    "unit": 10.5,
+    "gst": "10%",
+    "amt": 10.5,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 3.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 330.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 3.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 180.0,
+    "src": "TEXT"
+   }
+  ],
+  "14773": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 6.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 660.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 6.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 360.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Hager 3 Pole MCB",
+    "desc_rows": [
+     "Hager 3 Pole MCB"
+    ],
+    "qty": 3.0,
+    "unit": 64.8,
+    "gst": "10%",
+    "amt": 194.4,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Hager 4 Pole Contactor",
+    "desc_rows": [
+     "Hager 4 Pole Contactor"
+    ],
+    "qty": 1.0,
+    "unit": 54.0,
+    "gst": "10%",
+    "amt": 54.0,
+    "src": "TEXT"
+   }
+  ],
+  "14793": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 440.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 4.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 240.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Truck Mounted EWP - 12m",
+    "desc_rows": [
+     "Truck Mounted EWP - 12m"
+    ],
+    "qty": 0.5,
+    "unit": 514.6,
+    "gst": "10%",
+    "amt": 257.3,
+    "src": "TEXT"
+   }
+  ],
+  "14865": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 2.0,
+    "unit": 110.0,
+    "gst": "10%",
+    "amt": 220.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 2.0,
+    "unit": 60.0,
+    "gst": "10%",
+    "amt": 120.0,
+    "src": "TEXT"
+   }
+  ],
+  "14928": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 480.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 4.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 260.0,
+    "src": "TEXT"
+   }
+  ],
+  "14945": [
+   {
+    "n": 1,
+    "desc": "SS-300x200x1 316L Stainless Steel Enclosure | 50 300Hx200Wx150D - 1.5mm",
+    "desc_rows": [
+     "SS-300x200x1 316L Stainless Steel Enclosure",
+     "50 300Hx200Wx150D - 1.5mm"
+    ],
+    "qty": 1.0,
+    "unit": 330.75,
+    "gst": "10%",
+    "amt": 330.75,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "SS-Lockswing- 316 Stainless Steel Swing Handle Pad- | L lockable - Large",
+    "desc_rows": [
+     "SS-Lockswing- 316 Stainless Steel Swing Handle Pad-",
+     "L lockable - Large"
+    ],
+    "qty": 1.0,
+    "unit": 85.26,
+    "gst": "10%",
+    "amt": 85.26,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 480.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 4.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 260.0,
+    "src": "TEXT"
+   }
+  ],
+  "14983": [
+   {
+    "n": 1,
+    "desc": "Haneco DURA12 Dura Series | Weatherproof LED Batten",
+    "desc_rows": [
+     "Haneco DURA12 Dura Series",
+     "Weatherproof LED Batten"
+    ],
+    "qty": 1.0,
+    "unit": 107.66,
+    "gst": "10%",
+    "amt": 107.66,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Hasp and staple c/w 26900 energex | padlock",
+    "desc_rows": [
+     "Hasp and staple c/w 26900 energex",
+     "padlock"
+    ],
+    "qty": 1.0,
+    "unit": 152.0,
+    "gst": "10%",
+    "amt": 152.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Fixings and Consumables",
+    "desc_rows": [
+     "Fixings and Consumables"
+    ],
+    "qty": 1.0,
+    "unit": 24.0,
+    "gst": "10%",
+    "amt": 24.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 4.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 480.0,
+    "src": "TEXT"
+   }
+  ],
+  "14997": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 3.5,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 420.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 3.5,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 227.5,
+    "src": "TEXT"
+   }
+  ],
+  "15036": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 8.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 960.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 8.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 520.0,
+    "src": "TEXT"
+   }
+  ],
+  "15037": [
+   {
+    "n": 1,
+    "desc": "B&R Enclosures Q20 Horizon Q Series | Queensland",
+    "desc_rows": [
+     "B&R Enclosures Q20 Horizon Q Series",
+     "Queensland"
+    ],
+    "qty": 1.0,
+    "unit": 364.76,
+    "gst": "10%",
+    "amt": 364.76,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "3 pole Hager 50 A CB main switch",
+    "desc_rows": [
+     "3 pole Hager 50 A CB main switch"
+    ],
+    "qty": 1.0,
+    "unit": 53.26,
+    "gst": "10%",
+    "amt": 53.26,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "Meter isolation link",
+    "desc_rows": [
+     "Meter isolation link"
+    ],
+    "qty": 2.0,
+    "unit": 20.03,
+    "gst": "10%",
+    "amt": 40.06,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Consumables",
+    "desc_rows": [
+     "Consumables"
+    ],
+    "qty": 1.0,
+    "unit": 116.0,
+    "gst": "10%",
+    "amt": 116.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 5,
+    "desc": "Dumping fees",
+    "desc_rows": [
+     "Dumping fees"
+    ],
+    "qty": 1.0,
+    "unit": 168.0,
+    "gst": "10%",
+    "amt": 168.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 6,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 9.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 1080.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 7,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 9.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 585.0,
+    "src": "TEXT"
+   }
+  ],
+  "15078": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0,
+    "src": "TEXT"
+   }
+  ],
+  "15222": [
+   {
+    "n": 1,
+    "desc": "Grillex 15 Amp Inbench Unit",
+    "desc_rows": [
+     "Grillex 15 Amp Inbench Unit"
+    ],
+    "qty": 1.0,
+    "unit": 3975.75,
+    "gst": "10%",
+    "amt": 3975.75,
+    "src": "TEXT"
+   },
+   {
+    "n": 2,
+    "desc": "15a Weatherproof single GPO",
+    "desc_rows": [
+     "15a Weatherproof single GPO"
+    ],
+    "qty": 1.0,
+    "unit": 57.62,
+    "gst": "10%",
+    "amt": 57.62,
+    "src": "TEXT"
+   },
+   {
+    "n": 3,
+    "desc": "20a Hager RCBO",
+    "desc_rows": [
+     "20a Hager RCBO"
+    ],
+    "qty": 1.0,
+    "unit": 49.57,
+    "gst": "10%",
+    "amt": 49.57,
+    "src": "TEXT"
+   },
+   {
+    "n": 4,
+    "desc": "Disposal",
+    "desc_rows": [
+     "Disposal"
+    ],
+    "qty": 1.0,
+    "unit": 135.0,
+    "gst": "10%",
+    "amt": 135.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 5,
+    "desc": "Electrician (LCC)",
+    "desc_rows": [
+     "Electrician (LCC)"
+    ],
+    "qty": 6.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 720.0,
+    "src": "TEXT"
+   },
+   {
+    "n": 6,
+    "desc": "Apprentice",
+    "desc_rows": [
+     "Apprentice"
+    ],
+    "qty": 6.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 390.0,
+    "src": "TEXT"
+   }
+  ]
+ },
+ "match": {
+  "14020": {
+   "target_row": 2948,
+   "target_lk": "4a03eafa-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-08-22",
+   "amount": 648.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14043": {
+   "target_row": 886,
+   "target_lk": "f81bb907-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-09-05",
+   "amount": 1667.47,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14051": {
+   "target_row": 1202,
+   "target_lk": "c9296f40-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-09-13",
+   "amount": 1370.28,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14052": {
+   "target_row": 736,
+   "target_lk": "8167942b-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-09-13",
+   "amount": 1962.09,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14067": {
+   "target_row": 2220,
+   "target_lk": "9fe533c4-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-09-23",
+   "amount": 767.71,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14100": {
+   "target_row": 3270,
+   "target_lk": "4a760b52-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-10-30",
+   "amount": 564.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14102": {
+   "target_row": 3269,
+   "target_lk": "f686b5dd-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-10-30",
+   "amount": 564.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14137": {
+   "target_row": 2773,
+   "target_lk": "346eaf4b-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-11-26",
+   "amount": 705.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14133": {
+   "target_row": 1799,
+   "target_lk": "081312a6-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-11-26",
+   "amount": 1085.76,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14150": {
+   "target_row": 330,
+   "target_lk": "1f96a354-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-11-29",
+   "amount": 3252.4,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14174": {
+   "target_row": 1586,
+   "target_lk": "a4e19cef-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-12-18",
+   "amount": 1187.11,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14170": {
+   "target_row": 1526,
+   "target_lk": "2f8efc52-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-12-18",
+   "amount": 1263.68,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14190": {
+   "target_row": 1853,
+   "target_lk": "2307a206-73123-PK000118-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000118",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2024-12-20",
+   "amount": 1012.95,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14206": {
+   "target_row": 1257,
+   "target_lk": "8da84944-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-01-10",
+   "amount": 1331.25,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14207": {
+   "target_row": 2970,
+   "target_lk": "5c49cee6-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-01-10",
+   "amount": 644.74,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14231": {
+   "target_row": 3006,
+   "target_lk": "b2db12a5-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-01-30",
+   "amount": 630.02,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14259": {
+   "target_row": 2066,
+   "target_lk": "0f4079a6-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-21",
+   "amount": 851.89,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14257": {
+   "target_row": 2766,
+   "target_lk": "75969d1a-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-21",
+   "amount": 708.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14262": {
+   "target_row": 1982,
+   "target_lk": "ae52598c-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-21",
+   "amount": 911.52,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14282": {
+   "target_row": 1807,
+   "target_lk": "14028100-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-28",
+   "amount": 1073.4,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14280": {
+   "target_row": 2835,
+   "target_lk": "ae74de2c-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-28",
+   "amount": 680.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14276": {
+   "target_row": 1932,
+   "target_lk": "0ffa0a2b-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-28",
+   "amount": 947.75,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14275": {
+   "target_row": 2017,
+   "target_lk": "693fca58-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-02-28",
+   "amount": 887.27,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14290": {
+   "target_row": 360,
+   "target_lk": "461edeb1-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-14",
+   "amount": 2624.65,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14294": {
+   "target_row": 1962,
+   "target_lk": "9f7ee0c3-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-17",
+   "amount": 915.93,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14295": {
+   "target_row": 2028,
+   "target_lk": "3f6d0a69-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-24",
+   "amount": 880.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14308": {
+   "target_row": 2053,
+   "target_lk": "2decffda-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-26",
+   "amount": 857.55,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14321": {
+   "target_row": 1958,
+   "target_lk": "ad7204ac-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-31",
+   "amount": 918.46,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14320": {
+   "target_row": 3058,
+   "target_lk": "ad3d0333-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-03-31",
+   "amount": 607.75,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14376": {
+   "target_row": 2833,
+   "target_lk": "1f00a1ea-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-05-13",
+   "amount": 680.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14389": {
+   "target_row": 3317,
+   "target_lk": "24bee96b-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-05-23",
+   "amount": 552.5,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14388": {
+   "target_row": 822,
+   "target_lk": "18f33f56-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-05-23",
+   "amount": 1753.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14469": {
+   "target_row": 1988,
+   "target_lk": "e575eb3e-73123-PK000412-001",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2024/25",
+   "docdate": "2025-06-27",
+   "amount": 905.45,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14472": {
+   "target_row": 3126,
+   "target_lk": "8a47e622-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-06-27",
+   "amount": 595.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14520": {
+   "target_row": 821,
+   "target_lk": "5a9ddc69-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-07-30",
+   "amount": 1755.94,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14545": {
+   "target_row": 363,
+   "target_lk": "72610bf7-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-08-19",
+   "amount": 2578.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14587": {
+   "target_row": 1157,
+   "target_lk": "d25f7507-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-09-09",
+   "amount": 1440.25,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14716": {
+   "target_row": 3125,
+   "target_lk": "6ddceca4-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-11-28",
+   "amount": 595.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14739": {
+   "target_row": 3455,
+   "target_lk": "0a7b8746-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-12-04",
+   "amount": 520.5,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14773": {
+   "target_row": 1356,
+   "target_lk": "a28c7d4e-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2025-12-22",
+   "amount": 1268.4,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14793": {
+   "target_row": 1941,
+   "target_lk": "5c48330c-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-01-09",
+   "amount": 937.3,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14928": {
+   "target_row": 2350,
+   "target_lk": "6144d08e-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-04-14",
+   "amount": 740.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14945": {
+   "target_row": 1624,
+   "target_lk": "101799b7-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-04-24",
+   "amount": 1156.01,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14983": {
+   "target_row": 2229,
+   "target_lk": "a69c94a9-73123-PK000118-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000118",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-04-30",
+   "amount": 763.66,
+   "ttype": "PUR Cred Invoice"
+  },
+  "14997": {
+   "target_row": 2951,
+   "target_lk": "6a7910e0-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-05-12",
+   "amount": 647.5,
+   "ttype": "PUR Cred Invoice"
+  },
+  "15036": {
+   "target_row": 1128,
+   "target_lk": "a1ff2c17-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-05-22",
+   "amount": 1480.0,
+   "ttype": "PUR Cred Invoice"
+  },
+  "15037": {
+   "target_row": 369,
+   "target_lk": "401bd6ce-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-05-22",
+   "amount": 2407.08,
+   "ttype": "PUR Cred Invoice"
+  },
+  "15078": {
+   "target_row": 3303,
+   "target_lk": "b60593d4-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Pending evidence",
+   "fy": "FY2025/26",
+   "docdate": "2026-06-12",
+   "amount": 555.0,
+   "ttype": "PUR Cred Invoice"
+  }
+ },
+ "unmatched": [
+  "14406",
+  "14865",
+  "15222"
+ ],
+ "repair": {
+  "15133": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15134": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15135": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15145": {
+   "inv_iso": "2026-07-11",
+   "inv_lbl": "11-Jul-2026",
+   "due_iso": "2026-07-25",
+   "due_lbl": "25-Jul-2026",
+   "corpus_date": "25-Jul-2026"
+  },
+  "15146": {
+   "inv_iso": "2026-07-11",
+   "inv_lbl": "11-Jul-2026",
+   "due_iso": "2026-07-25",
+   "due_lbl": "25-Jul-2026",
+   "corpus_date": "25-Jul-2026"
+  },
+  "15148": {
+   "inv_iso": "2026-07-13",
+   "inv_lbl": "13-Jul-2026",
+   "due_iso": "2026-07-27",
+   "due_lbl": "27-Jul-2026",
+   "corpus_date": "27-Jul-2026"
+  },
+  "15150": {
+   "inv_iso": "2026-07-13",
+   "inv_lbl": "13-Jul-2026",
+   "due_iso": "2026-07-27",
+   "due_lbl": "27-Jul-2026",
+   "corpus_date": "27-Jul-2026"
+  },
+  "15160": {
+   "inv_iso": "2026-07-14",
+   "inv_lbl": "14-Jul-2026",
+   "due_iso": "2026-07-28",
+   "due_lbl": "28-Jul-2026",
+   "corpus_date": "28-Jul-2026"
+  },
+  "15161": {
+   "inv_iso": "2026-07-14",
+   "inv_lbl": "14-Jul-2026",
+   "due_iso": "2026-07-28",
+   "due_lbl": "28-Jul-2026",
+   "corpus_date": "28-Jul-2026"
+  },
+  "15170": {
+   "inv_iso": "2026-07-20",
+   "inv_lbl": "20-Jul-2026",
+   "due_iso": "2026-08-03",
+   "due_lbl": "3-Aug-2026",
+   "corpus_date": "03-Aug-2026"
+  },
+  "15181": {
+   "inv_iso": "2026-07-26",
+   "inv_lbl": "26-Jul-2026",
+   "due_iso": "2026-08-09",
+   "due_lbl": "9-Aug-2026",
+   "corpus_date": "09-Aug-2026"
+  },
+  "15182": {
+   "inv_iso": "2026-07-26",
+   "inv_lbl": "26-Jul-2026",
+   "due_iso": "2026-08-09",
+   "due_lbl": "9-Aug-2026",
+   "corpus_date": "09-Aug-2026"
+  },
+  "15198": {
+   "inv_iso": "2026-07-31",
+   "inv_lbl": "31-Jul-2026",
+   "due_iso": "2026-08-14",
+   "due_lbl": "14-Aug-2026",
+   "corpus_date": "14-Aug-2026"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "final": "/home/claude/b44/out/recalc/PS_WP_Transaction_Register_3FY_v44_HANDOVER.xlsx",
+ "CT": 11377312.51,
+ "PA": [
+  5,
+  494
+ ],
+ "GRP": [
+  495,
+  504
+ ],
+ "TOT_ROW": 505,
+ "CHK_ROW": 506,
+ "PB": [
+  511,
+  904
+ ],
+ "parks": 490,
+ "single": 6484,
+ "multi_held": 280,
+ "alloc_lk": 128,
+ "alloc_rows": 628,
+ "alloc_total": 1187581.57,
+ "SA_END": 632,
+ "SA_TOT": 634,
+ "green": 420,
+ "amber": 582,
+ "red": 2073,
+ "CLASS_LABELS": [
+  "Multiple sites named (not allocated)",
+  "Non-park Council facility (ship-to = Parks Depot)",
+  "City-wide network service (no site by design)",
+  "Accounting event (no site by construction)",
+  "Internal charge (not site-specific)",
+  "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+  "Supply-point address only (address route pending)",
+  "No invoice sighted (awaiting capture)",
+  "No site determinable"
+ ],
+ "MULTI_ALLOC": "Multiple sites named (allocated per printed line, see Site_Allocation)",
+ "RESIDUE": "(residue: printed lines naming no park or several)",
+ "E_GREEN": "Electricity supply point (address = Council parcel record, number and street exact)",
+ "E_AMBER": "Electricity supply point (address = Council parcel record, street unique) [USER CHECK]",
+ "eil_end": 4839,
+ "gb_count": 1877
+}

@@ -1,0 +1,2655 @@
+{
+ "sha": "e3a4a0fbaf05e644f144523c53ba5b0aeb750163ff9dce0d08902e92f8999416",
+ "md5": "ec376f04fb81d9228310e09ae4d9d21f",
+ "facts": {
+  "15133": {
+   "site_printed": "Edens parkland",
+   "site_address": "18 Rochelle Court",
+   "order": "709835 + CR3908262",
+   "cr": "CR3908262",
+   "pk": "PK000412",
+   "tech": "Christopher Edwards",
+   "officer": "Jessica Burke",
+   "works": " | Collected required materials from wholesaler | Attended site and measured temporary inspection panel | Fabricated and installed temporary inspection panel to make pole safe | Inspected pole and identified missing fuses | ",
+   "gaz_sites": [
+    "Edens Parkland"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "17-Jul-2026",
+   "sub": 681.0,
+   "gst": 68.1,
+   "tot": 749.1,
+   "pages": "pages 1 to 3 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15134": {
+   "site_printed": "Doug Larsen Park / Beenleigh",
+   "site_address": "41 Logan Street",
+   "order": "709835 + CR3897328",
+   "cr": "CR3897328",
+   "pk": "PK000442",
+   "tech": null,
+   "officer": "Rene Harreman",
+   "works": " | Travel to Site, | Ordered by Rene Harreman. |  | Q Power attended Doug Larsen BMX Park to investigate multiple lights not operating. The lighting control was located in | the top right-hand side of the switchboard beside the BMX clubhouse. |  | On inspection, 4 lights were found operating. 2x of the 4x fittings operating drivers were identified as faulty intermittently | switching on and off. | ",
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "17-Jul-2026",
+   "sub": 300.0,
+   "gst": 30.0,
+   "tot": 330.0,
+   "pages": "pages 4 to 6 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15135": {
+   "site_printed": "Tansey Park, Tanah Merah",
+   "site_address": "108 Tansey Drive",
+   "order": "709835 + CR3901157",
+   "cr": "CR3901157",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Rene Harreman",
+   "works": "Travel to site. | Inspected light at boat ramp. | Found light to have extensive flood damage. | Measured pole top for light replacement. | ",
+   "gaz_sites": [
+    "Tansey Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "17-Jul-2026",
+   "sub": 370.0,
+   "gst": 37.0,
+   "tot": 407.0,
+   "pages": "pages 7 to 8 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15145": {
+   "site_printed": "Greenstone park",
+   "site_address": "Greenstone Park",
+   "order": "717370 + CR3916102",
+   "cr": "CR3916102",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": " | Travel to Site, |  | Re energised BBQs in switchboard, found bbq thermocouple needed resetting. Once reset tested both BBQs | and confirmed 20 min cycle of working and plates heating correctly |  | ",
+   "gaz_sites": [
+    "Greenstone Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "25-Jul-2026",
+   "sub": 462.5,
+   "gst": 46.25,
+   "tot": 508.75,
+   "pages": "pages 9 to 10 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15146": {
+   "site_printed": "Foxx park",
+   "site_address": "Foxx Park",
+   "order": "717370 + CR3916106",
+   "cr": "CR3916106",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": "Travel to Site, | Investigated bbq light and not heating up, found thermocouple needed reset, once reset completed a 20 min | full cycle and confirmed both working and heating correctly and switching to green once heated. |  | ",
+   "gaz_sites": [
+    "Foxx Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "25-Jul-2026",
+   "sub": 462.5,
+   "gst": 46.25,
+   "tot": 508.75,
+   "pages": "pages 11 to 12 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15148": {
+   "site_printed": "Underwood Park",
+   "site_address": "982-1006 Underwood Road",
+   "order": "709835 + CR3900553",
+   "cr": "CR3900553",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": "Travel to site. | Investigated solar light pole. | Tested and confirmed 24.7V at battery. | Manually turned on lights and battery immediately drained to 21V. | Found solar panel not charging and reading 0kWh. | Solar panel is very dirty and covered by a large tree, which is most likely causing the charging issue. | Confirmed controller is newer and operating correctly. | Solar panel setup is 2 panels in parallel, as per attachments. | Replacement, cleaning, or repositioning of solar panels will be required. | Data stickers on panels are faded and panel details could not be confirmed. |  |  |  |  | Page 1/3 | 8/27 Allgas Street | Slacks Creek QLD 4127 | Tel. 07 3155 4225 | qpower.com.au | ABN 82 067 507 591 | Licence # 69807 |  |  |  |  | PLEASE PAY BY AMOUNT INVOICE DATE |  | 27/07/2026 $610.50 13/07/2026 |  | TAX INVOICE NO. 15148 | ",
+   "gaz_sites": [
+    "Underwood Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "27-Jul-2026",
+   "sub": 555.0,
+   "gst": 55.5,
+   "tot": 610.5,
+   "pages": "pages 13 to 15 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15150": {
+   "site_printed": "Jimboomba Sports Park",
+   "site_address": "South Street",
+   "order": "709835 + CR3900549",
+   "cr": "CR3900549",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Ryan McCorkindale",
+   "works": "Travel to site. | Investigated tennis lights. | Found right-hand side tennis court lights tripped inside DB Tennis on property pole. | Re-energised circuit and tested operation. | Found 4 x bulbs blown inside light fittings. | Confirmed voltage to light heads, confirming bulbs are blown. |  | ",
+   "gaz_sites": [],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "27-Jul-2026",
+   "sub": 555.0,
+   "gst": 55.5,
+   "tot": 610.5,
+   "pages": "pages 16 to 17 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15160": {
+   "site_printed": "Logan Village Green",
+   "site_address": "Logan Street",
+   "order": "717370+C3911946",
+   "cr": null,
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burk",
+   "works": "Travel to site. | Attended site to investigate lights not working. | Found main switch off. | Reset main switch and tested all lights and control for operation. | ",
+   "gaz_sites": [
+    "Logan Village Green"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "28-Jul-2026",
+   "sub": 402.5,
+   "gst": 40.25,
+   "tot": 442.75,
+   "pages": "pages 18 to 19 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15161": {
+   "site_printed": "Billubera Park",
+   "site_address": "40 Hyde Drive",
+   "order": "717370+CR3913116",
+   "cr": "CR3913116",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": "Travel to Site, | Investigated bbq not working, | push button only has red on switch, tested bbq and confirmed heating up for 20 min cycle and red light on. |  |  |  | ",
+   "gaz_sites": [],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "28-Jul-2026",
+   "sub": 370.0,
+   "gst": 37.0,
+   "tot": 407.0,
+   "pages": "pages 20 to 21 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15170": {
+   "site_printed": "Doug Larsen Park / Beenleigh",
+   "site_address": "41 Logan Street",
+   "order": "717370+CR3915747",
+   "cr": "CR3915747",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": "Travel to Site, |  | Test PowerPoint to prove it\u2019s energised, then isolate at swb and test for dead | Put lock and tag on isolating breaker to ensure safe works | Removed cover of PowerPoint, placed cables into BP connectors | Put blank plate over the BP connectors, confirmed it was secure and safe, removed the lock and tag and | reenergised the circuit. | Put breaker covers back on the board and reenergised BBQ 2 and lighting control circuits as they were off when | I arrived | Tested and now operating as normal |  |  | ",
+   "gaz_sites": [
+    "Doug Larsen Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "03-Aug-2026",
+   "sub": 607.96,
+   "gst": 60.8,
+   "tot": 668.76,
+   "pages": "pages 22 to 23 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15181": {
+   "site_printed": "Teviot Downs Park",
+   "site_address": "26 Bradman Street",
+   "order": "717370+CR3914736",
+   "cr": "CR3914736",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": null,
+   "gaz_sites": [
+    "Teviot Downs Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "09-Aug-2026",
+   "sub": 528.0,
+   "gst": 52.8,
+   "tot": 580.8,
+   "pages": "pages 24 to 25 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15182": {
+   "site_printed": "Riverdale Park",
+   "site_address": "Riverdale Park",
+   "order": "717370",
+   "cr": null,
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Riverdale Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "09-Aug-2026",
+   "sub": 656.03,
+   "gst": 65.6,
+   "tot": 721.63,
+   "pages": "pages 28 to 30 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "15198": {
+   "site_printed": "Buxton Park",
+   "site_address": "Buxton Avenue",
+   "order": "717370 +CR3919116",
+   "cr": "CR3919116",
+   "pk": "PK000412",
+   "tech": null,
+   "officer": "Jessica Burke",
+   "works": " | Travel to Site and found 4 up lights and 3 signage lights all having severe water damage and will need replacing | measure up light fittings and attach photos along with light fitting details | disconnect all light fittings from circuit and disconnect feed from RCD | Tested circuit and found to Fail IR | measure cable from board to job location and create and attach site mud map |  | Quote to Follow |  |  |  |  | Service - Do and Charge | Part # Item Quantity Unit Price GST Total | Electrician (LCC) 4.00 $120.00 10% $480.00 | Apprentice 4.00 $65.00 10% $260.00 | Sub-Total ex GST $740.00 | GST $74.00 | Total $814.00 |  |  |  |  | Page 1/2 | 8/27 Allgas Street | Slacks Creek QLD 4127 | Tel. 07 3155 4225 | qpower.com.au | ABN 82 067 507 591 | Licence # 69807 |  |  |  |  | PLEASE PAY BY AMOUNT INVOICE DATE |  | 14/08/2026 $814.00 31/07/2026 |  | TAX INVOICE NO. 15198 | For electrical installations, this certifies that the electrical installation, to the extent affected by the electrical work, has been tested and found electrically safe and compliant with the requirements of the Wiring Rules and any other applicable standard under the Electrical Safety Regulation 2013. |  |  |  |  | $740.00 | For electrical equipment, this certifies that the electrical equipment, to the extent affected by the electrical work, is electrically safe. QTP Nominees: Natalie Walsh, Scott Fulton, Andre De Byl. Electrical Contractor Licence No. 69807 |  |  |  |  | Sub-Total ex GST | GST $74.00 | Total inc GST $814.00 | Amount Applied $0.00 | Balance Due $814.00 |  |  |  |  | Major credit cards are accepted however a 2.2% surcharge will apply. | To avoid surcharge please pay via Direct Deposit. |  | How To Pay INVOICE NO. 15198 |  | Credit Card (MasterCard or Visa) Direct Deposit | Pay Online qpow.simprosuite.com/payment/ Bank Suncorp | Please call 07 3155 4225 to pay over the phone. Acc. Name Q Power | BSB 484-799 | Credit Card No. Acc. No. 611134396 |  | ",
+   "gaz_sites": [
+    "Buxton Park"
+   ],
+   "vendor": "Q Power (Qld) Pty Ltd",
+   "abn": "82 067 507 591",
+   "date": "14-Aug-2026",
+   "sub": 740.0,
+   "gst": 74.0,
+   "tot": 814.0,
+   "pages": "pages 31 to 32 of QPower.pdf",
+   "f1_total": false,
+   "lines": []
+  },
+  "C13125": {
+   "site_printed": "Demeio Park, BERRINBA",
+   "site_address": null,
+   "order": "492269",
+   "cr": "3427766",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Demeio Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "24-Oct-2023",
+   "sub": 430.0,
+   "gst": 43.0,
+   "tot": 473.0,
+   "pages": "pages 1 to 1 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13169": {
+   "site_printed": "Greenbank Recreation Reserve, GREENBANK",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3435675",
+   "pk": "PK000118",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "15-Nov-2023",
+   "sub": 210.0,
+   "gst": 21.0,
+   "tot": 231.0,
+   "pages": "pages 2 to 2 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13175": {
+   "site_printed": "Mabel Park, Slacks Creek",
+   "site_address": null,
+   "order": "494021",
+   "cr": null,
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Mabel Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "16-Nov-2023",
+   "sub": 295.0,
+   "gst": 29.5,
+   "tot": 324.5,
+   "pages": "pages 3 to 3 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13188": {
+   "site_printed": "Jamie Nicolson Park, EDENS LANDING",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3441267",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Jamie Nicolson Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "23-Nov-2023",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 4 to 4 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13213": {
+   "site_printed": "Buxton Park, Buxton Avenue, YARRABILBA",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3446728",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Buxton Park",
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "05-Dec-2023",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 5 to 5 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13223": {
+   "site_printed": "Beenleigh Town Square, BEENLEIGH",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3448249",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Beenleigh Town Square",
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "08-Dec-2023",
+   "sub": 215.0,
+   "gst": 21.5,
+   "tot": 236.5,
+   "pages": "pages 6 to 6 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13254": {
+   "site_printed": "Albert River Park, Ramu Street, EAGLEBY",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3462420",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Albert River Park",
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "15-Jan-2024",
+   "sub": 280.0,
+   "gst": 28.0,
+   "tot": 308.0,
+   "pages": "pages 7 to 7 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13262": {
+   "site_printed": "Albert River Park, Ramu Street, EAGLEBY",
+   "site_address": null,
+   "order": "494021",
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Albert River Park",
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "17-Jan-2024",
+   "sub": 240.0,
+   "gst": 24.0,
+   "tot": 264.0,
+   "pages": "pages 8 to 8 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13284": {
+   "site_printed": "Mikaella Park, 2012 Josh Street, LOGAN RESERVE",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3474373",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "01-Feb-2024",
+   "sub": 220.0,
+   "gst": 22.0,
+   "tot": 242.0,
+   "pages": "pages 9 to 9 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13293": {
+   "site_printed": null,
+   "site_address": null,
+   "order": null,
+   "cr": "3471946",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "05-Feb-2024",
+   "sub": 2112.0,
+   "gst": 211.2,
+   "tot": 2323.2,
+   "pages": "pages 10 to 10 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13301": {
+   "site_printed": "Underwood Park, PRIESTDALE",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3477786",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Underwood Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "08-Feb-2024",
+   "sub": 280.0,
+   "gst": 28.0,
+   "tot": 308.0,
+   "pages": "pages 11 to 11 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13390": {
+   "site_printed": "Olivers Sports Complex, Wagner Street, EAGLEBY",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3501183",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "21-Mar-2024",
+   "sub": 230.0,
+   "gst": 23.0,
+   "tot": 253.0,
+   "pages": "pages 12 to 12 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13403": {
+   "site_printed": null,
+   "site_address": null,
+   "order": "493434",
+   "cr": null,
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "28-Mar-2024",
+   "sub": 750.0,
+   "gst": 75.0,
+   "tot": 825.0,
+   "pages": "pages 13 to 13 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13418": {
+   "site_printed": "Springwood Park, Cinderella Drive, SPRINGWOOD",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3506816",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Springwood Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "05-Apr-2024",
+   "sub": 250.0,
+   "gst": 25.0,
+   "tot": 275.0,
+   "pages": "pages 14 to 14 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13420": {
+   "site_printed": "Jamie Nicholson Park, Jamie Nicolson Avenue,",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3506459",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "05-Apr-2024",
+   "sub": 210.0,
+   "gst": 21.0,
+   "tot": 231.0,
+   "pages": "pages 15 to 15 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13425": {
+   "site_printed": "Waller Park, Waller Road, BROWNS PLAINS",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3509136",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Waller Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "09-Apr-2024",
+   "sub": 230.0,
+   "gst": 23.0,
+   "tot": 253.0,
+   "pages": "pages 16 to 16 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13447": {
+   "site_printed": "Sturdee Park, Sturdee Street, LOGANLEA",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3514832",
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Sturdee Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "19-Apr-2024",
+   "sub": 265.0,
+   "gst": 26.5,
+   "tot": 291.5,
+   "pages": "pages 17 to 17 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13462": {
+   "site_printed": "Homestead Park, 16 28 Blueberry Ash Court,",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3517756",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Homestead Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "26-Apr-2024",
+   "sub": 380.0,
+   "gst": 38.0,
+   "tot": 418.0,
+   "pages": "pages 18 to 18 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13474": {
+   "site_printed": "Village Green, Wharf Street, LOGAN VILLAGE",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3520520",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Village Green"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "02-May-2024",
+   "sub": 575.0,
+   "gst": 57.5,
+   "tot": 632.5,
+   "pages": "pages 19 to 19 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13481": {
+   "site_printed": "Waller Park, BROWNS PLAINS",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3522356",
+   "pk": "PK000118",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Waller Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "07-May-2024",
+   "sub": 230.0,
+   "gst": 23.0,
+   "tot": 253.0,
+   "pages": "pages 20 to 20 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13488": {
+   "site_printed": "Sunrise Park, REGENTS PARK",
+   "site_address": null,
+   "order": "494021",
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Regents Park",
+    "Sunrise Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "09-May-2024",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 21 to 21 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13490": {
+   "site_printed": "Glenlogan Park North, GLENLOGAN",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3524107",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 781 263 511",
+   "date": "10-May-2024",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 22 to 22 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13513": {
+   "site_printed": "Richard Wilson Park",
+   "site_address": null,
+   "order": null,
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Richard Wilson Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "21-May-2024",
+   "sub": 220.0,
+   "gst": 22.0,
+   "tot": 242.0,
+   "pages": "pages 23 to 23 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13519": {
+   "site_printed": "Beenleigh Town Square",
+   "site_address": null,
+   "order": null,
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Beenleigh Town Square",
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": null,
+   "sub": 285.0,
+   "gst": 28.5,
+   "tot": 313.5,
+   "pages": "pages 25 to 25 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13534": {
+   "site_printed": "Forest of Memories, Logan Village",
+   "site_address": null,
+   "order": null,
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "30-May-2024",
+   "sub": 420.0,
+   "gst": 42.0,
+   "tot": 462.0,
+   "pages": "pages 26 to 26 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13537": {
+   "site_printed": "Logan River Parklands, BEENLEIGH",
+   "site_address": null,
+   "order": "494021",
+   "cr": null,
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Logan River Parklands"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "31-May-2024",
+   "sub": 300.0,
+   "gst": 30.0,
+   "tot": 330.0,
+   "pages": "pages 27 to 27 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13542": {
+   "site_printed": "INaller Park, 1 45 ;Maaer Road, BROINIVS PLAINS",
+   "site_address": null,
+   "order": "494021",
+   "cr": null,
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Waller Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "05-Jun-2024",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 28 to 28 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13565": {
+   "site_printed": "Flagstone Parklands, FLAGSTONE",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3540020",
+   "pk": "PK 000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Flagstone Parklands"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "14-Jun-2024",
+   "sub": 270.0,
+   "gst": 27.0,
+   "tot": 297.0,
+   "pages": "pages 29 to 29 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13580": {
+   "site_printed": "Waller Park, Waller Road, BROWNS PLAINS",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3544146",
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Waller Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "21-Jun-2024",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 30 to 30 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13591": {
+   "site_printed": "Dirram Yani Park, FLAGSTONE",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3545626",
+   "pk": null,
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Dirram Yani Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "26-Jun-2024",
+   "sub": 260.0,
+   "gst": 26.0,
+   "tot": 286.0,
+   "pages": "pages 31 to 31 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  },
+  "C13596": {
+   "site_printed": "Everleigh Park, GREENBANK",
+   "site_address": null,
+   "order": "494021",
+   "cr": "3546610",
+   "pk": "PK000022",
+   "tech": null,
+   "officer": null,
+   "works": null,
+   "gaz_sites": [
+    "Council Park",
+    "Everleigh Park"
+   ],
+   "vendor": "BrizSouth Locksmiths Pty Ltd",
+   "abn": "78 126 351 184",
+   "date": "27-Jun-2024",
+   "sub": 270.0,
+   "gst": 27.0,
+   "tot": 297.0,
+   "pages": "pages 32 to 32 of Brizsouth Locksmiths Pty Ltd.pdf",
+   "f1_total": true,
+   "lines": []
+  }
+ },
+ "lines": {
+  "15133": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0
+   },
+   {
+    "n": 3,
+    "desc": "Consumables",
+    "qty": 1.0,
+    "unit": 126.0,
+    "gst": "10%",
+    "amt": 126.0
+   }
+  ],
+  "15134": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.5,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 300.0
+   }
+  ],
+  "15135": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 240.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 2.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 130.0
+   }
+  ],
+  "15145": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.5,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 300.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 2.5,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 162.5
+   }
+  ],
+  "15146": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.5,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 300.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 2.5,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 162.5
+   }
+  ],
+  "15148": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0
+   }
+  ],
+  "15150": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0
+   }
+  ],
+  "15160": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 240.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 2.5,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 162.5
+   }
+  ],
+  "15161": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 2.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 240.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 2.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 130.0
+   }
+  ],
+  "15170": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0
+   },
+   {
+    "n": 3,
+    "desc": "56 Series Blank Plate",
+    "qty": 1.0,
+    "unit": 38.96,
+    "gst": "10%",
+    "amt": 38.96
+   },
+   {
+    "n": 4,
+    "desc": "Consumables",
+    "qty": 1.0,
+    "unit": 14.0,
+    "gst": "10%",
+    "amt": 14.0
+   }
+  ],
+  "15181": [
+   {
+    "n": 1,
+    "desc": "Electrician 3.00 hrs $120.00 10%",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice (1st/2nd Year) 3.00 hrs $56.00 10%",
+    "qty": 3.0,
+    "unit": 56.0,
+    "gst": "10%",
+    "amt": 168.0
+   }
+  ],
+  "15182": [
+   {
+    "n": 1,
+    "desc": "Combination, Switched Socket Outlet,",
+    "qty": 1.0,
+    "unit": 101.03,
+    "gst": "10%",
+    "amt": 101.03
+   },
+   {
+    "n": 2,
+    "desc": "Electrician (LCC)",
+    "qty": 3.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 360.0
+   },
+   {
+    "n": 3,
+    "desc": "Apprentice",
+    "qty": 3.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 195.0
+   }
+  ],
+  "15198": [
+   {
+    "n": 1,
+    "desc": "Electrician (LCC)",
+    "qty": 4.0,
+    "unit": 120.0,
+    "gst": "10%",
+    "amt": 480.0
+   },
+   {
+    "n": 2,
+    "desc": "Apprentice",
+    "qty": 4.0,
+    "unit": 65.0,
+    "gst": "10%",
+    "amt": 260.0
+   }
+  ],
+  "C13125": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 2 x Nova indicator bolts @ $150.00 each",
+    "qty": 1.0,
+    "unit": 300.0,
+    "gst": "(not printed)",
+    "amt": 300.0
+   },
+   {
+    "n": 2,
+    "desc": "Service",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 70.0
+   }
+  ],
+  "C13169": [
+   {
+    "n": 1,
+    "desc": "Supply and fit2 x M e t l a m indicator bolts @ $50.00 each",
+    "qty": 1.0,
+    "unit": 100.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13175": [
+   {
+    "n": 1,
+    "desc": "Supply 2 x 201 cylinders keyed Pl @ $75.00 each",
+    "qty": 2.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 70.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   }
+  ],
+  "C13188": [
+   {
+    "n": 1,
+    "desc": "Supply 2 x 201 cylinders keyed Pl @ $70.00 each",
+    "qty": 2.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 140.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   }
+  ],
+  "C13213": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Nova indicator bolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13223": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Brava single cylinder deadbolt keyed on P2",
+    "qty": 1.0,
+    "unit": 105.0,
+    "gst": "(not printed)",
+    "amt": 105.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13254": [
+   {
+    "n": 1,
+    "desc": "S u p p l y 1 x indicator bolt",
+    "qty": 1.0,
+    "unit": 140.0,
+    "gst": "(not printed)",
+    "amt": 140.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 90.0,
+    "gst": "(not printed)",
+    "amt": 90.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13262": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x 201 cylinder to suit Pl",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 90.0,
+    "gst": "(not printed)",
+    "amt": 90.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour 3/4 hour",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   }
+  ],
+  "C13284": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x Lockwood indicator lock",
+    "qty": 1.0,
+    "unit": 110.0,
+    "gst": "(not printed)",
+    "amt": 110.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13293": [
+   {
+    "n": 1,
+    "desc": "Supply 24 x Abus padlocks keyed Energex 26900 with 50mm",
+    "qty": 1.0,
+    "unit": 2112.0,
+    "gst": "(not printed)",
+    "amt": 2112.0
+   }
+  ],
+  "C13301": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Nova indicator bolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 80.0,
+    "gst": "(not printed)",
+    "amt": 80.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13390": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 120.0,
+    "gst": "(not printed)",
+    "amt": 120.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13403": [
+   {
+    "n": 1,
+    "desc": "Cut 50 x Restricted Pl keys @ $15.00 each",
+    "qty": 50.0,
+    "unit": 15.0,
+    "gst": "(not printed)",
+    "amt": 750.0
+   }
+  ],
+  "C13418": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x 400A mortice indicator lock",
+    "qty": 1.0,
+    "unit": 140.0,
+    "gst": "(not printed)",
+    "amt": 140.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13420": [
+   {
+    "n": 1,
+    "desc": "Supply 2 x Metlam indicator locks @ $50.00 each",
+    "qty": 2.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13425": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 120.0,
+    "gst": "(not printed)",
+    "amt": 120.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13447": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 120.0,
+    "gst": "(not printed)",
+    "amt": 120.0
+   },
+   {
+    "n": 2,
+    "desc": "Supply 1 x packing plate",
+    "qty": 1.0,
+    "unit": 15.0,
+    "gst": "(not printed)",
+    "amt": 15.0
+   },
+   {
+    "n": 3,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 4,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 70.0
+   }
+  ],
+  "C13462": [
+   {
+    "n": 1,
+    "desc": "Supply 2 x Brava single cylinder deadbolts keyed on P2 @ $105.00",
+    "qty": 2.0,
+    "unit": 105.0,
+    "gst": "(not printed)",
+    "amt": 210.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call x 2",
+    "qty": 1.0,
+    "unit": 120.0,
+    "gst": "(not printed)",
+    "amt": 120.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13474": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 4 x Carbine cam locks keyed on 26900 Energex key",
+    "qty": 4.0,
+    "unit": 105.0,
+    "gst": "(not printed)",
+    "amt": 420.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 80.0,
+    "gst": "(not printed)",
+    "amt": 80.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   }
+  ],
+  "C13481": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 120.0,
+    "gst": "(not printed)",
+    "amt": 120.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13488": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Nova indicator lock",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13490": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Mortice style indicatorbolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13513": [
+   {
+    "n": 1,
+    "desc": "Supply 1x Deadbolt Latch $ 25.00",
+    "qty": 1.0,
+    "unit": 25.0,
+    "gst": "(not printed)",
+    "amt": 25.0
+   },
+   {
+    "n": 2,
+    "desc": "Supply 1x ML300HAMBLOCKSCP $ 60.00",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Service Call $ 60.00",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 4,
+    "desc": "Labour $ 75.00",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   }
+  ],
+  "C13519": [
+   {
+    "n": 1,
+    "desc": "Supply + Fit 1x S/Cyl Deadbolt on P2 Key $ 110.00",
+    "qty": 1.0,
+    "unit": 110.0,
+    "gst": "(not printed)",
+    "amt": 110.0
+   },
+   {
+    "n": 2,
+    "desc": "Service Call $ 100.00",
+    "qty": 1.0,
+    "unit": 100.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour $ 75.00",
+    "qty": 1.0,
+    "unit": 75.0,
+    "gst": "(not printed)",
+    "amt": 75.0
+   }
+  ],
+  "C13534": [
+   {
+    "n": 1,
+    "desc": "[Supply + Fitix Earbine cam locks keyed Energex26966$ 210.00",
+    "qty": 1.0,
+    "unit": 210.0,
+    "gst": "(not printed)",
+    "amt": 210.0
+   },
+   {
+    "n": 2,
+    "desc": "Supply + Fit 2x S/S plates @ $15.00 $ 30.00",
+    "qty": 2.0,
+    "unit": 15.0,
+    "gst": "(not printed)",
+    "amt": 30.0
+   },
+   {
+    "n": 3,
+    "desc": "Service Call $ 80.00",
+    "qty": 1.0,
+    "unit": 80.0,
+    "gst": "(not printed)",
+    "amt": 80.0
+   },
+   {
+    "n": 4,
+    "desc": "Labour $ 100.00",
+    "qty": 1.0,
+    "unit": 100.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   }
+  ],
+  "C13537": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x LockwoodLS50SSDP",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 100.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour 30 mins",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13542": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Loclcwriodiidicator bolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service cal",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13565": [
+   {
+    "n": 1,
+    "desc": "1. Supt* 1 x LHAMBLOCK '",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 2,
+    "desc": "2. Supply 1 x ML 200",
+    "qty": 1.0,
+    "unit": 40.0,
+    "gst": "(not printed)",
+    "amt": 40.0
+   },
+   {
+    "n": 3,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 70.0
+   },
+   {
+    "n": 4,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 100.0,
+    "gst": "(not printed)",
+    "amt": 100.0
+   }
+  ],
+  "C13580": [
+   {
+    "n": 1,
+    "desc": "Supply and fit 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13591": [
+   {
+    "n": 1,
+    "desc": "Supply 1 x Lockwood indicator bolt",
+    "qty": 1.0,
+    "unit": 150.0,
+    "gst": "(not printed)",
+    "amt": 150.0
+   },
+   {
+    "n": 2,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 60.0,
+    "gst": "(not printed)",
+    "amt": 60.0
+   },
+   {
+    "n": 3,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 50.0,
+    "gst": "(not printed)",
+    "amt": 50.0
+   }
+  ],
+  "C13596": [
+   {
+    "n": 1,
+    "desc": "Service call",
+    "qty": 1.0,
+    "unit": 70.0,
+    "gst": "(not printed)",
+    "amt": 70.0
+   },
+   {
+    "n": 2,
+    "desc": "Labour",
+    "qty": 1.0,
+    "unit": 200.0,
+    "gst": "(not printed)",
+    "amt": 200.0
+   }
+  ]
+ },
+ "match": {
+  "15133": {
+   "target_row": 2828,
+   "target_lk": "c5e748bd-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 681.0
+  },
+  "15134": {
+   "target_row": 5702,
+   "target_lk": "6a812b55-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 300.0
+  },
+  "15135": {
+   "target_row": 4948,
+   "target_lk": "80b4deef-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 370.0
+  },
+  "15145": {
+   "target_row": 4114,
+   "target_lk": "335c4009-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 462.5
+  },
+  "15146": {
+   "target_row": 4113,
+   "target_lk": "9d8e2b00-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 462.5
+  },
+  "15148": {
+   "target_row": 3300,
+   "target_lk": "d33de06c-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 555.0
+  },
+  "15150": {
+   "target_row": 3301,
+   "target_lk": "4436c63e-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 555.0
+  },
+  "15160": {
+   "target_row": 4440,
+   "target_lk": "771d67db-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 402.5
+  },
+  "15161": {
+   "target_row": 4947,
+   "target_lk": "9dfac11d-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 370.0
+  },
+  "15170": {
+   "target_row": 3057,
+   "target_lk": "a187b0be-73123-PK000412-01",
+   "companions": [],
+   "cred": "QPO001",
+   "name": "Q Power (Qld) Pty Ltd",
+   "pk": "PK000412",
+   "status": "Confirmed",
+   "amount": 607.96
+  },
+  "15181": {
+   "target_row": 3406,
+   "target_lk": "29b70559-73123-PK000412-01",
+   "companions": [],
+   "cred": "nan",
+   "name": "Q Power (Qld) Pty Ltd (series-inferred)",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 528.0
+  },
+  "15182": {
+   "target_row": 2921,
+   "target_lk": "370fa76c-73123-PK000412-01",
+   "companions": [],
+   "cred": "nan",
+   "name": "Q Power (Qld) Pty Ltd (series-inferred)",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 656.03
+  },
+  "15198": {
+   "target_row": 2351,
+   "target_lk": "59ba2a0b-73123-PK000412-01",
+   "companions": [],
+   "cred": "nan",
+   "name": "Q Power (Qld) Pty Ltd (series-inferred)",
+   "pk": "PK000412",
+   "status": "Partial",
+   "amount": 740.0
+  },
+  "C13125": {
+   "target_row": 4273,
+   "target_lk": "dc193d30-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16174,
+     "lk": "dc193d30-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 430.0
+  },
+  "C13169": {
+   "target_row": 7000,
+   "target_lk": "afee0e74-73212-PK000118-001",
+   "companions": [
+    {
+     "row": 16159,
+     "lk": "afee0e74-73212-PK000118-002"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000118",
+   "status": "Partial",
+   "amount": 210.0
+  },
+  "C13175": {
+   "target_row": 5752,
+   "target_lk": "fd3f0b7b-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16136,
+     "lk": "fd3f0b7b-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 295.0
+  },
+  "C13188": {
+   "target_row": 6299,
+   "target_lk": "ab61dfe6-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16150,
+     "lk": "ab61dfe6-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13213": {
+   "target_row": 6298,
+   "target_lk": "0e149fb1-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16140,
+     "lk": "0e149fb1-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13223": {
+   "target_row": 6946,
+   "target_lk": "10309999-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16138,
+     "lk": "10309999-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 215.0
+  },
+  "C13254": {
+   "target_row": 6040,
+   "target_lk": "a4060c74-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16123,
+     "lk": "a4060c74-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 280.0
+  },
+  "C13262": {
+   "target_row": 6545,
+   "target_lk": "b7f50d97-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16120,
+     "lk": "b7f50d97-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 240.0
+  },
+  "C13284": {
+   "target_row": 6903,
+   "target_lk": "af0131d9-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16107,
+     "lk": "af0131d9-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 220.0
+  },
+  "C13293": {
+   "target_row": 663,
+   "target_lk": "6454d6cf-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16109,
+     "lk": "6454d6cf-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 2112.0
+  },
+  "C13301": {
+   "target_row": 6039,
+   "target_lk": "775b329f-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16110,
+     "lk": "775b329f-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 280.0
+  },
+  "C13390": {
+   "target_row": 6724,
+   "target_lk": "79ca3dbb-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16070,
+     "lk": "79ca3dbb-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 230.0
+  },
+  "C13403": {
+   "target_row": 2301,
+   "target_lk": "54e81d60-73124-PK000022-001",
+   "companions": [],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Confirmed",
+   "amount": 750.0
+  },
+  "C13418": {
+   "target_row": 6464,
+   "target_lk": "1aeb12e4-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16053,
+     "lk": "1aeb12e4-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 250.0
+  },
+  "C13420": {
+   "target_row": 6998,
+   "target_lk": "2bbe0bce-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16051,
+     "lk": "2bbe0bce-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 210.0
+  },
+  "C13425": {
+   "target_row": 6723,
+   "target_lk": "c2fdf942-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16054,
+     "lk": "c2fdf942-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 230.0
+  },
+  "C13447": {
+   "target_row": 6265,
+   "target_lk": "169d2168-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16046,
+     "lk": "169d2168-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 265.0
+  },
+  "C13462": {
+   "target_row": 4684,
+   "target_lk": "9f95a637-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16048,
+     "lk": "9f95a637-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 380.0
+  },
+  "C13474": {
+   "target_row": 3201,
+   "target_lk": "7dc674e5-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16008,
+     "lk": "7dc674e5-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 575.0
+  },
+  "C13481": {
+   "target_row": 6722,
+   "target_lk": "68f1e11b-73212-PK000118-001",
+   "companions": [
+    {
+     "row": 16009,
+     "lk": "68f1e11b-73212-PK000118-002"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000118",
+   "status": "Partial",
+   "amount": 230.0
+  },
+  "C13488": {
+   "target_row": 6297,
+   "target_lk": "46b6b75d-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16045,
+     "lk": "46b6b75d-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13490": {
+   "target_row": 6296,
+   "target_lk": "f0956d98-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16010,
+     "lk": "f0956d98-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13513": {
+   "target_row": 6901,
+   "target_lk": "33a4f79c-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16013,
+     "lk": "33a4f79c-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 220.0
+  },
+  "C13519": {
+   "target_row": 5970,
+   "target_lk": "d4596d89-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16014,
+     "lk": "d4596d89-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 285.0
+  },
+  "C13534": {
+   "target_row": 4326,
+   "target_lk": "6be06ac3-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16003,
+     "lk": "6be06ac3-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 420.0
+  },
+  "C13537": {
+   "target_row": 5695,
+   "target_lk": "8b434ab3-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16005,
+     "lk": "8b434ab3-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 300.0
+  },
+  "C13542": {
+   "target_row": 6295,
+   "target_lk": "77f2a01f-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 16006,
+     "lk": "77f2a01f-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13565": {
+   "target_row": 6164,
+   "target_lk": "d9a63422-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 15990,
+     "lk": "d9a63422-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 270.0
+  },
+  "C13580": {
+   "target_row": 6294,
+   "target_lk": "860d6396-73212-PK000022-001",
+   "companions": [
+    {
+     "row": 15989,
+     "lk": "860d6396-73212-PK000118-001"
+    }
+   ],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13591": {
+   "target_row": 6300,
+   "target_lk": "2648eec4-73212-PK000022-001",
+   "companions": [],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 260.0
+  },
+  "C13596": {
+   "target_row": 6200,
+   "target_lk": "a55d8744-73212-PK000022-001",
+   "companions": [],
+   "cred": "BRI115",
+   "name": "BrizSouth Locksmiths Pty Ltd",
+   "pk": "PK000022",
+   "status": "Partial",
+   "amount": 270.0
+  }
+ },
+ "dups": [
+  {
+   "inv": "15181",
+   "of": [
+    24,
+    25
+   ],
+   "pages": [
+    26,
+    27
+   ]
+  },
+  {
+   "inv": "C13513",
+   "of": [
+    23
+   ],
+   "pages": [
+    24,
+    24
+   ]
+  }
+ ]
+}

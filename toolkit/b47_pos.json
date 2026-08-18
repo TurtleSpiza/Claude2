@@ -1,0 +1,38 @@
+{
+ "final": "/home/claude/b47/out/recalc/PS_WP_Transaction_Register_3FY_v47_HANDOVER.xlsx",
+ "CT": 11377312.51,
+ "PA": [
+  5,
+  526
+ ],
+ "GRP": [
+  527,
+  536
+ ],
+ "TOT": 537,
+ "CHK": 538,
+ "PB": [
+  543,
+  936
+ ],
+ "parks": 522,
+ "n_write": 1290,
+ "n_flag": 14,
+ "CLASS": [
+  "(residue: printed lines naming no park or several)",
+  "Multiple sites named (not allocated)",
+  "Non-park Council facility (ship-to = Parks Depot)",
+  "City-wide network service (no site by design)",
+  "Accounting event (no site by construction)",
+  "Internal charge (not site-specific)",
+  "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+  "Supply-point address only (address route pending)",
+  "No invoice sighted (awaiting capture)",
+  "No site determinable"
+ ],
+ "MA": "Multiple sites named (allocated per printed line, see Site_Allocation)",
+ "CR_BASIS": "Customer Request register (Location, invoice-number join)",
+ "XW": 25,
+ "lists_new": 146,
+ "gb": 1921
+}

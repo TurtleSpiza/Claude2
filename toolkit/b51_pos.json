@@ -1,0 +1,1114 @@
+{
+ "final": "/home/claude/b51/out/recalc/PS_WP_Transaction_Register_3FY_v51_HANDOVER.xlsx",
+ "CT": 11377312.51,
+ "EI_END": 2097,
+ "EI_TOT": 2099,
+ "C": [
+  2105,
+  2118
+ ],
+ "EIL_END": 5056,
+ "R": [
+  5060,
+  7152
+ ],
+ "SIGHT": 1969,
+ "RECN": 2093,
+ "gb": 1969,
+ "gb_rows": [
+  2948,
+  886,
+  1202,
+  736,
+  2220,
+  3270,
+  3269,
+  1799,
+  2773,
+  330,
+  1526,
+  1586,
+  1853,
+  1257,
+  2970,
+  3006,
+  2766,
+  2066,
+  1982,
+  2017,
+  1932,
+  2835,
+  1807,
+  360,
+  1962,
+  2028,
+  2053,
+  3058,
+  1958,
+  2833,
+  822,
+  3317,
+  1988,
+  3126,
+  821,
+  363,
+  1157,
+  3125,
+  3455,
+  1356,
+  1941,
+  2350,
+  1624,
+  2229,
+  2951,
+  1128,
+  369,
+  3303
+ ],
+ "invs": [
+  "14020",
+  "14043",
+  "14051",
+  "14052",
+  "14067",
+  "14100",
+  "14102",
+  "14133",
+  "14137",
+  "14150",
+  "14170",
+  "14174",
+  "14190",
+  "14206",
+  "14207",
+  "14231",
+  "14257",
+  "14259",
+  "14262",
+  "14275",
+  "14276",
+  "14280",
+  "14282",
+  "14290",
+  "14294",
+  "14295",
+  "14308",
+  "14320",
+  "14321",
+  "14376",
+  "14388",
+  "14389",
+  "14406",
+  "14469",
+  "14472",
+  "14520",
+  "14545",
+  "14587",
+  "14716",
+  "14739",
+  "14773",
+  "14793",
+  "14865",
+  "14928",
+  "14945",
+  "14983",
+  "14997",
+  "15036",
+  "15037",
+  "15078",
+  "15222"
+ ],
+ "unm": [
+  "14406",
+  "14865",
+  "15222"
+ ],
+ "rep_rows": [
+  2828,
+  5702,
+  4948,
+  4114,
+  4113,
+  3300,
+  3301,
+  4440,
+  4947,
+  3057,
+  3406,
+  2921,
+  2351
+ ],
+ "rep": {
+  "15133": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15134": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15135": {
+   "inv_iso": "2026-07-03",
+   "inv_lbl": "3-Jul-2026",
+   "due_iso": "2026-07-17",
+   "due_lbl": "17-Jul-2026",
+   "corpus_date": "17-Jul-2026"
+  },
+  "15145": {
+   "inv_iso": "2026-07-11",
+   "inv_lbl": "11-Jul-2026",
+   "due_iso": "2026-07-25",
+   "due_lbl": "25-Jul-2026",
+   "corpus_date": "25-Jul-2026"
+  },
+  "15146": {
+   "inv_iso": "2026-07-11",
+   "inv_lbl": "11-Jul-2026",
+   "due_iso": "2026-07-25",
+   "due_lbl": "25-Jul-2026",
+   "corpus_date": "25-Jul-2026"
+  },
+  "15148": {
+   "inv_iso": "2026-07-13",
+   "inv_lbl": "13-Jul-2026",
+   "due_iso": "2026-07-27",
+   "due_lbl": "27-Jul-2026",
+   "corpus_date": "27-Jul-2026"
+  },
+  "15150": {
+   "inv_iso": "2026-07-13",
+   "inv_lbl": "13-Jul-2026",
+   "due_iso": "2026-07-27",
+   "due_lbl": "27-Jul-2026",
+   "corpus_date": "27-Jul-2026"
+  },
+  "15160": {
+   "inv_iso": "2026-07-14",
+   "inv_lbl": "14-Jul-2026",
+   "due_iso": "2026-07-28",
+   "due_lbl": "28-Jul-2026",
+   "corpus_date": "28-Jul-2026"
+  },
+  "15161": {
+   "inv_iso": "2026-07-14",
+   "inv_lbl": "14-Jul-2026",
+   "due_iso": "2026-07-28",
+   "due_lbl": "28-Jul-2026",
+   "corpus_date": "28-Jul-2026"
+  },
+  "15170": {
+   "inv_iso": "2026-07-20",
+   "inv_lbl": "20-Jul-2026",
+   "due_iso": "2026-08-03",
+   "due_lbl": "3-Aug-2026",
+   "corpus_date": "03-Aug-2026"
+  },
+  "15181": {
+   "inv_iso": "2026-07-26",
+   "inv_lbl": "26-Jul-2026",
+   "due_iso": "2026-08-09",
+   "due_lbl": "9-Aug-2026",
+   "corpus_date": "09-Aug-2026"
+  },
+  "15182": {
+   "inv_iso": "2026-07-26",
+   "inv_lbl": "26-Jul-2026",
+   "due_iso": "2026-08-09",
+   "due_lbl": "9-Aug-2026",
+   "corpus_date": "09-Aug-2026"
+  },
+  "15198": {
+   "inv_iso": "2026-07-31",
+   "inv_lbl": "31-Jul-2026",
+   "due_iso": "2026-08-14",
+   "due_lbl": "14-Aug-2026",
+   "corpus_date": "14-Aug-2026"
+  }
+ },
+ "PA": [
+  5,
+  555
+ ],
+ "GRP": [
+  556,
+  566
+ ],
+ "TOT": 567,
+ "CHK": 568,
+ "PB": [
+  572,
+  965
+ ],
+ "parks": 551,
+ "CLASS": [
+  "(residue: printed lines naming no park or several)",
+  "Multiple sites named (not allocated)",
+  "Non-park Council facility (ship-to = Parks Depot)",
+  "City-wide network service (no site by design)",
+  "Accounting event (no site by construction)",
+  "Internal charge (not site-specific)",
+  "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+  "Supply-point address only (address route pending)",
+  "No invoice sighted (awaiting capture)",
+  "No site determinable",
+  "Not site-specific by nature (tolls, network charges)"
+ ],
+ "MA": "Multiple sites named (allocated per printed line, see Site_Allocation)",
+ "suburbs": [
+  "bahrs scrub",
+  "bannockburn",
+  "beenleigh",
+  "belivah",
+  "berrinba",
+  "bethania",
+  "boronia heights",
+  "browns plains",
+  "buccan",
+  "carbrook",
+  "cedar creek",
+  "cedar grove",
+  "cedar vale",
+  "chambers flat",
+  "cornubia",
+  "crestmead",
+  "daisy hill",
+  "eagleby",
+  "edens landing",
+  "flagstone",
+  "flinders lakes",
+  "forestdale",
+  "glenlogan",
+  "greenbank",
+  "heritage park",
+  "hillcrest",
+  "holmview",
+  "jimboomba",
+  "kagaru",
+  "kairabah",
+  "kingston",
+  "logan central",
+  "logan reserve",
+  "logan village",
+  "loganholme",
+  "loganlea",
+  "lyons",
+  "marsden",
+  "meadowbrook",
+  "monarch glen",
+  "mount warren park",
+  "mundoolun",
+  "munruben",
+  "new beith",
+  "north maclean",
+  "park ridge",
+  "park ridge south",
+  "priestdale",
+  "riverbend",
+  "rochedale south",
+  "shailer park",
+  "silverbark ridge",
+  "slacks creek",
+  "south maclean",
+  "springwood",
+  "stockleigh",
+  "tamborine",
+  "tanah merah",
+  "underwood",
+  "undullah",
+  "veresdale",
+  "veresdale scrub",
+  "waterford",
+  "waterford west",
+  "windaroo",
+  "wolffdene",
+  "woodhill",
+  "woodridge",
+  "yarrabilba"
+ ],
+ "changes": [
+  [
+   921,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   922,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   2415,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   2416,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   4363,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   5723,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   5734,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   6303,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   6718,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   6739,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   6789,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   6852,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   7025,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   7148,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   7738,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   7823,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8230,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8236,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8237,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8544,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8615,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   8702,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9129,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9277,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9512,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9649,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9724,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   9984,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   10026,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   10039,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   10054,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   10804,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11066,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11223,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11319,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11350,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11490,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11545,
+   "Logan River Park",
+   "Sighted invoice line items (printed)",
+   "Logan River Parklands",
+   "Sighted invoice line items (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11796,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11806,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   11821,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   12088,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   13210,
+   "Logan River Park",
+   "Sighted invoice site (printed)",
+   "Logan River Parklands",
+   "Sighted invoice site (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   13417,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   14427,
+   "Logan River Park",
+   "Electricity supply point",
+   "Logan River Parklands",
+   "Electricity supply point [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   19112,
+   "Logan River Park",
+   "GL narration",
+   "Logan River Parklands",
+   "GL narration [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "peacock"
+  ],
+  [
+   385,
+   "Logan Garden Park",
+   "Electricity supply point",
+   "Logan Gardens",
+   "Electricity supply point [spelling variant canonicalised, Site_Crosswalk]",
+   "dy-alias"
+  ],
+  [
+   817,
+   "Jamie Nicholson Park; Tully Memorial Park; Brushwood Park; Bellevue Park; Lavelle Park; Lagoon Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "Bellevue Park; Brushwood Park; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Tully Memorial Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "dy-alias-MA"
+  ],
+  [
+   1185,
+   "Doug Larsen Park; Logan River Park; Woodlands Park; Crestmead Park; Reserve Park; Tygum Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "Crestmead Park; Doug Larsen Park; Logan River Parklands; Reserve Park; Tygum Park; Woodlands Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "dy-alias-MA"
+  ],
+  [
+   1186,
+   "Doug Larsen Park; Logan River Park; Woodlands Park; Crestmead Park; Reserve Park; Tygum Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "Crestmead Park; Doug Larsen Park; Logan River Parklands; Reserve Park; Tygum Park; Woodlands Park",
+   "Multiple sites named (allocated per printed line, see Site_Allocation)",
+   "dy-alias-MA"
+  ],
+  [
+   2228,
+   "James Smith Rec Park; Jamie Nicholson Park; Tully Memorial Park; Peppertree Park; Brushwood Park; Bellevue Park; Lavelle Park; Lagoon Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   6107,
+   "Riverdale Park; Alexandra Park; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   6995,
+   "Riverdale Park; Alexandra Park; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   8191,
+   "Riverdale Park; Alexandra Park; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   8717,
+   "Riverdale Park; Alexandra Park; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   9112,
+   "Riverdale Park; Alexandra Park; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   14006,
+   "Logan Garden Park",
+   "GL narration",
+   "Logan Gardens",
+   "GL narration [spelling variant canonicalised, Site_Crosswalk]",
+   "dy-alias"
+  ],
+  [
+   15287,
+   "James Smith Rec Park; Jamie Nicholson Park; Tully Memorial Park; Lincoln Green Park; Peppertree Park; Brushwood Park; Bellevue Park; Lagoon Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lincoln Green Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   18991,
+   "James Smith Rec Park; Jamie Nicholson Park; Tully Memorial Park; Lincoln Green Park; Peppertree Park; Brushwood Park; Bellevue Park; Lavelle Park; Lagoon Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Lincoln Green Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "dy-alias-multi"
+  ],
+  [
+   21456,
+   "Logan Garden Park",
+   "GL narration",
+   "Logan Gardens",
+   "GL narration [spelling variant canonicalised, Site_Crosswalk]",
+   "dy-alias"
+  ],
+  [
+   21457,
+   "Logan Garden Park",
+   "GL narration",
+   "Logan Gardens",
+   "GL narration [spelling variant canonicalised, Site_Crosswalk]",
+   "dy-alias"
+  ],
+  [
+   214,
+   "Darlington Parklands; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "Beenleigh Water Play; Darlington Parklands; Flagstone Water Play; Forest Glen Water Feature; Logan Gardens",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   220,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Lavelle Park",
+   "Sighted invoice site (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   259,
+   "Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "Alexander Park; Logan Gardens; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   276,
+   "Logan River Parklands; Tygum Park",
+   "Multiple sites named (not allocated)",
+   "Doug Larsen Park; Logan River Parklands; Tygum Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   292,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Olivers Sports Complex",
+   "Sighted invoice line items (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   298,
+   "Tully Memorial Park",
+   "Sighted invoice line items (printed)",
+   "Olivers Sports Complex; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   417,
+   "Leawarra Park; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "Chambers Flat & Logan Reserve Community Centre; Leawarra Park; Riverdale Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   563,
+   "Darlington Parklands; Willow Park",
+   "Multiple sites named (not allocated)",
+   "Darlington Parklands; Olivers Sports Complex; Willow Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   595,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Hubner Park",
+   "Sighted invoice line items (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   603,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Shaw Street Oval",
+   "Sighted invoice works carried out (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   1080,
+   "Teviot Downs Park",
+   "Sighted invoice line items (printed)",
+   "Jamie Nicolson Park; Teviot Downs Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   1252,
+   "Boronia Bushland; Lincoln Green",
+   "Multiple sites named (not allocated)",
+   "Boronia Bushland; Lincoln Green; Loganlea Picnic Grounds; Skinners Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   1286,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Mt Warren Oval Park",
+   "Sighted invoice line items (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   1291,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Olivers Sports Complex",
+   "Sighted invoice site (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   1303,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Doug Larsen Park",
+   "Sighted invoice works carried out (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   2081,
+   "Arlington Park",
+   "Sighted invoice line items (printed)",
+   "Darlington Parklands",
+   "Sighted invoice line items (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   2199,
+   "Boronia Bushland; Brushwood Park; Jimboomba Park; Lincoln Green; Noyer Park; Skinners Park; Smith Park; Spring Mountain Park",
+   "Multiple sites named (not allocated)",
+   "Boronia Bushland; Brushwood Park; Hubner Park; Jimboomba Park; Lincoln Green; Noyer Park; Skinners Park; Smith Park; Spring Mountain Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   2228,
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Peppertree Park; Teviot Downs Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   2294,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Olivers Sports Complex",
+   "Sighted invoice site (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   5949,
+   "Logan River Parklands",
+   "Sighted invoice line items (printed)",
+   "Jamie Nicolson Park; Logan River Parklands",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   6998,
+   "Council Park",
+   "Sighted invoice site (printed)",
+   "Jamie Nicolson Park",
+   "Sighted invoice site (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   11008,
+   "Alexander Clark Park; Riverdale Park; Tansey Park; Kiewa Park",
+   "Multiple sites named (not allocated)",
+   "Alexander Clark Park; Kiewa Park; Olivers Sports Complex; Riverdale Park; Tansey Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   11545,
+   "Logan River Parklands",
+   "Sighted invoice line items (printed) [user-adjudicated 18-Aug-2026: 17 Peacock Avenue = Logan River Parklands (Council directory); the Origin supply label \"Logan River Park\" names the same site]",
+   "Jamie Nicolson Park; Logan River Parklands",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   11566,
+   "",
+   "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+   "Doug Larsen Park",
+   "Sighted invoice site (printed) [spelling variant canonicalised, Site_Crosswalk]",
+   "src-alias"
+  ],
+  [
+   15283,
+   "Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "Jamie Nicolson Park; Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   15287,
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lincoln Green Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lincoln Green Park; Peppertree Park; Teviot Downs Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   15729,
+   "Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "Jamie Nicolson Park; Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   17063,
+   "Pioneer Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "Jamie Nicolson Park; Pioneer Park; Richard Wilson Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   17225,
+   "Glen Logan Lakes Park; Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "Glen Logan Lakes Park; Jamie Nicolson Park; Paynes Bridge Park; Pioneer Park; Richard Wilson Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   17524,
+   "Doug Larsen Park; Pioneer Park; Spring Mountain Park",
+   "Multiple sites named (not allocated)",
+   "Doug Larsen Park; Jamie Nicolson Park; Paynes Bridge Park; Pioneer Park; Spring Mountain Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ],
+  [
+   18991,
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Lincoln Green Park; Peppertree Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "Bellevue Park; Brushwood Park; James Smith Recreation Area; Jamie Nicolson Park; Lagoon Park; Lavelle Park; Lincoln Green Park; Peppertree Park; Teviot Downs Park; Tully Memorial Park",
+   "Multiple sites named (not allocated)",
+   "src-alias-multi"
+  ]
+ ],
+ "aliases": [
+  "alexandra park",
+  "clean up cecil clark park",
+  "colville st green",
+  "darlington park",
+  "doug larson park",
+  "forest glen park",
+  "harley street shailer park",
+  "hubener park",
+  "james smith rec park",
+  "jamie nicholson park",
+  "jamie nicholson park lavelle park",
+  "lavell park",
+  "logan garden park",
+  "logan gardens park",
+  "logan reserve",
+  "logan river park",
+  "mt warren oval park",
+  "oliver sports complex",
+  "oliver's sport complex",
+  "oliver's sports complex",
+  "richared wilson park",
+  "shaw st oval",
+  "skinner park",
+  "sport complex",
+  "springwood dog off leash park",
+  "tervit down park",
+  "teviot down park",
+  "vandalism olivers sports complex",
+  "woodland district park"
+ ],
+ "xw": [
+  5,
+  639
+ ],
+ "peacock": 46,
+ "elec": {
+  "ties": 375,
+  "groups": 375,
+  "lines": 1191,
+  "ex": 42265.95
+ }
+}

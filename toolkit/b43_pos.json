@@ -1,0 +1,52 @@
+{
+ "PA": [
+  5,
+  486
+ ],
+ "GRP": [
+  487,
+  495
+ ],
+ "TOT_ROW": 496,
+ "CHK_ROW": 497,
+ "PB": [
+  501,
+  894
+ ],
+ "parks": 482,
+ "single": 5482,
+ "multi": 408,
+ "none": 250,
+ "classes": {
+  "Multiple sites named (not allocated)": 408,
+  "Non-park Council facility (ship-to = Parks Depot)": 21,
+  "City-wide network service (no site by design)": 108,
+  "Accounting event (no site by construction)": 2566,
+  "Internal charge (not site-specific)": 326,
+  "Invoice sighted, printed site not in gazetteer (candidate harvest)": 606,
+  "Supply-point address only (address route pending)": 3075,
+  "No invoice sighted (awaiting capture)": 8627,
+  "No site determinable": 250
+ },
+ "CLASS_LABELS": [
+  "Multiple sites named (not allocated)",
+  "Non-park Council facility (ship-to = Parks Depot)",
+  "City-wide network service (no site by design)",
+  "Accounting event (no site by construction)",
+  "Internal charge (not site-specific)",
+  "Invoice sighted, printed site not in gazetteer (candidate harvest)",
+  "Supply-point address only (address route pending)",
+  "No invoice sighted (awaiting capture)",
+  "No site determinable"
+ ],
+ "TH_TOT": 18,
+ "TH_C": [
+  21,
+  26
+ ],
+ "writes": 194,
+ "final": "/home/claude/b43/out/recalc/PS_WP_Transaction_Register_3FY_v43_HANDOVER.xlsx",
+ "CT": 11377312.51,
+ "gb_count": 1877,
+ "leak": 75
+}

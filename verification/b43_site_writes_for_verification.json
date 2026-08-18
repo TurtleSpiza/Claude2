@@ -1,0 +1,1748 @@
+[
+ {
+  "row": 208,
+  "LineKey": "016e3c8a-73212-PK000022-001",
+  "amount": 33115.66,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 10.00 @ $59.50 = $595.00 3. Hydrochloric Acid - Logan Gardens | 3.00 @ $33.00 = $99.00 4. Sodium Bicarb - Logan G"
+ },
+ {
+  "row": 209,
+  "LineKey": "8c1545f0-73212-PK000022-001",
+  "amount": 31378.66,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 6.00 @ $59.50 = $357.00 3. Hydrochloric Acid - Logan Gardens | 3.00 @ $33.00 = $99.00 4. Sodium Bicarb - Logan Ga"
+ },
+ {
+  "row": 210,
+  "LineKey": "3a01d9be-73212-PK000022-001",
+  "amount": 31142.16,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 4.00 @ $59.50 = $238.00 3. Hydrochloric Acid - Logan Gardens | 2.00 @ $33.00 = $66.00 4. Sodium Bicarb - Logan Ga"
+ },
+ {
+  "row": 211,
+  "LineKey": "5abd6b5c-73212-PK000022-001",
+  "amount": 31042.16,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 4.00 @ $59.50 = $238.00 3. Hydrochloric Acid - Logan Gardens | 2.00 @ $33.00 = $66.00 4. Sodium Bicarb - Logan Ga"
+ },
+ {
+  "row": 212,
+  "LineKey": "9b7d8249-73212-PK000022-001",
+  "amount": 29338.35,
+  "site": "Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 12.00 @ $59.50 = $714.00 3. Hydrochloric Acid - Logan Gardens | 4.00 @ $33.00 = $132.00 4. Sodium Bicarb - Logan "
+ },
+ {
+  "row": 213,
+  "LineKey": "aacff66b-73212-PK000022-001",
+  "amount": 28739.85,
+  "site": "Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 11.00 @ $59.50 = $654.50 3. Hydrochloric Acid - Logan Gardens | 3.00 @ $33.00 = $99.00 4. Sodium Bicarb - Logan G"
+ },
+ {
+  "row": 214,
+  "LineKey": "677f0b76-73212-PK000022-001",
+  "amount": 28458.15,
+  "site": "Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play PK000469 | 1.00 @ $5512.58 = $5512.58. 2. Logan Gardens Chlorine PK000469 | 9.00 @ $59.90 = $539.10. 3. Hydrochloric Acid - Logan Gardens PK000469 | 3.00 @ $35.00 = $105.00"
+ },
+ {
+  "row": 215,
+  "LineKey": "7f181e86-73212-PK000022-001",
+  "amount": 28288.85,
+  "site": "Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 7.00 @ $59.50 = $416.50 3. Hydrochloric Acid - Logan Gardens | 3.00 @ $33.00 = $99.00 4. Sodium Bicarb - Logan Ga"
+ },
+ {
+  "row": 216,
+  "LineKey": "4adebebc-73212-PK000022-001",
+  "amount": 27853.35,
+  "site": "Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1.00 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 5.00 @ $59.50 = $297.50 3. Hydrochloric Acid - Logan Gardens | 2.00 @ $33.00 = $66.00 4. Sodium Bicarb - Logan Ga"
+ },
+ {
+  "row": 217,
+  "LineKey": "dcb3dc4e-73212-PK000084-01",
+  "amount": 26670.09,
+  "site": "Alexander Clark Park; Arlington Park; Beenleigh Town Square; Boronia Bushland Reserve; Crestmead Park; Doug Larsen Park; Eridani Park; Everleigh Park; Gould Adams Park; Homestead Park; Kookaburra Park; Logan Gardens; Logan River Parklands; Lowe Oval; Noffke Park; Rainbow Park; Riverdale Park; Spring Mountain Reserve Park; Springwood Conservation Park; Springwood Park; Sturdee Park; Tudor Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Mobile Patrols - Springwood Dog Off Leash Park ($686.4) | 2. Mobile Patrols - Alexander Clark Park (Lock/Unlock) ($950.38) | 3. Mobile Patrols - Beenleigh Town Square Toilets ($760.29) | 4. Mobile "
+ },
+ {
+  "row": 218,
+  "LineKey": "9ca19bda-73212-PK000292-001",
+  "amount": 18400.0,
+  "site": "Demeio Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n                      Play Force Pty Ltd | 69 106 457 176\n\n\n\n\nLot 2 Industrial Ave\nLogan Village QLD 4207\nOffice: (07) 3803 1788\nEmail: team@playforce.com.au\nWeb: playforce.com.au\n\nBilling"
+ },
+ {
+  "row": 219,
+  "LineKey": "e7e2fd9c-73212-PK000022-001",
+  "amount": 18000.0,
+  "site": "Lansdown Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 222,
+  "LineKey": "582072de-73212-PK000292-001",
+  "amount": 15587.0,
+  "site": "Flagstone Parklands",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Elemental Shade Structures\n                                                A.B.N.: 99 292 107 173\n                                unit 5 33-35 Nestor drive meadowbrook brisbane 4131\n                  "
+ },
+ {
+  "row": 225,
+  "LineKey": "89516ad3-73212-PK000413-001",
+  "amount": 15000.0,
+  "site": "Kimberley Forest Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 226,
+  "LineKey": "0d1e71cd-73212-PK000022-001",
+  "amount": 14575.0,
+  "site": "Larry Storey Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 232,
+  "LineKey": "94c4978d-73212-PK000413-001",
+  "amount": 14090.0,
+  "site": "Haldham Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 233,
+  "LineKey": "c23ba177-73212-PK000292-001",
+  "amount": 13369.12,
+  "site": "Logan River Parklands",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Elemental Shade Structures\n                                                A.B.N.: 99 292 107 173\n                                unit 5 33-35 Nestor drive meadowbrook brisbane 4131\n                  "
+ },
+ {
+  "row": 234,
+  "LineKey": "60b0a83e-73212-PK000292-001",
+  "amount": 12890.0,
+  "site": "Noyer Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 238,
+  "LineKey": "8d160939-73212-PK000022-001",
+  "amount": 11316.0,
+  "site": "Peppertree Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Works completed at Peppertree Park as per our quote no. 9691 $11,316.00 = $11,316.00"
+ },
+ {
+  "row": 239,
+  "LineKey": "2684deae-73212-PK000022-001",
+  "amount": 10800.0,
+  "site": "Council Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "(kHzSouth                                                                               Paul Benson\n                                                                                     7/35 Tradelink "
+ },
+ {
+  "row": 242,
+  "LineKey": "07d466e9-73212-PK000292-001",
+  "amount": 10724.45,
+  "site": "Demeio Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Ref; CR# 3459366 Demeio Park BERRINBA - Removed 05.01.24 1 = $0.00 [[repair] Printed text is a date/context fragment; the extraction misread the date digits as a charge amount. Amount voided; no ch"
+ },
+ {
+  "row": 243,
+  "LineKey": "34f8f709-73212-PK000415-001",
+  "amount": 10514.9,
+  "site": "Richard Wilson Park; Teviot Downs Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 1 8/1/24 - Flindersia Park $2,861.65 $2,861.65 | 1 @ $2,861.65 = $2,861.65 2. 1 11/1/24 - Jamie Nicholson Park $1,321.65 $1,321.65 | 1 @ $1,321.65 = $1,321.65 3. 1 11/1/24 - Glen Logan Lakes $1,761"
+ },
+ {
+  "row": 244,
+  "LineKey": "45d197a4-73212-PK000022-001",
+  "amount": 10310.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 258,
+  "LineKey": "5f39af0f-73212-PK000415-001",
+  "amount": 9624.39,
+  "site": "Teviot Downs Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 1 22/04/2024- Glen Logan Lakes CE#3515695 $2,081.65 $2,081.65 | 1 @ $2,081.65 = $2,081.65 2. 1 07/04/2024 - Glen Logan Lakes CR#3507716 $2,607.80 $2,607.80 | 1 @ $2,607.80 = $2,607.80 3. 1 22/04/20"
+ },
+ {
+  "row": 259,
+  "LineKey": "b71c8bff-73123-PK000022-001",
+  "amount": 9533.0,
+  "site": "Logan Gardens; Riverdale Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Daily (7days) cleaning-emptying and disposal of contents of the sanitary bins at the whole parks for the month of November 2024 Logan Gardens, Riverdale Park, Alexandra Park. = $9533.00"
+ },
+ {
+  "row": 260,
+  "LineKey": "ad26a272-73212-PK000412-001",
+  "amount": 9290.13,
+  "site": "Shailer Park; Shailer Pioneer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "Progress Claim                                                                                                            Tax Invoice:0050801\nWednesday, 31 January, 2024                               "
+ },
+ {
+  "row": 261,
+  "LineKey": "0a9d8248-73212-PK000412-001",
+  "amount": 9290.12,
+  "site": "Shailer Park; Shailer Pioneer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "Progress Claim                                                                                                      Tax Invoice:0041086-01\nThursday, 30 November, 2023                                  "
+ },
+ {
+  "row": 264,
+  "LineKey": "0fe5ef4a-73212-PK000415-001",
+  "amount": 9150.0,
+  "site": "Greenbank Meadows Park; Hubner Park; Lincoln Green Park; Skinners Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n  PO Box 126  Tax Invoice\n  Kingston QLD 4114\n  Date: 26/04/2025\nA.B.N.  22 162 601 694  (07) 3388 3745\n  Invoice No.: 00014197\n  0421 213 216\nA.C.N.  162 601 694\n  Due Date: "
+ },
+ {
+  "row": 265,
+  "LineKey": "f53f4acf-73212-PK000415-001",
+  "amount": 8875.0,
+  "site": "Logan River Parklands",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n                                            PO Box 126                                                                Tax Invoice\n                                            K"
+ },
+ {
+  "row": 270,
+  "LineKey": "6700d2bf-73212-PK000415-001",
+  "amount": 8066.85,
+  "site": "Teviot Downs Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 1 21/2/24 - Flindersia River Park - 22,000 L $3,081.65 $3,081.65 | 1 @ $3,081.65 = $3,081.65 2. 1 21/2/24 - Jamie Nicholson - 2,700 L $891.00 $891.00 | 1 @ $891.00 = $891.00 3. 1 21/2/24 - Teviot D"
+ },
+ {
+  "row": 271,
+  "LineKey": "0e2695de-73123-PK000415-001",
+  "amount": 7854.0,
+  "site": "Albert River Park; Bellevue Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 17/5/24 - Bradman St - 4,500 L ($1171.5) | 2. 18/5/24 - Flindersia Park - 21,000 L ($2986.5) | 3. 17/5/24 - Glen Logan Lakes - 2,000 L ($896.5) | 4. 17/5/24 - Jamie Nicholson - 1,500 L ($841.5) | 5"
+ },
+ {
+  "row": 274,
+  "LineKey": "6e4e612a-73212-PK000292-001",
+  "amount": 7623.0,
+  "site": "Regents Park; Sunrise Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. CR# 3490544 Sunrise Park, REGENTS PARK Completed 09.05.24 1 = $0.00 [[repair] Printed text is a date/context fragment; the extraction misread the date digits as a charge amount. Amount voided; no c"
+ },
+ {
+  "row": 276,
+  "LineKey": "b06b6a72-73212-PK000292-001",
+  "amount": 7219.65,
+  "site": "Logan River Parklands; Tygum Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "P (07) 3808 9568\n                                                                                            F (07) 3208 4098\n                                                                          "
+ },
+ {
+  "row": 278,
+  "LineKey": "50b2f1cf-73212-PK000412-001",
+  "amount": 7031.7,
+  "site": "Shailer Pioneer Park",
+  "basis": "Sighted invoice anomalies note",
+  "source_col": 127,
+  "source_text": "Full verbatim invoice page text retained in narrative because the PDF text layer does not reliably preserve all line-item spatial associations. Aggregate line ties exactly to the printed or ledger-con"
+ },
+ {
+  "row": 280,
+  "LineKey": "e6487768-73212-PK000022-001",
+  "amount": 6720.0,
+  "site": "Alexander Clark Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 281,
+  "LineKey": "3cddd302-73211-PK000415-001",
+  "amount": 6636.42,
+  "site": "Logan Gardens",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 40 Device Tests $5,400.00 = $5,400.00. 2. Logan Gardens Device Replacement (2men x 1.5 hours + New Backflow Valve) $1,236.42 = $1,236.42"
+ },
+ {
+  "row": 282,
+  "LineKey": "6f90ef85-73212-PK000413-001",
+  "amount": 6500.0,
+  "site": "Haldham Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 284,
+  "LineKey": "4d994061-73212-PK000415-001",
+  "amount": 6284.9,
+  "site": "Teviot Downs Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 1 21/10/23 - Tully Memorial park - pump out on weekend due to $1,517.45 $1,517.45 | 1 @ $1,517.45 = $1,517.45 2. 1 24/10/23 - Tully Memorial park - for HSTP tank $1,307.65 $1,307.65 | 1 @ $1,307.65"
+ },
+ {
+  "row": 285,
+  "LineKey": "178df94e-73212-PK000292-001",
+  "amount": 6274.13,
+  "site": "Brabham Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. CR#3490563 Brabham Park, CRESTMEAD - Completed 02.05.24 1 = $0.00 [[repair] Printed text is a date/context fragment; the extraction misread the date digits as a charge amount. Amount voided; no cha"
+ },
+ {
+  "row": 287,
+  "LineKey": "a73d4489-73212-PK000292-001",
+  "amount": 5909.75,
+  "site": "Greenstone Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Elemental Shade Structures\n                                                A.B.N.: 99 292 107 173\n                                unit 5 33-35 Nestor drive meadowbrook brisbane 4131\n                  "
+ },
+ {
+  "row": 289,
+  "LineKey": "1fafd84e-73212-PK000118-001",
+  "amount": 5500.0,
+  "site": "Trailwood Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n                                                         PLAY FORCE PTY LTD | ABN 69 106 457 176\n\n\n\n\n                                   Lot 2 Industrial Ave\n                               "
+ },
+ {
+  "row": 290,
+  "LineKey": "b4930763-73212-PK000412-001",
+  "amount": 5410.5,
+  "site": "Dirram Yani Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0051924                                                                                        ABN: 17-099-805-277\nThursday, 30 May, 2024\n\n           Logan City Council                  "
+ },
+ {
+  "row": 293,
+  "LineKey": "2eae1e4c-73212-PK000413-001",
+  "amount": 5290.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 294,
+  "LineKey": "06772e5d-73212-PK000118-001",
+  "amount": 5172.0,
+  "site": "Waller Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n                                                                                            Invoice Date                   STAR CARPENTRY\n                                                  "
+ },
+ {
+  "row": 295,
+  "LineKey": "b1aa1d45-73212-PK000412-001",
+  "amount": 5151.0,
+  "site": "Crestmead Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0050275                                                                                              ABN: 17-099-805-277\nTuesday, 14 November, 2023\n\n           Logan City Council        "
+ },
+ {
+  "row": 296,
+  "LineKey": "77bb74c8-73212-PK000022-001",
+  "amount": 5100.0,
+  "site": "Council Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "izSouth                                                                                  PaulBenson\n         216Locksmiths                                                                         7/35T"
+ },
+ {
+  "row": 297,
+  "LineKey": "5ae83313-73123-PK000022-001",
+  "amount": 5080.0,
+  "site": "Alexander Clark Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. ALEXANDER CLARK PARK PONTOON DAILY INSPECTIONS - CR 3543568 Daily inspections for the month of August 2024 Includes checking signage, temporary fencing, strapping, resecuring where necessary and ta"
+ },
+ {
+  "row": 298,
+  "LineKey": "ee11aa78-73212-PK000415-001",
+  "amount": 4989.4,
+  "site": "Tully Memorial Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 1 24/11/23 - Bradman St Skate Park - 3,000 L $1,091.65 $1,091.65 | 1 @ $1,091.65 = $1,091.65 2. 1 24/11/23 - New Beith Rd Christopher Marks / Green Park - $1,651.65 $1,651.65 | 1 @ $1,651.65 = $1,6"
+ },
+ {
+  "row": 299,
+  "LineKey": "1bb860a4-73212-PK000292-001",
+  "amount": 4970.0,
+  "site": "Albert River Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Albert River Park, Eagleby 1.00 0.00 0.00 = $0.00 2. 7 January 2024 1.00 0.00 0.00 = $0.00 3. Supply labour and equipment to high pressure clean flood 1.00 4,325.00 10% 4,325.00 = $4,325.00 4. 10 J"
+ },
+ {
+  "row": 304,
+  "LineKey": "716ea1f8-73212-PK000415-001",
+  "amount": 4430.0,
+  "site": "Albert River Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n                                           PO Box 126                                                                Tax Invoice\n                                           Kin"
+ },
+ {
+  "row": 313,
+  "LineKey": "2339b8ed-73212-PK000292-001",
+  "amount": 4282.3,
+  "site": "Chantilly Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n                      Play Force Pty Ltd | 69 106 457 176\n\n\n\n\nLot 2 Industrial Ave\nLogan Village QLD 4207\nOffice: (07) 3803 1788\nEmail: team@playforce.com.au\nWeb: playforce.com.au\n\nBilling"
+ },
+ {
+  "row": 342,
+  "LineKey": "2eb2511a-73212-PK000022-001",
+  "amount": 4122.75,
+  "site": "Teviot Downs Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 1 15/12/23 - Tully Memorial $1,519.45 $1,519.45 | 1 @ $1,519.45 = $1,519.45 2. 1 22/12/23 - Jamie Nicholson $1,081.65 $1,081.65 | 1 @ $1,081.65 = $1,081.65 3. 1 22/12/23 - Bradman St, Teviot Downs "
+ },
+ {
+  "row": 345,
+  "LineKey": "31af2445-73212-PK000022-001",
+  "amount": 4080.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 346,
+  "LineKey": "2d2a575b-73212-PK000415-001",
+  "amount": 4072.15,
+  "site": "Noyer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n                                                 PO Box 126                                                                   Tax Invoice\n                                     "
+ },
+ {
+  "row": 348,
+  "LineKey": "903bb8aa-73212-PK000417-001",
+  "amount": 3945.0,
+  "site": "Larry Storey Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 4 January 2024 1.00 0.00 0.00 = $0.00 2. Larry Storey Park, Waterford 4133 1.00 0.00 0.00 = $0.00 3. Supply labour and equipment to dig and scrap out mould 1.00 3,945.00 10% 3,945.00 = $3,945.00"
+ },
+ {
+  "row": 349,
+  "LineKey": "99feb4fa-73212-PK000022-001",
+  "amount": 3840.0,
+  "site": "Shailer Park; Tudor Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 350,
+  "LineKey": "edfc9af9-73212-PK000413-001",
+  "amount": 3810.0,
+  "site": "Homestead Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 355,
+  "LineKey": "1f268885-73212-PK000022-001",
+  "amount": 3725.0,
+  "site": "Shailer Park; Shailer Pioneer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 356,
+  "LineKey": "db1757c0-73212-PK000022-001",
+  "amount": 3725.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 357,
+  "LineKey": "1358b518-73212-PK000022-001",
+  "amount": 3690.8,
+  "site": "Woodlands District Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Woodlands District Park, remove fallen tree and repair chain link fence. = $3690.80"
+ },
+ {
+  "row": 371,
+  "LineKey": "5506ab53-73212-PK000022-001",
+  "amount": 3656.0,
+  "site": "Arlington Park; Homestead Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 373,
+  "LineKey": "9ccc6fab-73212-PK000415-001",
+  "amount": 3620.6,
+  "site": "Pioneer Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 9/1/25 - Glen Logan Lakes - 10, 000 L ($1776.5) | 2. 21/1/25 - Pioneer Park - 5,000 L ($1175.75) | 3. 22/1/25 - Mundoolun Park ($668.35)"
+ },
+ {
+  "row": 374,
+  "LineKey": "3c267afc-73212-PK000292-001",
+  "amount": 3547.0,
+  "site": "Devine Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. QUOTE: CR# 3481300 Devine Park, MARSDEN 3547.00 1 354.70 3901.70 = $3,547.00 [[repair] Extraction took the trailing GST-inclusive figure as the amount; the printed row carries ex-GST 3547.00 | qty "
+ },
+ {
+  "row": 375,
+  "LineKey": "74e04e70-73212-PK000118-001",
+  "amount": 3540.0,
+  "site": "Eagleby Wetlands; Sandstone Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 380,
+  "LineKey": "55475277-73212-PK000022-001",
+  "amount": 3460.0,
+  "site": "Albert River Park; Alexander Clark Park; Booiurragun Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 381,
+  "LineKey": "fb686828-73212-PK000022-001",
+  "amount": 3385.0,
+  "site": "Shailer Park; Woodlands District Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 382,
+  "LineKey": "8fb6e249-73212-PK000022-001",
+  "amount": 3385.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 383,
+  "LineKey": "efaf71eb-73212-PK000022-001",
+  "amount": 3375.0,
+  "site": "Homestead Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 392,
+  "LineKey": "0998c869-7B532-PK000022-005",
+  "amount": 2280.0,
+  "site": "Skinners Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Skinners Park"
+ },
+ {
+  "row": 410,
+  "LineKey": "495b25e1-73212-PK000022-001",
+  "amount": 3340.0,
+  "site": "Riedel Park; Rotary Park; Shailer Park; Village Green",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 412,
+  "LineKey": "17adbe1f-73212-PK000022-001",
+  "amount": 3305.0,
+  "site": "Jimboomba Park; Mabel Park; Meakin Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 413,
+  "LineKey": "174b86fd-73212-PK000412-001",
+  "amount": 3254.0,
+  "site": "Doug Larsen Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0050886                                                                                           ABN: 17-099-805-277\nFriday, 9 February, 2024\n\n           Logan City Council             "
+ },
+ {
+  "row": 415,
+  "LineKey": "723b23a7-73212-PK000118-001",
+  "amount": 3230.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 416,
+  "LineKey": "bc90173f-73212-PK000415-001",
+  "amount": 3210.0,
+  "site": "Lavelle Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n                                           PO Box 126                                                                Tax Invoice\n                                           Kin"
+ },
+ {
+  "row": 417,
+  "LineKey": "9339035a-73212-PK000022-001",
+  "amount": 3200.0,
+  "site": "Leawarra Park; Riverdale Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 418,
+  "LineKey": "e03ea77e-73212-PK000022-001",
+  "amount": 3160.0,
+  "site": "Council Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "BrizSouth                                                                             Paul Benson\n                                                                                        7/35 Tradelink"
+ },
+ {
+  "row": 419,
+  "LineKey": "f29fd66b-73212-PK000118-001",
+  "amount": 3110.0,
+  "site": "Darlington Parklands; Haven Park; Logan River Parklands; Sandstone Park; Shailer Park; Willow Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 541,
+  "LineKey": "a80d5d8c-73212-PK000022-001",
+  "amount": 3090.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 542,
+  "LineKey": "a57400aa-73212-PK000022-001",
+  "amount": 3090.0,
+  "site": "Belyando Park; Jimboomba Park; Mabel Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 546,
+  "LineKey": "883da739-73212-PK000118-001",
+  "amount": 3060.0,
+  "site": "Riverdale Park; Sturdee Park; Woodlands District Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. STURDEE PARK - CR 3532039 - JESSICA BURKE - Inspected on 27/5/24; 28/5/24 - Onsite welding to repair locking rail = $250.00. 2. WILLMANN PARK - CR 3529537 - KIM PRYCE - 27/5/24 - Repaired and reins"
+ },
+ {
+  "row": 547,
+  "LineKey": "62fa0547-73212-PK000118-001",
+  "amount": 3050.0,
+  "site": "Darlington Parklands; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 548,
+  "LineKey": "7cbb0bd5-73212-PK000022-001",
+  "amount": 3030.0,
+  "site": "Shailer Park; Sturdee Park; Valley View Park; View Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 551,
+  "LineKey": "cb6d7832-73212-PK000412-001",
+  "amount": 3008.0,
+  "site": "Village Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0051479                                                                                             ABN: 17-099-805-277\nMonday, 29 April, 2024\n\n           Logan City Council             "
+ },
+ {
+  "row": 552,
+  "LineKey": "7e5b0192-73212-PK000118-001",
+  "amount": 2990.0,
+  "site": "Grove Road Reserve; Logan Gardens; Shailer Park; Towns Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 553,
+  "LineKey": "cde9e461-73212-PK000292-001",
+  "amount": 2985.0,
+  "site": "Cecil Clark Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 554,
+  "LineKey": "2ef421fa-73212-PK000118-001",
+  "amount": 2985.0,
+  "site": "Doug Larsen Park; Shailer Park; Sturdee Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 555,
+  "LineKey": "e9047c39-73212-PK000022-001",
+  "amount": 2980.0,
+  "site": "Glen Logan Lakes Park; Rotary Park; Spearwood Park; Village Green",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. VILLAGE GREEN LOGAN VILLAGE - CR 3496377 - JESSICA BURKE - Secured loose mirror to wall = $420.00. 2. WATERFORD PARK - CR 3495646 - JESSICA BURKE - Repaired 2 post and rail sets = $380.00. 3. GLEN "
+ },
+ {
+  "row": 556,
+  "LineKey": "860211cf-73212-PK000022-001",
+  "amount": 2960.0,
+  "site": "Carinya Park; Crestmead Park; Ken May Park; Thorsbourne Park; Village Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. KEN MAY PARK - CR 3418004 - ALICIA CARROLL - 29/9/23 - Straighten both legs on locking rail to enable rail to be locked = $250.00. 2. Returned to site to remove large notice board = $480.00. 3. LOG"
+ },
+ {
+  "row": 557,
+  "LineKey": "068e8149-73212-PK000022-001",
+  "amount": 2955.35,
+  "site": "Willow Rise Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "BLC QLD PTY LTD\n  Brisbane Landscape Construction\n\nClient Details:\n\nLogan City Council\n\nABN: 21 627 796 435\n\nAddress: 150 Wembley road,\n\nLogan Central, QLD 4114\n\n  Tax Invoice\nInvoice number: 001 269\n"
+ },
+ {
+  "row": 562,
+  "LineKey": "c60a8cfa-73123-PK000022-001",
+  "amount": 2920.0,
+  "site": "Alexander Clark Park; Homestead Park; Larry Storey Park; Riverdale Park; Shailer Park; Willow Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. WILLOW PARK WOODRIDGE - CR 3554907 - JESSICA BURKE Completed on 18/7/24 - Repaired post and rail set - replaced rail = $380.00 2. HOMESTEAD PARK SHAILER PARK - CR 3551167 - COREY STOOPS 22/7/24 - R"
+ },
+ {
+  "row": 563,
+  "LineKey": "c5245e4d-73212-PK000022-001",
+  "amount": 2910.0,
+  "site": "Darlington Parklands; Willow Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. OLIVER SPORTS COMPLEX - CR 3453891 - JESSICA BURKE - 22/12/23 - Inspected and measured up, collected materials required = $500.00. 2. DARLINGTON PARKLANDS - CR 3458769 - KAHN HELMS - 19/1/24 - Grin"
+ },
+ {
+  "row": 564,
+  "LineKey": "3247a506-73212-PK000022-001",
+  "amount": 2910.0,
+  "site": "Evergreen Park; Homestead Park; Jimboomba Park; Larry Storey Park; Outlook Drive Park; Tygum Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. LARRY STOREY PARK - CR 3386687 - KIM PRYCE - Replace 1 bin lock and service 2 other bin locks to working order = $290.00. 2. TYGUM PARK - CR 3397386 - RENE HARREMAN - Re-concrete dog bin into groun"
+ },
+ {
+  "row": 565,
+  "LineKey": "0bf63e8e-73212-PK000022-001",
+  "amount": 2900.0,
+  "site": "Federation Drive Reserve; Gavin Park; Skinners Park; Village Green",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Repaired loose fencing on DOLA = $380.00. 2. VILLAGE GREEN - CR 3406420 - ALICIA CARROLL = $380.00. 3. FEDERATION DRIVE RESERVE - CR 3400630 - ALICIA CARROLL - Completed on 17/8/23; Completed on 31"
+ },
+ {
+  "row": 566,
+  "LineKey": "988acd30-73123-PK000022-001",
+  "amount": 2900.0,
+  "site": "Alberta Park; Doug Larsen Park; Noffke Park; Riverdale Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. RIVERDALE PARK - CR 3610383 - JESSICA BURKE 13/11/2024 - Replace bollard (includes dump fees) = $580.00 2. ALBERTA PARK, WOLFFDENE - CR 3603537 - JESSICA BURKE Inspected job on 4/11/24, needed to r"
+ },
+ {
+  "row": 567,
+  "LineKey": "ee8b3f05-73212-PK000022-001",
+  "amount": 2890.0,
+  "site": "Eagleby Wetlands; Ewing Park; Herses Drainage Reserve; Rotary Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 568,
+  "LineKey": "cc8ea07e-73212-PK000022-001",
+  "amount": 2890.0,
+  "site": "Alexander Clark Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Supply tip truck to deliver top soil to gazebo to remove trip hazard $750.00 = $750.00 2. Repair sign $380.00 = $380.00 3. Dig trench to allow water to drain from Asphalt carpark $350.00 = $350.00 "
+ },
+ {
+  "row": 569,
+  "LineKey": "1254dd47-73212-PK000412-001",
+  "amount": 2887.0,
+  "site": "Pebble Creek Parklands",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0049464                                                                                         ABN: 17-099-805-277\nTuesday, 15 August, 2023\n\n           Logan City Council               "
+ },
+ {
+  "row": 570,
+  "LineKey": "98959300-73212-PK000022-001",
+  "amount": 2880.0,
+  "site": "Larry Storey Park; Shailer Park; Skinners Park; Windaroo Lake Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 571,
+  "LineKey": "80e40b87-73212-PK000292-001",
+  "amount": 2880.0,
+  "site": "Logan River Parklands; Noyer Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 572,
+  "LineKey": "622a572d-73212-PK000118-001",
+  "amount": 2870.0,
+  "site": "Mabel Park; Riverdale Park; Shailer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "David Robinson                                                                                    TAX INVOICE\n\n    Landscaping Pty Ltd\n                                                                 "
+ },
+ {
+  "row": 573,
+  "LineKey": "7b0cecb8-73212-PK000022-001",
+  "amount": 2870.0,
+  "site": "Belyando Park; Mabel Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. BELYANDO PARK - CR 3545106 - JESSICA BURKE Inspected on 25/6/24 - Applied tape over sharp edges and made safe with barrier mesh = $350.00 2. 27/6/24 - Collected new panel, returned to site and inst"
+ },
+ {
+  "row": 574,
+  "LineKey": "88d003f7-73212-PK000415-001",
+  "amount": 2866.78,
+  "site": "Woodlands District Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n                                                PO Box 126                                                                     Tax Invoice\n                                    "
+ },
+ {
+  "row": 575,
+  "LineKey": "109ea8d1-73212-PK000022-001",
+  "amount": 2860.0,
+  "site": "Berrinba Wetlands Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 1 March 2024 1.00 0.00 0.00 = $0.00 2. Berrinba Wetlands Park, Browns Plains 1.00 0.00 0.00 = $0.00 3. Supply labour and equipment to sand, prime and patch 1.00 2,860.00 10% 2,860.00 = $2,860.00"
+ },
+ {
+  "row": 577,
+  "LineKey": "0c3e521c-73212-PK000022-001",
+  "amount": 2840.0,
+  "site": "Alexander Clark Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 5/10/23 - Supply water truck to pressure clean bench seat $450.00 = $450.00 2. 6/10/23 - Inspected and made safe $250.00 = $250.00 3. Returned and replaced damaged hinges and reattached gate $440.0"
+ },
+ {
+  "row": 584,
+  "LineKey": "e82170b3-73212-PK000118-001",
+  "amount": 2790.0,
+  "site": "Gould Adams Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. GOULD ADAMS PARK - CR 3415405 - RENE HARREMAN - 21/9/23 - Inspect and arrange materials = $250.00. 2. 25th, 26th & 27th - Remove broken tiles, bench top, framing and front panel. Fabricate new fram"
+ },
+ {
+  "row": 585,
+  "LineKey": "0ce09145-73212-PK000118-001",
+  "amount": 2790.0,
+  "site": "Albert River Park; Albert Valley Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. BIRNAM RANGE RESERVE - CR 3408948 - MELINA TURPIN - Supply and install post and rail set = $950.00. 2. 15/9/23 Repaired seat = $250.00. 3. ALBERT VALLEY PARK - CR 3409460 - MELINA TURPIN - Inspecte"
+ },
+ {
+  "row": 588,
+  "LineKey": "d84468fa-73212-PK000022-001",
+  "amount": 2730.0,
+  "site": "Evergreen Park; Lowe Oval; Noyer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. NOYER PARK, MT WARREN PARK - CR 3495382 - JESSICA BURKE - Supply excavator and tipper to remove and reinstall section of concrete pathway = $1040.00. 2. LOWE OVAL, UNDERWOOD - CR 3503142 - JESSICA "
+ },
+ {
+  "row": 589,
+  "LineKey": "53953ac0-73212-PK000118-001",
+  "amount": 2730.0,
+  "site": "Cornubia Forest Park; Eagleby Wetlands; Glenlogan Lakes Park; Larry Storey Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. EAGLEBY WETLANDS - CR 3388614 - ALICIA CARROLL - Inspected on 21/7/23 but 3 bollards installed by others; 28/7/23 - Repaired 2 post and rail sets; 31/8/23 - Replace 2 sign poles and one sign (colle"
+ },
+ {
+  "row": 590,
+  "LineKey": "2808043a-73212-PK000292-001",
+  "amount": 2720.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson TAX INVOICE Landscaping Pty Ltd ACN 060 727 942 15 Helios St, Shailer Park ABN 97 060 727 942 Telephone: (07) 3209 6141 Gold Card Licence No 05 8944 Facsimile: (07) 3806 3292 info@robin"
+ },
+ {
+  "row": 592,
+  "LineKey": "469b501f-73212-PK000118-001",
+  "amount": 2700.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson TAX INVOICE Landscaping Pty Ltd ACN 060 727 942 15 Helios St, Shailer Park ABN 97 060 727 942 Telephone: (07) 3209 6141 Gold Card Licence No 05 8944 Facsimile: (07) 3806 3292 info@robin"
+ },
+ {
+  "row": 610,
+  "LineKey": "4f06bffc-73212-PK000413-001",
+  "amount": 2600.0,
+  "site": "Homestead Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. (printed Amount-column row 1; the retained page text separates the Amount column from the job blocks, so the printed row association is not restatable - see the zero-amount job rows below) | - @ - "
+ },
+ {
+  "row": 611,
+  "LineKey": "d8803644-73123-PK000022-001",
+  "amount": 2600.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson  TAX INVOICE\n\n  Landscaping Pty Ltd\n  ACN 060 727 942  No. 11489\n  15 Helios St, Shailer Park  ABN 97 060 727 942\n  Telephone: (07) 3209 6141  Gold Card Licence No 05 8944\n  Facsimile: "
+ },
+ {
+  "row": 618,
+  "LineKey": "2c6bcec8-73212-PK000292-001",
+  "amount": 2563.66,
+  "site": "Ray Hackwood Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. CR# 3490606 Ray Hackwood Park, EAGLEBY - Completed 21.03.24 | - @ - = $0.00; 2. Replace 1 storm damaged sail as per existing using existing posts and fixtures | 1 @ $2,563.66 = $2,563.66; 3. All wi"
+ },
+ {
+  "row": 619,
+  "LineKey": "a4e7def8-73212-PK000412-001",
+  "amount": 2562.0,
+  "site": "Shaw Street Oval",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "ABN: 17-099-805-277Tax Invoice : 0049945 Thursday, 5 October, 2023 Logan City Council 150 Wembley Road Logan Central, QLD 4114 0041043JOB NO A/C CODE LOG002 ORDER NO 494163/3412864 Yarrabilba, Shaw St"
+ },
+ {
+  "row": 626,
+  "LineKey": "5e931944-73212-PK000118-001",
+  "amount": 2525.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson  TAX INVOICE\n\n  Landscaping Pty Ltd\n  ACN 060 727 942  No. 11263\n  15 Helios St, Shailer Park  ABN 97 060 727 942\n  Telephone: (07) 3209 6141  Gold Card Licence No 05 8944\n  Facsimile: "
+ },
+ {
+  "row": 690,
+  "LineKey": "3f7d6e4b-73212-PK000022-001",
+  "amount": 2350.0,
+  "site": "Alexander Clark Park; Belyando Park; Shailer Pioneer Park; Skinners Park; Springvale Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. SHAILER PIONEER PARK - CR 3542686 - JESSICA BURKE 21/6/24 - Repaired/reinstated bollard in car park = $380.00 2. SKINNERS PARK - CR 3543760 - COREY STOOPS 21/6/24 - Removed rubbish from pontoon dec"
+ },
+ {
+  "row": 721,
+  "LineKey": "1ec31423-73212-PK000415-001",
+  "amount": 2045.63,
+  "site": "Bellevue Park; Smith Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. HSTP Services | 8 @ $90.00 = $720.00. 2. Ozzie CLean Service, Bellevue Park | 1 @ $255.88 = $255.88. 3. James Smith Park repairs. Replacement of Pump from Clarification chamber to Pump out chamber."
+ },
+ {
+  "row": 837,
+  "LineKey": "f72f3caf-73212-PK000415-001",
+  "amount": 1958.0,
+  "site": "Larry Storey Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n  PO Box 126  Tax Invoice\n  Kingston QLD 4114\n  Admin@Harpleyservices.com.au  Date: 28/10/2024\n  (07) 3388 3745\n  Invoice No.: 00013880\n  A.B.N.  22 162 601 694  0421 213 216\n"
+ },
+ {
+  "row": 843,
+  "LineKey": "0998c869-7B532-PK000022-001",
+  "amount": 1710.0,
+  "site": "Skinners Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Skinners Park"
+ },
+ {
+  "row": 845,
+  "LineKey": "0998c869-7B532-PK000022-002",
+  "amount": 1710.0,
+  "site": "Skinners Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Skinners Park"
+ },
+ {
+  "row": 846,
+  "LineKey": "0998c869-7B532-PK000022-003",
+  "amount": 1710.0,
+  "site": "Skinners Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Skinners Park"
+ },
+ {
+  "row": 847,
+  "LineKey": "0998c869-7B532-PK000022-004",
+  "amount": 1710.0,
+  "site": "Skinners Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Skinners Park"
+ },
+ {
+  "row": 1080,
+  "LineKey": "644e08e1-73212-PK000415-001",
+  "amount": 1564.35,
+  "site": "Teviot Downs Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 27/9/23 - Jamie Nicholson Park | 1 @ $589.40 = $589.40. 2. 27/9/23 - Bradman St, Teviot Downs Park | 1 @ $974.95 = $974.95."
+ },
+ {
+  "row": 1093,
+  "LineKey": "8dbc9042-73212-PK000412-001",
+  "amount": 1761.25,
+  "site": "Underwood Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0052396  ABN: 17-099-805-277\nFriday, 12 July, 2024\n\n  Logan City Council  JOB NO  0041976\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584/3542278\n\nPriest"
+ },
+ {
+  "row": 1094,
+  "LineKey": "bffeddd6-73123-PK000022-001",
+  "amount": 1520.0,
+  "site": "Riedel Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Fortnightly Maintenance - Riedel Park (Ref: 32526) - Wash down boat ramp = $1,520.00."
+ },
+ {
+  "row": 1095,
+  "LineKey": "87697ff1-73123-PK000022-001",
+  "amount": 1520.0,
+  "site": "Logan River Parklands",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Fortnightly Maintenance - Logan River Parklands (Ref: 32527) - Wash down boat ramp = $1,520.00."
+ },
+ {
+  "row": 1126,
+  "LineKey": "8761983c-73212-PK000022-001",
+  "amount": 1690.0,
+  "site": "Shailer Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "David Robinson  TAX INVOICE\n\n  Landscaping Pty Ltd\n  ACN 060 727 942  No. 11404\n  15 Helios St, Shailer Park  ABN 97 060 727 942\n  Telephone: (07) 3209 6141  Gold Card Licence No 05 8944\n  Facsimile: "
+ },
+ {
+  "row": 1131,
+  "LineKey": "67937285-73212-PK000412-001",
+  "amount": 1674.0,
+  "site": "Jimboomba Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0053764  ABN: 17-099-805-277\nFriday, 6 December, 2024\n\n  Logan City Council  JOB NO  0041781\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584\n\nJimboomba, "
+ },
+ {
+  "row": 1199,
+  "LineKey": "7c1091dd-73212-PK000118-001",
+  "amount": 1505.35,
+  "site": "Grove Road Reserve",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "BLC QLD PTY LTD\n  Brisbane Landscape Construction\n\nClient Details:\n\nLogan City Council\n\nABN: 21 627 796 435\n\nAddress: 150 Wembley road,\n\nLogan Central, QLD 4114\n\n  Tax Invoice\nInvoice number: 001 263\n"
+ },
+ {
+  "row": 1250,
+  "LineKey": "62f1d30b-73212-PK000412-001",
+  "amount": 1445.0,
+  "site": "Logan River Parklands",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0054826  ABN: 17-099-805-277\nFriday, 4 April, 2025\n\n  Logan City Council  JOB NO  0042865\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584\n\nBeenleigh, Log"
+ },
+ {
+  "row": 1260,
+  "LineKey": "0bfb0a8e-73212-PK000412-001",
+  "amount": 1423.5,
+  "site": "Doug Larsen Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0054823  ABN: 17-099-805-277\nFriday, 4 April, 2025\n\n  Logan City Council  JOB NO  0042864\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584\n\nBeenleigh, Dou"
+ },
+ {
+  "row": 1275,
+  "LineKey": "029bb66e-73212-PK000022-001",
+  "amount": 1360.5,
+  "site": "Larry Storey Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "BLC QLD PTY LTD\n  Brisbane Landscape Construction\n\nClient Details:\n\nLogan City Council\n\nABN: 21 627 796 435\n\nAddress: 150 Wembley road,\n\nLogan Central, QLD 4114\n\n  Tax Invoice\nInvoice number: 001 285\n"
+ },
+ {
+  "row": 1279,
+  "LineKey": "3cb6e09d-73212-PK000412-001",
+  "amount": 1346.0,
+  "site": "Colville Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0053590  ABN: 17-099-805-277\nThursday, 21 November, 2024\n\n  Logan City Council  JOB NO  0042248\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584/3577668\n\n"
+ },
+ {
+  "row": 1282,
+  "LineKey": "1b20b614-73212-PK000412-001",
+  "amount": 1338.0,
+  "site": "Daybreak Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0055371  ABN: 17-099-805-277\nFriday, 30 May, 2025\n\n  Logan City Council  JOB NO  0043065\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584/3699555\n\nYarrabi"
+ },
+ {
+  "row": 1295,
+  "LineKey": "57d80dfc-73212-PK000412-001",
+  "amount": 1279.0,
+  "site": "Sturdee Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0055364  ABN: 17-099-805-277\nFriday, 30 May, 2025\n\n  Logan City Council  JOB NO  0043039\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584/3687371\n\nLoganle"
+ },
+ {
+  "row": 1296,
+  "LineKey": "c4022d73-73123-PK000417-01",
+  "amount": 1279.0,
+  "site": "Flagstone Regional Park; Rotary Park; Village Green",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Rotary Park, Jimboomba 4280 - Fortnightly high pressure clean of park assets ($250) | 2. Flagstone Regional Park, Flagstone 4280 - Fortnightly high pressure clean of park assets ($448) | 3. Teviot "
+ },
+ {
+  "row": 1314,
+  "LineKey": "f3725d6a-73212-PK000413-001",
+  "amount": 1230.0,
+  "site": "Sanctuary Parklands; Woodlands District Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. SANCTUARY PARKLANDS, WATERFORD - CR 3552182 - JESSICA BURKE 12/7/24 - Remove old kick rail and dump. Replace with dressed hardwood timber kick rail = $550.00 2. WOODLANDS DISTRICT PARK - CR 3549857"
+ },
+ {
+  "row": 1537,
+  "LineKey": "4bfeab92-73212-PK000022-001",
+  "amount": 10470.0,
+  "site": "Hanlon Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 3479933 - Quote No. 656510 - Hanlon Park (Ref: 32333) - Soft fall pit drainage Completed - 10.04.2024 Supply DBYD and services location. Remove and dispose of 15 m3 of soft fall bark Supply and ins"
+ },
+ {
+  "row": 1550,
+  "LineKey": "0575e38b-73212-PK000022-001",
+  "amount": 1190.0,
+  "site": "Jimboomba Park; Mabel Park; Tudor Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. TUDOR PARK - CR 3539486 - CAITLIN FRANKCOM Inspected on 18/6/24 and organised materials = $250.00 2. 27/6/24 - Replaced damaged downpipe = $310.00 3. MABEL PARK - CR 3548925 - CAITLIN FRANKCOM Insp"
+ },
+ {
+  "row": 1551,
+  "LineKey": "3bac1533-73212-PK000413-001",
+  "amount": 1190.0,
+  "site": "Doug Larsen Park; Retreat Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. DOUG LARSEN PARK - CR 3541592 - JESSICA BURKE 18/6/24 - Replaced missing pipe rail on fence at bridge = $450.00 2. RETREAT PARK - CR 3535402 - RENE HARREMAN Inspected on 5/6/24 and organised materi"
+ },
+ {
+  "row": 1698,
+  "LineKey": "bb8ff7b6-73212-PK000412-001",
+  "amount": 1096.0,
+  "site": "Larry Storey Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0052287  ABN: 17-099-805-277\nTuesday, 2 July, 2024\n\n  Logan City Council  JOB NO  0041855\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  494163/35264240\n\nWater"
+ },
+ {
+  "row": 1699,
+  "LineKey": "91d13559-73212-PK000412-001",
+  "amount": 1095.5,
+  "site": "Sturdee Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0053189  ABN: 17-099-805-277\nTuesday, 8 October, 2024\n\n  Logan City Council  JOB NO  0042194\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584/3568438\n\nLog"
+ },
+ {
+  "row": 1700,
+  "LineKey": "3618b28f-73212-PK000022-001",
+  "amount": 1095.0,
+  "site": "Larry Storey Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "BLC QLD PTY LTD\n  Brisbane Landscape Construction\n\nClient Details:\n\nLogan City Council\n\nABN: 21 627 796 435\n\nAddress: 150 Wembley road,\n\nLogan Central, QLD 4114\n\n  Tax Invoice\nInvoice number: 001 294\n"
+ },
+ {
+  "row": 1732,
+  "LineKey": "34a274d7-73212-PK000022-001",
+  "amount": 1117.0,
+  "site": "Edens Parkland",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Edens Parklands - Path pressure clean | Works 100% Complete | PO495370/PK000022/CR3506710 = $1,117.00."
+ },
+ {
+  "row": 1804,
+  "LineKey": "69bf4e20-73212-PK000412-001",
+  "amount": 1012.0,
+  "site": "Woodlands District Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Tax Invoice : 0054825  ABN: 17-099-805-277\nFriday, 4 April, 2025\n\n  Logan City Council  JOB NO  0042867\n  150 Wembley Road  A/C CODE  LOG002\n  Logan Central, QLD 4114  ORDER NO  702584\n\nWaterford, Woo"
+ },
+ {
+  "row": 2081,
+  "LineKey": "e0a9ac73-73212-PK000022-001",
+  "amount": 846.0,
+  "site": "Arlington Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. Darlington park picnic table reinstatement and removal of graffiti. = $846.00."
+ },
+ {
+  "row": 2199,
+  "LineKey": "cb358b8f-73212-PK000415-001",
+  "amount": 990.0,
+  "site": "Boronia Bushland; Brushwood Park; Jimboomba Park; Lincoln Green; Noyer Park; Skinners Park; Smith Park; Spring Mountain Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n  PO Box 126  Tax Invoice\n  Kingston QLD 4114\n  Date: 11/02/2025\nA.B.N.  22 162 601 694  (07) 3388 3745\n  Invoice No.: 00014050\n  0421 213 216\nA.C.N.  162 601 694\n  Due Date: "
+ },
+ {
+  "row": 2218,
+  "LineKey": "942a3fa5-73212-PK000118-001",
+  "amount": 980.0,
+  "site": "Alberta Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. ALBERTA PARK - CR 3543919 - COREY STOOPS Inspected on 27/6/24 and organised materials, picked up plywood sheeting = $250.00 2. 2/7/24 - Supply and install 2 x plywood sheets to entry of toilet bloc"
+ },
+ {
+  "row": 2368,
+  "LineKey": "d70a3543-73212-PK000022-001",
+  "amount": 6469.8,
+  "site": "Powell Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 3478055 - Powell Park (Ref: 32031) Completed - 15.02.2024 Softfall dig out - remove weeds/top up softfall = $6469.80."
+ },
+ {
+  "row": 2937,
+  "LineKey": "1c551d90-73212-PK000022-001",
+  "amount": 651.05,
+  "site": "View Park",
+  "basis": "Sighted invoice site (printed)",
+  "source_col": 106,
+  "source_text": "Pineview Park, Logan Village"
+ },
+ {
+  "row": 3339,
+  "LineKey": "7bcff48b-73212-PK000022-001",
+  "amount": 4547.45,
+  "site": "Exilis Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 3450819 - Exilis Park (Ref: 31858) Completed - 22/12/2023 Replace path section 3Mx2M = $4547.45."
+ },
+ {
+  "row": 3860,
+  "LineKey": "54abb810-73212-PK000022-001",
+  "amount": 37497.0,
+  "site": "Belmore Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 3407955 - Quote No. 656281 - Belmore Park/Priest Gully Park (Ref: 31689) - Concrete Repairs Saw cut 52 m of concrete footpath Remove and dispose of concrete. Supply and install barricades around cu"
+ },
+ {
+  "row": 5300,
+  "LineKey": "dbfd342c-73212-PK000022-001",
+  "amount": 4771.12,
+  "site": "Underwood Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 3385778 - Underwood Park (Ref: 31310) Completed - 01/08/2023 Replace 10 x damaged post and rails = $4771.12."
+ },
+ {
+  "row": 5949,
+  "LineKey": "e7d55c81-73111-PK000415-001",
+  "amount": 4006.25,
+  "site": "Logan River Parklands",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 11/4/23 - Logan River Parklands ($1063.05) | 2. 20/4/23 - Jamie Nicholson Park ($680.8) | 3. 20/4/23 - Glenlogan Lakes ($504.8) | 4. 20/4/23 - Paynes Bridge ($768.8) | 5. 23/4/23 - Bradman St ($988"
+ },
+ {
+  "row": 5969,
+  "LineKey": "a374c20e-73111-PK000415-001",
+  "amount": 5287.8,
+  "site": "Glen Logan Lakes Park; Jimboomba Park; Teviot Downs Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 22-6-23 Teviot Downs Park ($1037.65) | 2. 22-6-23 Jamie Nicholson Park ($1037.65) | 3. 22-6-23 Paynes Bridge Park ($1037.65) | 4. 22-6-23 Glen Logan Lakes Park ($1037.65) | 5. 29-6-23 Jimboomba Par"
+ },
+ {
+  "row": 5972,
+  "LineKey": "5ff66c1b-73111-PK000415-001",
+  "amount": 2772.0,
+  "site": "Brushwood Park; Lagoon Park; Lavelle Park; Peppertree Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 28/4/23 - Brushwood Park ($956) | 2. 27/4/23 - Tully Memorial Park ($401) | 3. 5/5/23 - Lavelle Park ($386) | 4. 5/5/23 - Peppertree Park ($471) | 5. 23/6/23 - Lagoon Park Spring Mountain ($352) | "
+ },
+ {
+  "row": 6878,
+  "LineKey": "ef53036a-73212-PK000415-001",
+  "amount": 16932.94,
+  "site": "Hugh Muntz Park; Pioneer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 2-4-25 - Pioneer Park | 1 @ $1,336.50 = $1,336.50. 2. 2-4-25 - Glen Logan Lakes | 1 @ $1,336.50 = $1,336.50. 3. 3-4-25 - Flindersia Park | 1 @ $3,173.50 = $3,173.50. 4. 10-4-25 - Pioneer Park | 1 @"
+ },
+ {
+  "row": 7451,
+  "LineKey": "20f1aae9-73123-PK000022-001",
+  "amount": 8050.0,
+  "site": "Alexander Clark Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Rene Harreman\n PAR/335L/2023\n PK000022\n\n Quoted works\n\n Alexander Clark Park (Ref: 33749) - Pontoon Repairs\n\n Completed - 02.04.2025\n Quote No. 657098  5,770.00\n Remove gangway to pontoon.\n Repair, an"
+ },
+ {
+  "row": 7553,
+  "LineKey": "12c92b62-73212-PK000415-001",
+  "amount": 4546.17,
+  "site": "Hubner Park; Lincoln Green Park; Pioneer Park; Skinners Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 14/2/25 - Skinners Park - 3,000 L | 1 @ $1,006.50 = $1,006.50. 2. 14/2/25 - Lincoln Green Park - 2,500 L | 1 @ $753.50 = $753.50. 3. 14/2/25 - Hubner Park - 2,500 L | 1 @ $506.00 = $506.00. 4. 21/2"
+ },
+ {
+  "row": 7909,
+  "LineKey": "c4763a11-73123-PK000412-001",
+  "amount": 6241.8,
+  "site": "Brushwood Park; Demeio Park; Riverdale Park; Rotary Park; Tygum Park; Woodlands Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 112,
+  "source_text": "Work Requested: Attend site to Remove and then reinstate BBQ's From listed Parks\n\nRemove all Control boxes/ BBQ plates/ Isolate supply at Switchboard with lockout. each BBQ Needs to be numbered to\nmat"
+ },
+ {
+  "row": 7967,
+  "LineKey": "9e1c5381-73312-PK000022-001",
+  "amount": 139.21,
+  "site": "Shailer Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "32 TURILL STSHAILER PARK QLD 4128-Account number A-8BC30EF0-31208388652"
+ },
+ {
+  "row": 7970,
+  "LineKey": "3842d23a-73312-PK000022-001",
+  "amount": 138.62,
+  "site": "Shailer Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "32 TURILL STSHAILER PARK QLD 4128-31208388652-A-8BC30EF0"
+ },
+ {
+  "row": 8954,
+  "LineKey": "d9b5e9ac-73212-PK000415-001",
+  "amount": 5879.5,
+  "site": "Pioneer Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 10/12/24 - Pioneer Park, Woodhill | 1 @ $1,336.50 = $1,336.50. 2. 11/12/24 - Flindersia Park, | 1 @ $2,876.50 = $2,876.50. 3. 31/12/24 - Glen Logan Lakes | 1 @ $1,666.50 = $1,666.50."
+ },
+ {
+  "row": 9338,
+  "LineKey": "eae09720-73212-PK000415-001",
+  "amount": 7854.66,
+  "site": "Pioneer Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 20/11/24 - Flindersia Park 20,800 L | 1 @ $2,964.50 = $2,964.50. 2. 20/11/24 - Lions Riverside (Paynes Bridge) 8,000 L | 1 @ $1,724.25 = $1,724.25. 3. 20/11/24 - Richard Wilson 9,556 L | 1 @ $1,719"
+ },
+ {
+  "row": 10102,
+  "LineKey": "b67c9084-73212-PK000415-001",
+  "amount": 3387.0,
+  "site": "Bellevue Park; Brushwood Park; Lagoon Park; Lavelle Park; Teviot Downs Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 11/10/24 - Spring mountain Drive Lagoon Park | 1 @ $110.00 = $110.00. 2. 11/10/24 - Pepper tree Park, Mundoolun | 1 @ $110.00 = $110.00. 3. 11/10/24 - Tully Memorial Top | 1 @ $110.00 = $110.00. 4."
+ },
+ {
+  "row": 10103,
+  "LineKey": "a373927b-73212-PK000415-001",
+  "amount": 2420.09,
+  "site": "Pioneer Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 30/10/24 - Glen Logan Lake Park - 5,000 L | 1 @ $1,226.50 = $1,226.50. 2. 30/10/24 - Pioneer Park - 4,700 L | 1 @ $1,193.59 = $1,193.59."
+ },
+ {
+  "row": 11011,
+  "LineKey": "58c9f37e-73123-PK000022-001",
+  "amount": 15450.0,
+  "site": "Springwood Conservation Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. SPRINGWOOD CONSERVATION PARK - BRIDGE REPAIRS Completed on 4/10/2024 Refer our quote no. 9743 = $15,450.00."
+ },
+ {
+  "row": 11545,
+  "LineKey": "7b2c7b4a-73212-PK000415-001",
+  "amount": 7319.13,
+  "site": "Logan River Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 13/8/24 - Logan River Parkland's - Pump out for pump | 1 @ $763.13 = $763.13. 2. replacement 15/8/24 - Jamie Nicholson Park | 1 @ $1,006.50 = $1,006.50. 3. 16/8/24 - Flindersia Park 20,000L | 1 @ $"
+ },
+ {
+  "row": 12315,
+  "LineKey": "32496a9c-73212-PK000022-001",
+  "amount": 4741.0,
+  "site": "Brushwood Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. 8/7/24 - Flindersia - 10,000 L | 1 @ $1,768.25 = $1,768.25. 2. 8/7/24 - Jamie Nicholson - 7,000 L | 1 @ $1,438.25 = $1,438.25. 3. 11/7/24 - Brushwood Park - HSTP & Septic - 6,500 L | 1 @ $1,534.50 "
+ },
+ {
+  "row": 12324,
+  "LineKey": "68def12e-7B531-PK000493-001",
+  "amount": 22.0,
+  "site": "Underwood Park",
+  "basis": "Src User Fld 2",
+  "source_col": 80,
+  "source_text": "Underwood Park"
+ },
+ {
+  "row": 13273,
+  "LineKey": "7129b1cd-73212-PK000022-001",
+  "amount": 2164.98,
+  "site": "Spring Mountain Reserve",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n\n  T & H LEVAI PTY LTD | ABN 65 100 395 480\n\n41 Industrial Ave\nLOGAN VILLAGE QLD 4207\nAUSTRALIA\nOffice: (07) 3803 0032\nEmail: admin@thlevai.com\n\nBilling:  TAX INVOICE  INV-35372\nLogan City"
+ },
+ {
+  "row": 13278,
+  "LineKey": "4f873645-73212-PK000022-001",
+  "amount": 1289.12,
+  "site": "Isle Of Ely Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "TAX INVOICE\n\n  T & H LEVAI PTY LTD | ABN 65 100 395 480\n\n41 Industrial Ave\nLOGAN VILLAGE QLD 4207\nAUSTRALIA\nOffice: (07) 3803 0032\nEmail: admin@thlevai.com\n\nBilling:  TAX INVOICE  INV-35381\nLogan City"
+ },
+ {
+  "row": 13366,
+  "LineKey": "9c33d222-73212-PK000415-01",
+  "amount": 12914.55,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 12/06/26- Pioneer Park - 10,000 L ($1555.95) | 2. 10/06/26- Jamie Nicholson - 7,000 L ($1225.95) | 3. 25/06/26- Richard Wilson Park - 5,500 L ($1284.8) | 4. 01/06/26- Richard Wilson Park - 5,000 L "
+ },
+ {
+  "row": 14087,
+  "LineKey": "7556f1f1-73212-PK000415-01",
+  "amount": 12461.91,
+  "site": "Pioneer Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 27/05/26 Tully Memorial park $1,117.33 = $1,117.33. 2. 20/05/26 Pioneer Park $1,559.80 = $1,559.80. 3. 18/05/26 Pioneer Park $1,572.18 = $1,572.18. 4. 14/05/26 Glen Logan Lakes $447.70 = $447.70. 5"
+ },
+ {
+  "row": 14788,
+  "LineKey": "d0f434b2-73212-PK000415-01",
+  "amount": 10539.27,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 27/04/26 Flindersea Park $949.03 = $949.03. 2. 10/04/26 Pioneer Park $729.99 = $729.99. 3. 27/04/26 Pioneer Park $674.03 = $674.03. 4. 10/4/26 Paynes Bridge $839.99 = $839.99. 5. 10/4/26 Jamie Nich"
+ },
+ {
+  "row": 14900,
+  "LineKey": "605c6931-73212-PK000415-01",
+  "amount": 10991.5,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 24/03/26 Pioneer Park $1,487.75 = $1,487.75. 2. 30/03/26 Glen Logan Lakes $783.75 = $783.75. 3. 2/03/26 Paynes Bridge $1,498.75 = $1,498.75. 4. 16/03/26 Jamie Nicholson $1,578.25 = $1,578.25. 5. 3/"
+ },
+ {
+  "row": 15283,
+  "LineKey": "9d02d99b-73212-PK000415-01",
+  "amount": 10903.75,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 2-2-26 Flindersia Park $800.25 = $800.25. 2. 2-2-26 Richard Wilson Park $525.25 = $525.25. 3. 4-2-26 Mundoolun Community $838.75 = $838.75. 4. 4-2-26 Pioneer Park $1,309.00 = $1,309.00. 5. 17-2-26 "
+ },
+ {
+  "row": 15377,
+  "LineKey": "d1b107a3-73123-PK000022-01",
+  "amount": 37849.56,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play | 1 @ $5,512.58 = $5,512.58 [No month line printed on INV-5278 (unlike INV-4983, \"September 2025\"); \"February 2026\" removed as not printed, corrected to the printed form on"
+ },
+ {
+  "row": 15729,
+  "LineKey": "51093914-73212-PK000415-01",
+  "amount": 11176.55,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 30/12/25 Pioneer Park $1,498.75 = $1,498.75. 2. 5/1/26 Glen Logan Lakes $1,003.75 = $1,003.75. 3. 6/1/26 Flindersia $948.75 = $948.75. 4. 9/1/26 Richard Wilson Park $1,108.25 = $1,108.25. 5. 19/1/2"
+ },
+ {
+  "row": 17063,
+  "LineKey": "c993e9e6-73212-PK000415-01",
+  "amount": 12218.25,
+  "site": "Pioneer Park; Tully Memorial Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 3-12-25 Mundoolun Comminuty Park $1,608.75 = $1,608.75. 2. 5-12-25 Flindersia Park $1,075.25 = $1,075.25. 3. 5-12-25 Pioneer Park $1,515.25 = $1,515.25. 4. 8-12-25 Paynes Bridge $1,553.75 = $1,553."
+ },
+ {
+  "row": 17225,
+  "LineKey": "389c1a09-73212-PK000415-01",
+  "amount": 8060.26,
+  "site": "Glen Logan Lakes Park; Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 04-11-25 Glen Logan Lakes park $588.50 = $588.50. 2. 04-11-25 Paynes Bridge Park $533.50 = $533.50. 3. 10-11-25 Mundoolun Community Park $1,405.25 = $1,405.25. 4. 10-11-25 Flindersia Park $1,295.25"
+ },
+ {
+  "row": 17226,
+  "LineKey": "fc0b2459-73212-PK000415-01",
+  "amount": 2725.0,
+  "site": "Anzac Park",
+  "basis": "Sighted invoice works carried out (printed)",
+  "source_col": 112,
+  "source_text": "Harpley Services Pty Ltd\n  PO Box 126  Tax Invoice\n  Kingston QLD 4114\n  Date: 10/12/2025\n  Admin@Harpleyservices.com.au\n  Invoice No.: 00014639\n  A.B.N.  22 162 601 694  0421 213 216\n  Due Date: 24/1"
+ },
+ {
+  "row": 17524,
+  "LineKey": "b60ea8cb-73212-PK000415-01",
+  "amount": 13709.85,
+  "site": "Doug Larsen Park; Pioneer Park; Spring Mountain Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 7/10/25 Paynes Bridge Park $976.25 = $976.25. 2. 7/10/25 Flindersia Park $2,904.00 = $2,904.00. 3. 14/10/25 Doug Larsen Park $1,498.75 = $1,498.75. 4. 15/10/25 Spring mountain Park $1,621.95 = $1,6"
+ },
+ {
+  "row": 17784,
+  "LineKey": "0473ee10-73212-PK000415-01",
+  "amount": 7111.75,
+  "site": "Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 12/9/25 Flindersia Park $1,685.00 = $1,685.00. 2. 19/9/25 Richard wilson Park $1,539.25 = $1,539.25. 3. 26/9/25 Mundoolun Community Park $1,212.00 = $1,212.00. 4. 26/9/25 Flindersia Park $1,507.50 "
+ },
+ {
+  "row": 18318,
+  "LineKey": "59989072-73123-PK000022-01",
+  "amount": 36364.06,
+  "site": "Alexander Park; Darlington Parklands; Logan Gardens",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. Logan Gardens Water Play - September 2025 | 1 @ $5,512.58 = $5,512.58 2. Logan Gardens Chlorine | 11 @ $59.90 = $658.90 3. Hydrochloric Acid - Logan Gardens | 3 @ $35.00 = $105.00 4. Sodium Bicarb "
+ },
+ {
+  "row": 18425,
+  "LineKey": "18c16ca7-73212-PK000415-01",
+  "amount": 10057.85,
+  "site": "Hugh Muntz Park; Pioneer Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 02-07-25 Pioneer Park $1,006.50 = $1,006.50. 2. 21-07-25 Mundoolun Community Park $1,776.50 = $1,776.50. 3. 21-07-25 Pioneer Park $1,776.50 = $1,776.50. 4. 25-07-25 Flindersia Park $2,362.25 = $2,3"
+ },
+ {
+  "row": 18989,
+  "LineKey": "7283603b-73212-PK000415-01",
+  "amount": 11981.75,
+  "site": "Hugh Muntz Park; Pioneer Park; Richard Wilson Park",
+  "basis": "Multiple sites named (not allocated)",
+  "source_col": 111,
+  "source_text": "1. 02/06/25 Hugh Muntz Park $3,206.50 = $3,206.50. 2. 05/06/25 Flindersia Park $2,868.25 = $2,868.25. 3. 09/06/25 Mundoolun Community Park $1,787.50 = $1,787.50. 4. 09/06/25 Hugh Muntz Park $896.50 = "
+ },
+ {
+  "row": 19873,
+  "LineKey": "51dfb19c-7B114-PK000092-24",
+  "amount": 1372.5,
+  "site": "Marsden Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "2027-1 - Internal Rates - S07 - 9666165-177 Chambers Flat Road-Marsden Parks Depot"
+ },
+ {
+  "row": 20221,
+  "LineKey": "51dfb19c-7B112-PK000092-420",
+  "amount": 342.0,
+  "site": "Marsden Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "2027-1 - Internal Rates - S07 - 9666165-177 Chambers Flat Road-Marsden Parks Depot"
+ },
+ {
+  "row": 20611,
+  "LineKey": "c3d4004e-73123-PK000442-01",
+  "amount": 1350.0,
+  "site": "Doug Larsen Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. CST - Doug Larsen Park - Beenleigh (Ref: 33527) ($0) | 2. Carry out maintenace and inspection as per report 16.07.2026 ($1350)"
+ },
+ {
+  "row": 20699,
+  "LineKey": "51dfb19c-73422-PK000092-316",
+  "amount": 17.65,
+  "site": "Sanctuary Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "2027-1 - Internal Rates - S07 - 1108366-109-121 Sanctuary Parkway"
+ },
+ {
+  "row": 21045,
+  "LineKey": "51dfb19c-73422-PK000092-662",
+  "amount": 523.0,
+  "site": "Marsden Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "2027-1 - Internal Rates - S07 - 9666165-177 Chambers Flat Road-Marsden Parks Depot"
+ },
+ {
+  "row": 21151,
+  "LineKey": "af2d27f2-73123-PK000022-01",
+  "amount": 812.46,
+  "site": "Underwood Park",
+  "basis": "Sighted invoice line items (printed)",
+  "source_col": 111,
+  "source_text": "1. MTN - Underwood Park - Priestdale (Ref: 33507) ($0) | 2. Chain connection,hardware ($180) | 3. Maintenance Labour ($632.46)"
+ },
+ {
+  "row": 21282,
+  "LineKey": "51dfb19c-7B115-PK000092-170",
+  "amount": 2632.0,
+  "site": "Marsden Park",
+  "basis": "GL narration",
+  "source_col": 22,
+  "source_text": "2027-1 - Internal Rates - S07 - 9666165-177 Chambers Flat Road-Marsden Parks Depot"
+ }
+]
